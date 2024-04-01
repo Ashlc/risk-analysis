@@ -1,1001 +1,1001 @@
 Age Range,Employment Status,Intention,Education Level,Credit History,Debt Level,Debt-to-Income Ratio,Guarantor Status,Income,Risk Level
-18-25,Self-Employed,Buy a house,Postgraduate,Unknown,None,0.02,None,Above $50K,Low
-26-35,Employed,Pay debts,High School,Unknown,None,0.01,None,Above $50K,Low
-18-25,Self-Employed,Pay debts,High School,Poor,Low,0.06,None,$15K to $35K,Low
-36-45,Employed,Invest in business,High School,Good,High,0.02,None,Above $50K,High
-26-35,Employed,Buy a house,Graduate,Poor,Low,0.0,None,$0 to $15K,Low
-56+,Employed,Pay debts,Postgraduate,Poor,Low,0.03,Adequate,$15K to $35K,Low
-26-35,Self-Employed,Invest in business,Graduate,Poor,High,0.02,Adequate,$35K to $50K,Moderate
-26-35,Self-Employed,Buy a house,Postgraduate,Good,High,0.0,None,Above $50K,High
-56+,Employed,Buy a house,Graduate,Good,Low,0.04,None,$35K to $50K,Low
-46-55,Employed,Pay debts,Postgraduate,Unknown,High,0.01,Adequate,Above $50K,High
-18-25,Self-Employed,Invest in business,High School,Poor,Low,0.1,None,$15K to $35K,Moderate
-36-45,Unemployed,Pay debts,High School,Good,Low,0.03,None,$35K to $50K,Low
-36-45,Unemployed,Buy a house,Postgraduate,Good,Low,0.0,Adequate,$0 to $15K,Low
-26-35,Self-Employed,Buy a house,Graduate,Unknown,High,0.0,None,$0 to $15K,Moderate
-36-45,Employed,Invest in business,High School,Unknown,None,0.05,None,$35K to $50K,Low
-36-45,Unemployed,Pay debts,High School,Poor,Low,0.03,None,$35K to $50K,Moderate
-18-25,Unemployed,Pay debts,High School,Good,None,0.0,Adequate,$0 to $15K,Low
-56+,Employed,Pay debts,Postgraduate,Poor,Low,0.09,Adequate,$15K to $35K,Moderate
-56+,Employed,Buy a house,Graduate,Good,None,0.01,Adequate,$35K to $50K,Low
-26-35,Self-Employed,Pay debts,Postgraduate,Good,Low,0.01,Adequate,$35K to $50K,Low
-36-45,Unemployed,Pay debts,High School,Poor,None,0.0,Adequate,$0 to $15K,Low
-36-45,Employed,Pay debts,Postgraduate,Good,Low,0.05,Adequate,$35K to $50K,Low
-36-45,Unemployed,Pay debts,Postgraduate,Unknown,Low,0.0,None,$0 to $15K,Low
-36-45,Employed,Invest in business,High School,Unknown,Low,0.07,Adequate,$15K to $35K,Low
-26-35,Unemployed,Pay debts,Postgraduate,Unknown,Low,0.08,None,$15K to $35K,Moderate
-26-35,Self-Employed,Buy a house,Postgraduate,Good,None,0.01,Adequate,Above $50K,Low
-18-25,Self-Employed,Pay debts,High School,Poor,None,0.01,Adequate,Above $50K,Low
-26-35,Employed,Invest in business,High School,Good,High,0.0,Adequate,$0 to $15K,Moderate
-26-35,Self-Employed,Pay debts,High School,Poor,High,0.05,Adequate,$15K to $35K,High
-26-35,Unemployed,Pay debts,Postgraduate,Unknown,Low,0.06,Adequate,$15K to $35K,Low
-46-55,Employed,Invest in business,Graduate,Poor,Low,0.03,Adequate,$15K to $35K,Low
-18-25,Unemployed,Pay debts,Postgraduate,Unknown,Low,0.02,Adequate,$35K to $50K,Moderate
-46-55,Unemployed,Invest in business,Graduate,Unknown,None,0.01,None,Above $50K,Low
-46-55,Employed,Invest in business,Graduate,Good,None,0.01,None,Above $50K,Low
-18-25,Employed,Buy a house,Graduate,Poor,Low,0.05,None,$15K to $35K,Low
-26-35,Unemployed,Buy a house,Postgraduate,Unknown,Low,0.0,None,$0 to $15K,Moderate
-18-25,Unemployed,Buy a house,Graduate,Poor,None,0.02,Adequate,Above $50K,Low
-26-35,Employed,Buy a house,Postgraduate,Good,High,0.02,None,$35K to $50K,Moderate
-26-35,Self-Employed,Pay debts,Postgraduate,Poor,None,0.07,None,$15K to $35K,Low
-46-55,Unemployed,Invest in business,High School,Good,High,0.01,Adequate,Above $50K,Moderate
-46-55,Employed,Buy a house,Postgraduate,Good,None,0.0,None,$0 to $15K,Low
-26-35,Employed,Pay debts,High School,Good,None,0.01,Adequate,Above $50K,Low
-18-25,Unemployed,Invest in business,Graduate,Good,None,0.01,Adequate,Above $50K,Moderate
-56+,Employed,Pay debts,Postgraduate,Good,Low,0.04,Adequate,$35K to $50K,Low
-46-55,Unemployed,Buy a house,Graduate,Poor,None,0.01,Adequate,Above $50K,Low
-18-25,Unemployed,Pay debts,High School,Poor,None,0.0,None,$35K to $50K,Low
-56+,Employed,Pay debts,High School,Poor,None,0.01,None,Above $50K,Low
-18-25,Unemployed,Pay debts,High School,Good,None,0.03,Adequate,Above $50K,Low
-56+,Employed,Pay debts,High School,Good,High,0.0,Adequate,$0 to $15K,Moderate
-26-35,Self-Employed,Invest in business,Graduate,Unknown,None,0.05,Adequate,$15K to $35K,Low
-18-25,Employed,Pay debts,High School,Good,High,0.0,Adequate,$0 to $15K,Moderate
-56+,Employed,Invest in business,Graduate,Good,High,0.0,None,$0 to $15K,High
-26-35,Self-Employed,Invest in business,High School,Good,High,0.0,None,$0 to $15K,High
-46-55,Unemployed,Buy a house,Graduate,Poor,None,0.08,None,$15K to $35K,Low
-18-25,Self-Employed,Buy a house,Graduate,Good,Low,0.02,Adequate,$35K to $50K,Low
-36-45,Unemployed,Pay debts,High School,Good,High,0.0,Adequate,$0 to $15K,Moderate
-56+,Employed,Pay debts,High School,Good,High,0.02,Adequate,$15K to $35K,Low
-36-45,Unemployed,Invest in business,High School,Unknown,High,0.06,Adequate,$15K to $35K,Moderate
-26-35,Self-Employed,Invest in business,Graduate,Poor,Low,0.02,Adequate,$35K to $50K,Moderate
-56+,Employed,Pay debts,High School,Unknown,None,0.02,Adequate,Above $50K,Low
-56+,Employed,Pay debts,High School,Good,Low,0.04,Adequate,$35K to $50K,Low
-46-55,Unemployed,Pay debts,Postgraduate,Good,None,0.0,None,$0 to $15K,Low
-18-25,Unemployed,Pay debts,High School,Poor,High,0.0,Adequate,$35K to $50K,High
-46-55,Employed,Pay debts,High School,Good,None,0.02,None,Above $50K,Low
-56+,Employed,Pay debts,Postgraduate,Unknown,None,0.02,None,Above $50K,Low
-36-45,Unemployed,Invest in business,High School,Poor,Low,0.02,Adequate,$15K to $35K,Moderate
-56+,Employed,Invest in business,High School,Unknown,None,0.07,None,$15K to $35K,Low
-36-45,Employed,Invest in business,Graduate,Good,High,0.04,Adequate,$15K to $35K,Moderate
-26-35,Self-Employed,Buy a house,Postgraduate,Good,None,0.01,Adequate,Above $50K,Moderate
-18-25,Employed,Buy a house,Postgraduate,Good,None,0.01,Adequate,Above $50K,Low
-56+,Employed,Pay debts,High School,Good,Low,0.0,None,$35K to $50K,Moderate
-18-25,Employed,Buy a house,Graduate,Good,None,0.07,None,$15K to $35K,Low
-56+,Employed,Invest in business,High School,Unknown,None,0.02,None,$35K to $50K,Low
-46-55,Employed,Buy a house,Graduate,Poor,None,0.01,Adequate,Above $50K,Low
-36-45,Unemployed,Invest in business,Graduate,Good,Low,0.03,Adequate,Above $50K,Low
-36-45,Unemployed,Pay debts,Postgraduate,Good,High,0.0,None,$0 to $15K,High
-56+,Employed,Pay debts,Postgraduate,Poor,None,0.02,Adequate,Above $50K,Low
-56+,Employed,Invest in business,High School,Good,High,0.0,None,$0 to $15K,Moderate
-18-25,Employed,Invest in business,High School,Poor,High,0.04,Adequate,$35K to $50K,High
-26-35,Self-Employed,Invest in business,Graduate,Good,None,0.02,Adequate,Above $50K,Moderate
-36-45,Employed,Invest in business,High School,Unknown,None,0.0,Adequate,$0 to $15K,Low
-18-25,Employed,Pay debts,Postgraduate,Unknown,Low,0.03,None,$15K to $35K,Low
-56+,Employed,Invest in business,Graduate,Poor,Low,0.0,Adequate,$0 to $15K,Low
-46-55,Unemployed,Pay debts,High School,Good,None,0.08,None,$15K to $35K,Low
-26-35,Unemployed,Pay debts,High School,Unknown,Low,0.0,Adequate,$0 to $15K,Low
-56+,Employed,Invest in business,Graduate,Poor,Low,0.0,Adequate,$0 to $15K,Low
-36-45,Unemployed,Pay debts,Postgraduate,Good,High,0.0,Adequate,$35K to $50K,Low
-36-45,Unemployed,Pay debts,High School,Unknown,High,0.0,None,$0 to $15K,High
-18-25,Unemployed,Invest in business,Graduate,Poor,High,0.0,None,$0 to $15K,High
-46-55,Employed,Invest in business,Graduate,Unknown,High,0.05,None,$15K to $35K,High
-56+,Employed,Pay debts,Postgraduate,Poor,None,0.0,None,Above $50K,Low
-36-45,Employed,Buy a house,Graduate,Poor,High,0.0,Adequate,$0 to $15K,High
-36-45,Unemployed,Buy a house,Postgraduate,Good,High,0.04,None,$35K to $50K,Moderate
-18-25,Employed,Pay debts,High School,Good,None,0.05,None,$15K to $35K,Low
-56+,Employed,Invest in business,High School,Poor,None,0.08,None,$15K to $35K,Low
-36-45,Employed,Pay debts,High School,Unknown,None,0.01,None,$15K to $35K,Low
-56+,Employed,Pay debts,High School,Good,High,0.0,Adequate,$0 to $15K,Moderate
-26-35,Unemployed,Pay debts,High School,Unknown,Low,0.0,None,$0 to $15K,Low
-36-45,Employed,Buy a house,Postgraduate,Unknown,Low,0.02,None,Above $50K,Moderate
-18-25,Unemployed,Pay debts,Postgraduate,Good,None,0.0,None,$35K to $50K,Low
-26-35,Unemployed,Invest in business,High School,Unknown,High,0.01,Adequate,$15K to $35K,Moderate
-56+,Employed,Invest in business,High School,Poor,High,0.0,None,$0 to $15K,Moderate
-46-55,Employed,Buy a house,Postgraduate,Good,Low,0.04,Adequate,$35K to $50K,Low
-18-25,Employed,Pay debts,Postgraduate,Good,None,0.05,Adequate,$35K to $50K,Low
-36-45,Employed,Invest in business,Graduate,Good,None,0.05,None,$35K to $50K,Low
-46-55,Employed,Buy a house,Graduate,Poor,None,0.03,Adequate,Above $50K,Low
-56+,Employed,Invest in business,High School,Good,None,0.0,None,$35K to $50K,Low
-46-55,Employed,Invest in business,High School,Unknown,High,0.01,None,$35K to $50K,High
-18-25,Self-Employed,Buy a house,Postgraduate,Good,None,0.09,Adequate,$15K to $35K,Moderate
-36-45,Employed,Invest in business,High School,Poor,High,0.04,Adequate,$15K to $35K,High
-18-25,Unemployed,Buy a house,Postgraduate,Good,High,0.03,None,$35K to $50K,High
-36-45,Unemployed,Buy a house,Graduate,Good,High,0.03,Adequate,$35K to $50K,Low
-56+,Employed,Buy a house,Graduate,Unknown,None,0.02,Adequate,$15K to $35K,Low
-26-35,Self-Employed,Pay debts,Postgraduate,Unknown,High,0.0,None,$0 to $15K,High
-36-45,Unemployed,Pay debts,High School,Poor,Low,0.04,Adequate,$15K to $35K,Moderate
-36-45,Unemployed,Pay debts,Postgraduate,Good,Low,0.08,Adequate,$15K to $35K,Low
-56+,Employed,Buy a house,Graduate,Good,High,0.02,Adequate,$35K to $50K,Low
-46-55,Employed,Invest in business,Graduate,Poor,High,0.03,None,Above $50K,Moderate
-56+,Employed,Pay debts,Postgraduate,Poor,None,0.04,Adequate,$35K to $50K,Low
-36-45,Employed,Pay debts,High School,Good,Low,0.05,Adequate,$35K to $50K,Low
-56+,Employed,Buy a house,Graduate,Unknown,High,0.09,None,$15K to $35K,High
-26-35,Unemployed,Pay debts,High School,Good,Low,0.01,None,Above $50K,Moderate
-18-25,Unemployed,Pay debts,High School,Poor,None,0.04,None,$35K to $50K,Low
-36-45,Unemployed,Buy a house,Postgraduate,Good,High,0.0,None,$0 to $15K,Moderate
-46-55,Unemployed,Buy a house,Graduate,Unknown,None,0.0,None,$35K to $50K,Low
-36-45,Unemployed,Buy a house,Postgraduate,Poor,None,0.01,Adequate,Above $50K,Low
-36-45,Employed,Buy a house,Postgraduate,Poor,Low,0.04,None,$35K to $50K,Low
-56+,Employed,Invest in business,High School,Good,High,0.09,Adequate,$15K to $35K,Low
-26-35,Employed,Pay debts,Postgraduate,Unknown,Low,0.0,Adequate,$15K to $35K,Moderate
-46-55,Unemployed,Invest in business,High School,Unknown,None,0.02,Adequate,$35K to $50K,Low
-36-45,Employed,Buy a house,Graduate,Poor,Low,0.0,Adequate,$0 to $15K,Moderate
-18-25,Employed,Buy a house,Graduate,Good,High,0.0,None,$0 to $15K,Moderate
-56+,Employed,Buy a house,Postgraduate,Poor,None,0.01,None,Above $50K,Low
-46-55,Employed,Invest in business,Graduate,Unknown,None,0.04,Adequate,$35K to $50K,Low
-46-55,Unemployed,Buy a house,Postgraduate,Good,Low,0.03,None,Above $50K,Moderate
-56+,Employed,Pay debts,High School,Unknown,None,0.04,Adequate,$35K to $50K,Low
-46-55,Unemployed,Pay debts,High School,Good,None,0.04,None,$35K to $50K,Low
-56+,Employed,Buy a house,Graduate,Poor,None,0.03,Adequate,Above $50K,Low
-56+,Employed,Invest in business,Graduate,Poor,High,0.0,None,$0 to $15K,High
-18-25,Employed,Buy a house,Graduate,Poor,High,0.0,Adequate,$0 to $15K,Moderate
-18-25,Self-Employed,Pay debts,Postgraduate,Good,None,0.04,Adequate,$15K to $35K,Low
-26-35,Unemployed,Buy a house,Graduate,Poor,None,0.02,None,Above $50K,Low
-46-55,Employed,Buy a house,Postgraduate,Good,High,0.0,None,$15K to $35K,High
-46-55,Unemployed,Pay debts,High School,Unknown,Low,0.01,None,$35K to $50K,Low
-26-35,Employed,Pay debts,Postgraduate,Unknown,High,0.0,Adequate,Above $50K,High
-18-25,Unemployed,Pay debts,Postgraduate,Poor,None,0.01,Adequate,$35K to $50K,Low
-46-55,Employed,Pay debts,Postgraduate,Unknown,Low,0.04,None,$35K to $50K,Moderate
-36-45,Employed,Buy a house,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,High
-18-25,Unemployed,Buy a house,Graduate,Unknown,None,0.03,Adequate,Above $50K,Low
-18-25,Unemployed,Buy a house,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,Moderate
-46-55,Employed,Buy a house,Graduate,Unknown,None,0.01,Adequate,Above $50K,Low
-56+,Employed,Invest in business,Graduate,Good,None,0.03,Adequate,Above $50K,Moderate
-36-45,Unemployed,Pay debts,High School,Unknown,None,0.0,None,$0 to $15K,Low
-36-45,Unemployed,Pay debts,Postgraduate,Unknown,Low,0.09,None,$15K to $35K,Low
-46-55,Unemployed,Pay debts,Postgraduate,Good,Low,0.02,None,$15K to $35K,Moderate
-46-55,Employed,Pay debts,High School,Poor,Low,0.03,Adequate,$35K to $50K,Low
-36-45,Unemployed,Pay debts,High School,Good,None,0.03,None,Above $50K,Low
-46-55,Employed,Invest in business,High School,Poor,High,0.0,Adequate,$0 to $15K,Moderate
-46-55,Employed,Buy a house,Graduate,Good,High,0.04,None,$15K to $35K,Moderate
-26-35,Self-Employed,Invest in business,Graduate,Unknown,None,0.03,Adequate,$35K to $50K,Low
-36-45,Unemployed,Pay debts,High School,Unknown,High,0.0,None,$0 to $15K,High
-36-45,Unemployed,Buy a house,Graduate,Unknown,Low,0.0,None,$0 to $15K,Low
-36-45,Employed,Buy a house,Postgraduate,Good,Low,0.0,Adequate,$0 to $15K,Low
-46-55,Unemployed,Buy a house,Postgraduate,Unknown,Low,0.0,Adequate,$0 to $15K,Moderate
-18-25,Employed,Invest in business,Graduate,Poor,Low,0.0,Adequate,$0 to $15K,Low
-46-55,Unemployed,Pay debts,High School,Good,Low,0.0,None,$0 to $15K,Low
-46-55,Unemployed,Invest in business,Graduate,Good,High,0.0,None,$0 to $15K,Moderate
-46-55,Unemployed,Pay debts,Postgraduate,Poor,Low,0.01,Adequate,$35K to $50K,Moderate
-56+,Employed,Buy a house,Graduate,Good,Low,0.01,Adequate,$35K to $50K,Low
-56+,Employed,Invest in business,High School,Unknown,None,0.0,None,Above $50K,Low
-18-25,Employed,Invest in business,Graduate,Good,None,0.01,None,Above $50K,Low
-36-45,Unemployed,Pay debts,Postgraduate,Poor,High,0.0,None,$0 to $15K,High
-36-45,Employed,Buy a house,Postgraduate,Good,Low,0.0,Adequate,$0 to $15K,Low
-26-35,Self-Employed,Pay debts,Postgraduate,Poor,None,0.04,Adequate,$35K to $50K,Low
-18-25,Self-Employed,Pay debts,Postgraduate,Poor,None,0.01,None,$15K to $35K,Low
-26-35,Unemployed,Pay debts,High School,Unknown,None,0.01,Adequate,$35K to $50K,Low
-36-45,Employed,Invest in business,High School,Poor,High,0.0,None,$0 to $15K,Moderate
-46-55,Employed,Pay debts,High School,Poor,Low,0.0,Adequate,$0 to $15K,Low
-18-25,Self-Employed,Invest in business,Graduate,Good,Low,0.06,Adequate,$15K to $35K,Low
-36-45,Employed,Pay debts,High School,Poor,High,0.0,None,$0 to $15K,High
-56+,Employed,Buy a house,Graduate,Good,None,0.02,Adequate,Above $50K,Moderate
-46-55,Unemployed,Invest in business,Graduate,Good,High,0.0,Adequate,$15K to $35K,Moderate
-56+,Employed,Buy a house,Graduate,Unknown,None,0.0,None,$0 to $15K,Low
+56+,Employed,Invest in business,High School,Unknown,None,0.02,Adequate,$35K to $50K,Low
+18-25,Unemployed,Buy a house,Postgraduate,Good,None,0.0,None,$35K to $50K,Low
+18-25,Unemployed,Invest in business,High School,Good,Low,0.03,Adequate,$35K to $50K,Low
+26-35,Self-Employed,Buy a house,Graduate,Good,None,0.02,None,Above $50K,Low
+26-35,Self-Employed,Buy a house,Graduate,Poor,High,0.0,None,$0 to $15K,Moderate
+18-25,Self-Employed,Buy a house,Postgraduate,Unknown,None,0.03,Adequate,Above $50K,Low
+18-25,Unemployed,Invest in business,High School,Good,None,0.03,Adequate,Above $50K,Moderate
+56+,Employed,Buy a house,Postgraduate,Unknown,None,0.09,None,$15K to $35K,Low
+26-35,Self-Employed,Pay debts,High School,Poor,None,0.01,None,Above $50K,Low
+56+,Employed,Buy a house,Graduate,Poor,Low,0.03,Adequate,$35K to $50K,Moderate
+56+,Employed,Pay debts,Postgraduate,Good,Low,0.02,None,$15K to $35K,Low
+26-35,Self-Employed,Pay debts,High School,Poor,Low,0.04,Adequate,$35K to $50K,Low
+26-35,Self-Employed,Buy a house,Graduate,Unknown,Low,0.0,None,$0 to $15K,Low
+36-45,Employed,Invest in business,High School,Unknown,Low,0.02,Adequate,$15K to $35K,Moderate
+18-25,Employed,Pay debts,Postgraduate,Poor,Low,0.0,None,$0 to $15K,Low
+26-35,Employed,Invest in business,Graduate,Good,None,0.01,None,Above $50K,Low
+46-55,Unemployed,Buy a house,Postgraduate,Good,High,0.02,Adequate,Above $50K,Low
+56+,Employed,Buy a house,Postgraduate,Poor,Low,0.08,None,$15K to $35K,Low
+36-45,Unemployed,Pay debts,Postgraduate,Poor,Low,0.0,Adequate,$0 to $15K,Moderate
+26-35,Self-Employed,Buy a house,Postgraduate,Unknown,Low,0.0,Adequate,$0 to $15K,Low
+46-55,Employed,Invest in business,High School,Poor,None,0.0,None,Above $50K,Low
+26-35,Self-Employed,Buy a house,Graduate,Good,None,0.01,Adequate,Above $50K,Low
+56+,Employed,Invest in business,Graduate,Good,Low,0.03,None,$15K to $35K,Moderate
+18-25,Employed,Invest in business,High School,Good,None,0.01,None,Above $50K,Low
+46-55,Unemployed,Buy a house,Postgraduate,Poor,High,0.02,Adequate,$15K to $35K,High
+26-35,Employed,Pay debts,Postgraduate,Good,Low,0.01,None,$35K to $50K,Low
+36-45,Employed,Buy a house,Postgraduate,Good,None,0.01,Adequate,Above $50K,Low
 18-25,Unemployed,Buy a house,Graduate,Unknown,High,0.0,None,$0 to $15K,Moderate
-18-25,Employed,Buy a house,Postgraduate,Poor,None,0.02,None,Above $50K,Low
-46-55,Employed,Invest in business,Graduate,Good,High,0.06,Adequate,$15K to $35K,Low
-36-45,Unemployed,Pay debts,High School,Poor,None,0.01,Adequate,$15K to $35K,Low
-56+,Employed,Pay debts,Postgraduate,Good,High,0.03,Adequate,$35K to $50K,Low
-46-55,Unemployed,Invest in business,High School,Poor,None,0.08,Adequate,$15K to $35K,Low
-26-35,Employed,Buy a house,Postgraduate,Good,High,0.05,None,$15K to $35K,High
-46-55,Unemployed,Pay debts,High School,Good,None,0.02,None,Above $50K,Low
-26-35,Unemployed,Pay debts,High School,Good,None,0.0,Adequate,$0 to $15K,Low
-56+,Employed,Pay debts,High School,Unknown,Low,0.02,Adequate,$15K to $35K,Low
-46-55,Employed,Pay debts,Postgraduate,Poor,High,0.05,None,$15K to $35K,High
-18-25,Unemployed,Pay debts,Postgraduate,Unknown,Low,0.03,Adequate,$35K to $50K,Moderate
-36-45,Employed,Pay debts,Postgraduate,Poor,Low,0.02,None,$15K to $35K,Moderate
-18-25,Self-Employed,Pay debts,Postgraduate,Unknown,High,0.02,Adequate,Above $50K,High
-26-35,Self-Employed,Pay debts,High School,Good,Low,0.0,None,$0 to $15K,Low
-26-35,Unemployed,Invest in business,Graduate,Good,Low,0.0,Adequate,$15K to $35K,Low
-26-35,Employed,Invest in business,High School,Good,Low,0.0,Adequate,$0 to $15K,Low
-36-45,Unemployed,Buy a house,Graduate,Poor,High,0.0,None,$0 to $15K,High
-36-45,Employed,Invest in business,Graduate,Unknown,High,0.0,None,$0 to $15K,Moderate
-26-35,Unemployed,Invest in business,High School,Poor,Low,0.0,Adequate,$0 to $15K,Low
-36-45,Employed,Pay debts,Postgraduate,Unknown,High,0.0,Adequate,$0 to $15K,High
-36-45,Employed,Pay debts,High School,Poor,Low,0.03,Adequate,$35K to $50K,Moderate
-36-45,Employed,Pay debts,Postgraduate,Good,None,0.02,Adequate,Above $50K,Low
-26-35,Self-Employed,Buy a house,Postgraduate,Unknown,None,0.02,None,Above $50K,Low
-56+,Employed,Buy a house,Postgraduate,Poor,None,0.01,None,Above $50K,Low
-36-45,Employed,Buy a house,Graduate,Good,High,0.04,Adequate,$35K to $50K,Moderate
-56+,Employed,Invest in business,High School,Good,None,0.05,None,$35K to $50K,Low
-36-45,Unemployed,Pay debts,Postgraduate,Poor,High,0.07,None,$15K to $35K,High
-26-35,Unemployed,Buy a house,Postgraduate,Poor,None,0.0,Adequate,$0 to $15K,Low
-18-25,Self-Employed,Invest in business,Graduate,Unknown,High,0.0,None,$0 to $15K,High
-26-35,Employed,Pay debts,High School,Poor,Low,0.01,None,Above $50K,Moderate
-26-35,Unemployed,Pay debts,High School,Poor,Low,0.07,None,$15K to $35K,Moderate
-18-25,Self-Employed,Pay debts,High School,Poor,Low,0.01,None,$15K to $35K,Low
-36-45,Unemployed,Buy a house,Postgraduate,Unknown,None,0.02,Adequate,Above $50K,Low
-18-25,Unemployed,Buy a house,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
-56+,Employed,Pay debts,Postgraduate,Good,High,0.01,Adequate,$35K to $50K,Low
-46-55,Employed,Invest in business,High School,Unknown,None,0.02,None,$35K to $50K,Low
-36-45,Unemployed,Invest in business,Graduate,Unknown,Low,0.0,None,$0 to $15K,Moderate
-18-25,Self-Employed,Invest in business,Graduate,Unknown,None,0.02,Adequate,$35K to $50K,Low
-46-55,Employed,Invest in business,High School,Poor,High,0.07,None,$15K to $35K,Moderate
-56+,Employed,Invest in business,Graduate,Poor,High,0.03,None,$15K to $35K,Moderate
-18-25,Unemployed,Buy a house,Postgraduate,Poor,High,0.0,None,$0 to $15K,Moderate
-18-25,Employed,Invest in business,Graduate,Poor,None,0.01,Adequate,Above $50K,Low
-46-55,Employed,Buy a house,Postgraduate,Good,Low,0.0,None,$0 to $15K,Moderate
-46-55,Employed,Buy a house,Postgraduate,Poor,Low,0.0,Adequate,$35K to $50K,Moderate
-56+,Employed,Pay debts,High School,Good,Low,0.0,None,$0 to $15K,Low
-46-55,Employed,Pay debts,Postgraduate,Unknown,High,0.03,None,Above $50K,High
-36-45,Employed,Buy a house,Graduate,Poor,High,0.04,None,$15K to $35K,High
-56+,Employed,Pay debts,Postgraduate,Good,Low,0.1,None,$15K to $35K,Low
-18-25,Unemployed,Buy a house,Graduate,Good,Low,0.09,None,$15K to $35K,Moderate
-26-35,Employed,Buy a house,Postgraduate,Unknown,High,0.02,Adequate,Above $50K,Moderate
-46-55,Unemployed,Buy a house,Postgraduate,Poor,None,0.0,None,$35K to $50K,Low
-46-55,Employed,Buy a house,Graduate,Unknown,None,0.05,Adequate,$15K to $35K,Low
-56+,Employed,Buy a house,Postgraduate,Unknown,Low,0.02,Adequate,$35K to $50K,Moderate
-46-55,Unemployed,Pay debts,Postgraduate,Good,High,0.03,None,Above $50K,High
-26-35,Unemployed,Pay debts,Postgraduate,Poor,None,0.03,None,Above $50K,Low
-56+,Employed,Buy a house,Postgraduate,Unknown,Low,0.04,Adequate,$35K to $50K,Low
-56+,Employed,Buy a house,Graduate,Unknown,None,0.02,None,$35K to $50K,Low
-46-55,Unemployed,Pay debts,High School,Unknown,None,0.0,Adequate,Above $50K,Low
-18-25,Unemployed,Buy a house,Graduate,Unknown,None,0.01,Adequate,Above $50K,Low
-18-25,Unemployed,Pay debts,Postgraduate,Poor,High,0.01,Adequate,$35K to $50K,High
-26-35,Employed,Buy a house,Postgraduate,Poor,None,0.02,None,Above $50K,Low
-18-25,Self-Employed,Buy a house,Graduate,Poor,None,0.02,Adequate,Above $50K,Low
-26-35,Self-Employed,Pay debts,High School,Unknown,Low,0.0,None,$0 to $15K,Low
-18-25,Employed,Pay debts,High School,Poor,None,0.03,None,Above $50K,Low
-18-25,Unemployed,Invest in business,High School,Unknown,High,0.01,None,$15K to $35K,Moderate
-18-25,Self-Employed,Invest in business,High School,Poor,None,0.07,Adequate,$15K to $35K,Low
-18-25,Employed,Pay debts,Postgraduate,Good,Low,0.02,None,Above $50K,Moderate
-56+,Employed,Invest in business,Graduate,Poor,None,0.02,None,Above $50K,Low
-46-55,Unemployed,Invest in business,Graduate,Good,None,0.01,None,Above $50K,Low
-56+,Employed,Buy a house,Graduate,Good,None,0.01,None,Above $50K,Low
-18-25,Employed,Buy a house,Graduate,Unknown,Low,0.0,None,$0 to $15K,Moderate
-36-45,Employed,Pay debts,High School,Unknown,Low,0.03,None,Above $50K,Moderate
-26-35,Unemployed,Invest in business,Graduate,Unknown,Low,0.0,None,Above $50K,Low
-46-55,Unemployed,Invest in business,Graduate,Poor,High,0.0,Adequate,$0 to $15K,Moderate
-26-35,Self-Employed,Invest in business,Graduate,Poor,High,0.0,None,$0 to $15K,High
-46-55,Employed,Pay debts,High School,Good,Low,0.04,None,$15K to $35K,Low
-18-25,Unemployed,Buy a house,Postgraduate,Unknown,Low,0.0,None,$0 to $15K,Moderate
-18-25,Unemployed,Buy a house,Graduate,Poor,High,0.02,None,$15K to $35K,High
-46-55,Unemployed,Invest in business,Graduate,Good,None,0.09,Adequate,$15K to $35K,Moderate
-46-55,Unemployed,Pay debts,High School,Poor,Low,0.02,None,Above $50K,Moderate
-26-35,Employed,Pay debts,High School,Good,None,0.01,None,$35K to $50K,Low
-26-35,Employed,Buy a house,Graduate,Poor,Low,0.0,Adequate,$15K to $35K,Moderate
-36-45,Employed,Buy a house,Graduate,Unknown,Low,0.05,None,$35K to $50K,Low
-56+,Employed,Pay debts,Postgraduate,Good,Low,0.0,None,$35K to $50K,Moderate
-56+,Employed,Buy a house,Postgraduate,Unknown,None,0.02,Adequate,Above $50K,Low
-56+,Employed,Invest in business,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
-18-25,Employed,Buy a house,Postgraduate,Good,Low,0.0,None,$35K to $50K,Moderate
-18-25,Unemployed,Invest in business,Graduate,Poor,High,0.0,None,$0 to $15K,Moderate
-18-25,Unemployed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Low
-18-25,Self-Employed,Pay debts,Postgraduate,Poor,None,0.01,Adequate,Above $50K,Low
-18-25,Unemployed,Invest in business,Graduate,Poor,Low,0.02,Adequate,$15K to $35K,Low
-18-25,Unemployed,Invest in business,High School,Unknown,High,0.0,Adequate,$0 to $15K,High
-18-25,Self-Employed,Buy a house,Graduate,Good,None,0.04,None,$35K to $50K,Low
-46-55,Employed,Pay debts,High School,Unknown,High,0.07,None,$15K to $35K,High
-46-55,Employed,Invest in business,High School,Unknown,None,0.01,None,$35K to $50K,Low
-36-45,Employed,Invest in business,Graduate,Good,None,0.07,Adequate,$15K to $35K,Moderate
-26-35,Self-Employed,Buy a house,Graduate,Good,None,0.02,Adequate,Above $50K,Low
-56+,Employed,Pay debts,High School,Good,Low,0.07,None,$15K to $35K,Low
-18-25,Self-Employed,Pay debts,Postgraduate,Unknown,Low,0.0,None,$0 to $15K,Low
-18-25,Unemployed,Buy a house,Graduate,Unknown,High,0.0,None,$0 to $15K,High
-36-45,Employed,Buy a house,Postgraduate,Unknown,Low,0.01,None,$35K to $50K,Low
-56+,Employed,Invest in business,Graduate,Unknown,Low,0.05,Adequate,$15K to $35K,Moderate
-56+,Employed,Buy a house,Postgraduate,Unknown,None,0.02,Adequate,Above $50K,Low
-18-25,Self-Employed,Buy a house,Postgraduate,Poor,Low,0.0,Adequate,$0 to $15K,Moderate
-18-25,Unemployed,Buy a house,Graduate,Poor,High,0.0,None,$0 to $15K,Moderate
-46-55,Employed,Buy a house,Postgraduate,Good,Low,0.0,None,$35K to $50K,Low
-26-35,Employed,Invest in business,Graduate,Poor,None,0.0,None,Above $50K,Low
-26-35,Employed,Pay debts,Postgraduate,Unknown,None,0.01,None,Above $50K,Low
-26-35,Unemployed,Invest in business,Graduate,Unknown,Low,0.02,None,$35K to $50K,Low
-56+,Employed,Buy a house,Postgraduate,Poor,High,0.03,Adequate,$15K to $35K,Moderate
-36-45,Unemployed,Buy a house,Graduate,Unknown,Low,0.02,None,$35K to $50K,Moderate
-46-55,Unemployed,Invest in business,Graduate,Poor,Low,0.0,None,$0 to $15K,Moderate
-46-55,Unemployed,Invest in business,High School,Unknown,High,0.01,None,$15K to $35K,Moderate
-26-35,Self-Employed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Moderate
-18-25,Employed,Buy a house,Postgraduate,Good,Low,0.0,Adequate,$0 to $15K,Low
-56+,Employed,Pay debts,Postgraduate,Poor,Low,0.05,Adequate,$35K to $50K,Moderate
-46-55,Unemployed,Invest in business,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Low
-56+,Employed,Invest in business,Graduate,Poor,Low,0.04,None,$15K to $35K,Moderate
-18-25,Self-Employed,Buy a house,Graduate,Unknown,High,0.03,Adequate,$35K to $50K,High
-26-35,Unemployed,Pay debts,Postgraduate,Unknown,None,0.0,Adequate,$0 to $15K,Low
-36-45,Employed,Pay debts,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,High
-56+,Employed,Pay debts,High School,Unknown,None,0.0,None,$0 to $15K,Low
-26-35,Employed,Pay debts,High School,Poor,None,0.02,Adequate,Above $50K,Low
-18-25,Self-Employed,Buy a house,Postgraduate,Unknown,None,0.02,None,$35K to $50K,Low
-36-45,Employed,Buy a house,Postgraduate,Unknown,None,0.02,Adequate,Above $50K,Low
-36-45,Unemployed,Pay debts,Postgraduate,Poor,Low,0.04,Adequate,$15K to $35K,Moderate
-36-45,Employed,Invest in business,Graduate,Good,None,0.03,None,$35K to $50K,Low
-56+,Employed,Buy a house,Graduate,Unknown,Low,0.02,Adequate,$35K to $50K,Low
-36-45,Unemployed,Buy a house,Graduate,Unknown,High,0.0,None,$0 to $15K,Moderate
-46-55,Unemployed,Pay debts,Postgraduate,Good,Low,0.0,None,$0 to $15K,Low
-18-25,Self-Employed,Buy a house,Postgraduate,Good,High,0.0,Adequate,$0 to $15K,Moderate
-56+,Employed,Invest in business,High School,Poor,None,0.09,None,$15K to $35K,Low
-18-25,Employed,Buy a house,Postgraduate,Good,None,0.04,Adequate,$35K to $50K,Low
-26-35,Self-Employed,Buy a house,Postgraduate,Poor,None,0.02,None,$35K to $50K,Low
-26-35,Employed,Pay debts,Postgraduate,Poor,High,0.02,Adequate,Above $50K,High
-36-45,Employed,Invest in business,Graduate,Unknown,Low,0.01,Adequate,Above $50K,Low
-36-45,Unemployed,Invest in business,High School,Good,Low,0.01,Adequate,Above $50K,Low
-26-35,Unemployed,Pay debts,Postgraduate,Poor,Low,0.02,Adequate,Above $50K,Moderate
-18-25,Unemployed,Invest in business,High School,Good,High,0.0,Adequate,$0 to $15K,Moderate
-18-25,Self-Employed,Buy a house,Postgraduate,Unknown,None,0.0,None,Above $50K,Low
-46-55,Unemployed,Buy a house,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,High
-46-55,Unemployed,Invest in business,High School,Poor,None,0.03,None,$35K to $50K,Low
-56+,Employed,Buy a house,Graduate,Good,None,0.01,Adequate,Above $50K,Moderate
-36-45,Employed,Buy a house,Postgraduate,Poor,High,0.0,None,$0 to $15K,Moderate
-36-45,Employed,Pay debts,Postgraduate,Unknown,None,0.0,Adequate,$0 to $15K,Low
-18-25,Unemployed,Pay debts,Postgraduate,Poor,Low,0.02,None,Above $50K,Low
-56+,Employed,Buy a house,Graduate,Unknown,High,0.0,None,$0 to $15K,Moderate
-46-55,Unemployed,Invest in business,Graduate,Good,None,0.09,Adequate,$15K to $35K,Moderate
-18-25,Employed,Buy a house,Graduate,Poor,High,0.01,Adequate,Above $50K,High
-46-55,Unemployed,Pay debts,Postgraduate,Good,High,0.03,Adequate,$15K to $35K,Moderate
-18-25,Self-Employed,Pay debts,Postgraduate,Good,None,0.01,Adequate,Above $50K,Low
-36-45,Unemployed,Pay debts,High School,Good,None,0.02,Adequate,$35K to $50K,Low
-36-45,Employed,Buy a house,Graduate,Good,None,0.01,None,Above $50K,Low
-46-55,Unemployed,Buy a house,Postgraduate,Unknown,None,0.04,None,$35K to $50K,Low
-26-35,Self-Employed,Invest in business,Graduate,Good,None,0.03,None,Above $50K,Low
-26-35,Employed,Invest in business,High School,Unknown,High,0.03,Adequate,$35K to $50K,Moderate
-26-35,Self-Employed,Pay debts,Postgraduate,Unknown,Low,0.0,None,$0 to $15K,Moderate
-46-55,Unemployed,Pay debts,Postgraduate,Good,Low,0.0,None,$0 to $15K,Moderate
-26-35,Employed,Invest in business,High School,Unknown,High,0.0,None,$0 to $15K,High
-46-55,Employed,Buy a house,Graduate,Poor,Low,0.0,Adequate,$0 to $15K,Low
-36-45,Employed,Pay debts,High School,Poor,None,0.01,None,$15K to $35K,Low
-26-35,Self-Employed,Buy a house,Postgraduate,Poor,Low,0.02,Adequate,$15K to $35K,Low
-18-25,Self-Employed,Invest in business,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
-18-25,Self-Employed,Buy a house,Postgraduate,Good,None,0.03,Adequate,Above $50K,Low
-26-35,Self-Employed,Buy a house,Graduate,Unknown,None,0.0,Adequate,$35K to $50K,Low
-46-55,Unemployed,Pay debts,Postgraduate,Good,None,0.02,None,$15K to $35K,Low
-46-55,Unemployed,Buy a house,Postgraduate,Good,Low,0.05,Adequate,$15K to $35K,Low
-36-45,Employed,Buy a house,Postgraduate,Good,None,0.03,None,Above $50K,Low
-36-45,Unemployed,Invest in business,High School,Unknown,Low,0.03,Adequate,$15K to $35K,Moderate
-18-25,Unemployed,Pay debts,High School,Good,Low,0.02,Adequate,$35K to $50K,Low
-18-25,Employed,Pay debts,High School,Good,High,0.0,Adequate,$0 to $15K,Low
-18-25,Employed,Buy a house,Postgraduate,Unknown,High,0.0,Adequate,$0 to $15K,High
-56+,Employed,Invest in business,Graduate,Poor,None,0.03,None,$35K to $50K,Low
-18-25,Employed,Pay debts,High School,Poor,Low,0.0,Adequate,$0 to $15K,Low
-46-55,Employed,Invest in business,Graduate,Good,High,0.03,Adequate,Above $50K,Low
-46-55,Unemployed,Invest in business,High School,Unknown,Low,0.0,Adequate,$0 to $15K,Moderate
-36-45,Employed,Buy a house,Graduate,Good,None,0.0,None,$0 to $15K,Low
-46-55,Employed,Buy a house,Graduate,Unknown,High,0.0,Adequate,$0 to $15K,High
-26-35,Unemployed,Invest in business,High School,Unknown,None,0.02,None,Above $50K,Low
-26-35,Unemployed,Pay debts,Postgraduate,Good,High,0.0,Adequate,$0 to $15K,Low
-46-55,Unemployed,Pay debts,High School,Poor,High,0.0,Adequate,$0 to $15K,High
-26-35,Self-Employed,Invest in business,Graduate,Poor,High,0.02,None,Above $50K,Moderate
-56+,Employed,Pay debts,Postgraduate,Unknown,None,0.09,Adequate,$15K to $35K,Low
-26-35,Employed,Buy a house,Postgraduate,Unknown,None,0.03,None,$35K to $50K,Low
-18-25,Employed,Buy a house,Graduate,Unknown,Low,0.0,None,$0 to $15K,Low
-56+,Employed,Invest in business,High School,Good,None,0.06,None,$15K to $35K,Low
-26-35,Employed,Invest in business,High School,Poor,None,0.03,Adequate,Above $50K,Low
-46-55,Employed,Invest in business,High School,Unknown,None,0.0,None,$0 to $15K,Low
-26-35,Self-Employed,Pay debts,Postgraduate,Poor,High,0.02,None,Above $50K,High
-18-25,Unemployed,Pay debts,High School,Good,High,0.05,Adequate,$15K to $35K,Low
-26-35,Unemployed,Pay debts,High School,Good,High,0.0,None,Above $50K,High
-18-25,Unemployed,Invest in business,Graduate,Unknown,None,0.03,Adequate,Above $50K,Low
-26-35,Employed,Invest in business,High School,Poor,None,0.02,Adequate,$35K to $50K,Low
-18-25,Employed,Pay debts,Postgraduate,Good,Low,0.01,Adequate,$35K to $50K,Low
-46-55,Employed,Invest in business,High School,Good,None,0.02,None,Above $50K,Low
-46-55,Unemployed,Pay debts,Postgraduate,Unknown,High,0.0,Adequate,$0 to $15K,High
-18-25,Employed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Moderate
-26-35,Self-Employed,Pay debts,High School,Good,High,0.1,None,$15K to $35K,High
-46-55,Unemployed,Pay debts,High School,Good,Low,0.02,Adequate,$15K to $35K,Low
-36-45,Unemployed,Invest in business,Graduate,Good,None,0.0,None,$35K to $50K,Low
-56+,Employed,Buy a house,Graduate,Poor,High,0.06,None,$15K to $35K,High
-56+,Employed,Invest in business,High School,Good,None,0.07,None,$15K to $35K,Low
-18-25,Self-Employed,Invest in business,Graduate,Poor,High,0.05,Adequate,$35K to $50K,High
-36-45,Unemployed,Pay debts,High School,Unknown,High,0.0,Adequate,$0 to $15K,High
-56+,Employed,Buy a house,Graduate,Unknown,High,0.03,None,$35K to $50K,Moderate
-46-55,Employed,Buy a house,Postgraduate,Good,Low,0.06,None,$15K to $35K,Moderate
-36-45,Employed,Invest in business,Graduate,Poor,None,0.02,Adequate,Above $50K,Low
-56+,Employed,Buy a house,Graduate,Good,None,0.02,Adequate,$35K to $50K,Low
-26-35,Employed,Buy a house,Graduate,Unknown,High,0.0,None,$0 to $15K,Moderate
-18-25,Unemployed,Buy a house,Postgraduate,Good,Low,0.03,Adequate,$15K to $35K,Low
-18-25,Self-Employed,Invest in business,High School,Poor,Low,0.0,None,$0 to $15K,Moderate
-36-45,Employed,Invest in business,High School,Poor,High,0.08,None,$15K to $35K,High
-56+,Employed,Pay debts,Postgraduate,Unknown,None,0.02,Adequate,Above $50K,Low
-46-55,Unemployed,Buy a house,Postgraduate,Poor,None,0.02,None,Above $50K,Low
-26-35,Employed,Buy a house,Postgraduate,Unknown,Low,0.02,Adequate,Above $50K,Low
-18-25,Unemployed,Invest in business,Graduate,Unknown,Low,0.02,None,$35K to $50K,Low
-18-25,Self-Employed,Buy a house,Postgraduate,Unknown,Low,0.01,Adequate,Above $50K,Low
-56+,Employed,Pay debts,High School,Good,Low,0.0,None,$35K to $50K,Moderate
-56+,Employed,Invest in business,High School,Good,High,0.0,Adequate,$0 to $15K,Moderate
-56+,Employed,Invest in business,Graduate,Good,None,0.01,None,$15K to $35K,Low
-36-45,Unemployed,Pay debts,High School,Good,None,0.03,None,Above $50K,Low
-56+,Employed,Invest in business,Graduate,Good,None,0.0,Adequate,$0 to $15K,Moderate
-18-25,Self-Employed,Pay debts,Postgraduate,Good,None,0.01,Adequate,$35K to $50K,Low
-56+,Employed,Pay debts,High School,Unknown,None,0.02,Adequate,Above $50K,Low
-56+,Employed,Buy a house,Graduate,Poor,None,0.02,Adequate,$15K to $35K,Low
-46-55,Employed,Pay debts,High School,Unknown,High,0.0,Adequate,$0 to $15K,High
-56+,Employed,Pay debts,High School,Good,High,0.02,Adequate,Above $50K,Moderate
-36-45,Unemployed,Invest in business,High School,Poor,High,0.0,None,$0 to $15K,High
-46-55,Employed,Invest in business,High School,Poor,None,0.02,Adequate,Above $50K,Low
-56+,Employed,Buy a house,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,High
-46-55,Unemployed,Pay debts,High School,Good,Low,0.05,None,$15K to $35K,Low
-46-55,Employed,Buy a house,Graduate,Poor,None,0.03,None,Above $50K,Low
-18-25,Unemployed,Invest in business,High School,Good,High,0.01,None,$15K to $35K,Moderate
-46-55,Unemployed,Pay debts,High School,Good,None,0.03,Adequate,Above $50K,Low
-26-35,Unemployed,Invest in business,Graduate,Poor,Low,0.03,Adequate,$35K to $50K,Low
-56+,Employed,Invest in business,High School,Unknown,None,0.05,None,$35K to $50K,Low
-56+,Employed,Invest in business,High School,Good,None,0.04,Adequate,$35K to $50K,Moderate
-18-25,Self-Employed,Buy a house,Graduate,Poor,Low,0.03,Adequate,$15K to $35K,Low
-26-35,Unemployed,Buy a house,Graduate,Unknown,None,0.03,None,Above $50K,Low
-36-45,Employed,Invest in business,High School,Poor,None,0.02,Adequate,$35K to $50K,Low
-46-55,Employed,Invest in business,Graduate,Poor,Low,0.0,Adequate,$0 to $15K,Moderate
-26-35,Employed,Pay debts,High School,Poor,None,0.01,Adequate,$15K to $35K,Low
-56+,Employed,Pay debts,Postgraduate,Poor,None,0.01,Adequate,Above $50K,Low
-18-25,Self-Employed,Buy a house,Graduate,Poor,None,0.02,None,$35K to $50K,Low
-36-45,Unemployed,Invest in business,High School,Good,High,0.0,None,$0 to $15K,High
-18-25,Employed,Pay debts,Postgraduate,Poor,Low,0.02,Adequate,$35K to $50K,Moderate
-26-35,Self-Employed,Buy a house,Graduate,Poor,Low,0.03,None,$15K to $35K,Low
-46-55,Employed,Invest in business,High School,Unknown,None,0.04,None,$15K to $35K,Low
-56+,Employed,Buy a house,Postgraduate,Poor,Low,0.04,Adequate,$35K to $50K,Moderate
-56+,Employed,Invest in business,High School,Unknown,Low,0.01,None,$35K to $50K,Low
-18-25,Unemployed,Buy a house,Postgraduate,Poor,High,0.02,None,$15K to $35K,High
-18-25,Unemployed,Buy a house,Postgraduate,Good,Low,0.0,None,$0 to $15K,Moderate
-46-55,Employed,Invest in business,Graduate,Unknown,None,0.03,None,Above $50K,Low
-36-45,Employed,Invest in business,Graduate,Unknown,None,0.02,None,$35K to $50K,Low
-36-45,Employed,Invest in business,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
-36-45,Employed,Invest in business,High School,Good,Low,0.07,None,$15K to $35K,Low
-26-35,Employed,Invest in business,High School,Unknown,None,0.01,Adequate,Above $50K,Low
-36-45,Unemployed,Pay debts,Postgraduate,Good,None,0.03,Adequate,$35K to $50K,Low
-46-55,Unemployed,Pay debts,High School,Good,High,0.03,Adequate,$15K to $35K,Moderate
-46-55,Unemployed,Invest in business,Graduate,Good,High,0.0,None,$0 to $15K,High
-18-25,Self-Employed,Pay debts,High School,Good,Low,0.03,Adequate,$35K to $50K,Low
-26-35,Self-Employed,Pay debts,Postgraduate,Unknown,None,0.04,Adequate,$35K to $50K,Low
-26-35,Self-Employed,Buy a house,Graduate,Poor,None,0.02,None,$35K to $50K,Low
-56+,Employed,Buy a house,Postgraduate,Good,High,0.0,Adequate,$0 to $15K,Moderate
-18-25,Self-Employed,Invest in business,High School,Unknown,None,0.0,Adequate,$35K to $50K,Low
-18-25,Unemployed,Invest in business,High School,Good,High,0.0,Adequate,$0 to $15K,Moderate
-56+,Employed,Buy a house,Postgraduate,Poor,None,0.01,Adequate,$35K to $50K,Low
-18-25,Unemployed,Invest in business,Graduate,Good,Low,0.02,Adequate,$35K to $50K,Low
-18-25,Employed,Invest in business,High School,Unknown,Low,0.0,Adequate,$0 to $15K,Low
-26-35,Unemployed,Invest in business,High School,Poor,High,0.02,None,$15K to $35K,High
-36-45,Unemployed,Buy a house,Postgraduate,Good,Low,0.07,None,$15K to $35K,Low
-26-35,Unemployed,Pay debts,High School,Unknown,None,0.0,None,$0 to $15K,Low
-18-25,Unemployed,Buy a house,Postgraduate,Good,None,0.1,None,$15K to $35K,Low
-56+,Employed,Buy a house,Graduate,Unknown,None,0.06,None,$15K to $35K,Low
-26-35,Unemployed,Invest in business,Graduate,Poor,High,0.03,None,$15K to $35K,Moderate
-18-25,Unemployed,Buy a house,Postgraduate,Good,None,0.04,None,$35K to $50K,Low
-46-55,Unemployed,Buy a house,Postgraduate,Good,None,0.01,None,Above $50K,Low
-18-25,Unemployed,Pay debts,High School,Unknown,High,0.0,None,$0 to $15K,High
-46-55,Employed,Pay debts,Postgraduate,Good,None,0.01,None,Above $50K,Low
-26-35,Employed,Buy a house,Graduate,Good,High,0.08,None,$15K to $35K,High
-36-45,Unemployed,Pay debts,Postgraduate,Poor,None,0.0,None,$35K to $50K,Low
-26-35,Employed,Buy a house,Postgraduate,Unknown,Low,0.03,Adequate,$35K to $50K,Moderate
-18-25,Unemployed,Pay debts,Postgraduate,Unknown,Low,0.02,Adequate,$15K to $35K,Moderate
-56+,Employed,Buy a house,Graduate,Good,None,0.02,Adequate,Above $50K,Moderate
-26-35,Employed,Buy a house,Graduate,Good,None,0.07,Adequate,$15K to $35K,Moderate
-36-45,Employed,Pay debts,Postgraduate,Good,High,0.0,None,$0 to $15K,High
-46-55,Unemployed,Invest in business,High School,Unknown,None,0.02,Adequate,Above $50K,Low
-36-45,Unemployed,Invest in business,High School,Good,High,0.0,Adequate,$0 to $15K,Low
-56+,Employed,Buy a house,Postgraduate,Unknown,Low,0.0,None,$0 to $15K,Low
-56+,Employed,Buy a house,Postgraduate,Good,Low,0.03,Adequate,$35K to $50K,Low
-26-35,Unemployed,Pay debts,Postgraduate,Good,None,0.0,Adequate,$0 to $15K,Low
-36-45,Employed,Pay debts,High School,Good,Low,0.02,Adequate,Above $50K,Low
-18-25,Employed,Invest in business,High School,Poor,Low,0.0,None,$0 to $15K,Low
-56+,Employed,Buy a house,Postgraduate,Good,Low,0.0,None,$0 to $15K,Low
-46-55,Employed,Buy a house,Graduate,Poor,None,0.01,Adequate,$15K to $35K,Low
-18-25,Unemployed,Invest in business,High School,Good,Low,0.0,None,$0 to $15K,Moderate
-56+,Employed,Pay debts,Postgraduate,Good,Low,0.07,None,$15K to $35K,Low
-36-45,Unemployed,Invest in business,High School,Good,High,0.01,None,Above $50K,High
-56+,Employed,Invest in business,Graduate,Good,Low,0.05,None,$35K to $50K,Low
-56+,Employed,Pay debts,Postgraduate,Unknown,None,0.01,None,Above $50K,Low
-36-45,Employed,Invest in business,Graduate,Poor,High,0.0,None,$0 to $15K,Moderate
-26-35,Employed,Invest in business,Graduate,Unknown,Low,0.04,None,$35K to $50K,Moderate
-46-55,Unemployed,Invest in business,High School,Good,High,0.0,None,$0 to $15K,Moderate
-46-55,Employed,Buy a house,Graduate,Unknown,High,0.02,Adequate,$35K to $50K,Moderate
-26-35,Self-Employed,Buy a house,Postgraduate,Poor,None,0.02,None,Above $50K,Low
-26-35,Self-Employed,Pay debts,High School,Poor,High,0.0,Adequate,$0 to $15K,High
-46-55,Unemployed,Buy a house,Postgraduate,Unknown,High,0.01,None,Above $50K,Moderate
-56+,Employed,Pay debts,Postgraduate,Good,None,0.02,Adequate,$35K to $50K,Low
-46-55,Employed,Invest in business,Graduate,Good,Low,0.03,None,$35K to $50K,Moderate
-46-55,Unemployed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Moderate
-18-25,Unemployed,Buy a house,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Low
-56+,Employed,Pay debts,High School,Poor,None,0.03,None,Above $50K,Low
-36-45,Employed,Pay debts,High School,Good,Low,0.01,Adequate,$15K to $35K,Low
-36-45,Unemployed,Pay debts,High School,Unknown,None,0.0,Adequate,$0 to $15K,Low
-18-25,Unemployed,Buy a house,Postgraduate,Poor,Low,0.0,None,$0 to $15K,Moderate
-26-35,Self-Employed,Pay debts,Postgraduate,Poor,None,0.03,Adequate,Above $50K,Low
-36-45,Unemployed,Invest in business,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Moderate
-36-45,Employed,Pay debts,Postgraduate,Poor,High,0.09,Adequate,$15K to $35K,High
-18-25,Employed,Pay debts,Postgraduate,Unknown,High,0.0,Adequate,$0 to $15K,High
-56+,Employed,Buy a house,Postgraduate,Unknown,None,0.01,None,Above $50K,Low
-36-45,Unemployed,Pay debts,Postgraduate,Poor,None,0.03,None,Above $50K,Low
-26-35,Unemployed,Buy a house,Graduate,Good,None,0.01,Adequate,Above $50K,Moderate
-26-35,Unemployed,Pay debts,High School,Poor,Low,0.0,None,$0 to $15K,Low
-46-55,Unemployed,Buy a house,Postgraduate,Unknown,High,0.0,None,$0 to $15K,High
-26-35,Employed,Buy a house,Postgraduate,Unknown,High,0.0,None,$15K to $35K,Moderate
-56+,Employed,Buy a house,Postgraduate,Poor,None,0.02,Adequate,Above $50K,Low
-18-25,Unemployed,Pay debts,Postgraduate,Good,Low,0.02,None,$35K to $50K,Moderate
-56+,Employed,Pay debts,Postgraduate,Poor,High,0.09,Adequate,$15K to $35K,High
-56+,Employed,Invest in business,High School,Good,Low,0.0,Adequate,$0 to $15K,Low
-26-35,Self-Employed,Pay debts,Postgraduate,Unknown,High,0.0,None,$0 to $15K,High
-36-45,Unemployed,Buy a house,Graduate,Good,None,0.01,None,Above $50K,Low
-46-55,Unemployed,Buy a house,Postgraduate,Poor,Low,0.0,Adequate,$0 to $15K,Low
-26-35,Employed,Invest in business,Graduate,Unknown,None,0.0,None,Above $50K,Low
-56+,Employed,Invest in business,High School,Poor,High,0.0,Adequate,$0 to $15K,Moderate
-26-35,Employed,Buy a house,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
-26-35,Unemployed,Invest in business,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Low
-36-45,Unemployed,Buy a house,Postgraduate,Unknown,None,0.02,None,$35K to $50K,Low
-18-25,Unemployed,Buy a house,Postgraduate,Poor,None,0.04,Adequate,$35K to $50K,Low
-46-55,Employed,Buy a house,Postgraduate,Poor,None,0.01,Adequate,Above $50K,Low
-18-25,Unemployed,Buy a house,Graduate,Unknown,None,0.02,None,$35K to $50K,Low
-36-45,Unemployed,Pay debts,Postgraduate,Unknown,Low,0.02,None,$35K to $50K,Moderate
-26-35,Self-Employed,Buy a house,Graduate,Unknown,None,0.01,Adequate,Above $50K,Low
-46-55,Employed,Pay debts,High School,Good,Low,0.05,None,$35K to $50K,Moderate
-56+,Employed,Buy a house,Postgraduate,Unknown,Low,0.02,Adequate,Above $50K,Low
-36-45,Employed,Invest in business,Graduate,Poor,Low,0.04,Adequate,$15K to $35K,Moderate
-46-55,Unemployed,Buy a house,Graduate,Good,High,0.0,None,$0 to $15K,Moderate
-56+,Employed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Moderate
-46-55,Employed,Pay debts,Postgraduate,Good,None,0.01,None,Above $50K,Low
-26-35,Self-Employed,Invest in business,High School,Poor,None,0.0,Adequate,Above $50K,Low
-46-55,Employed,Invest in business,High School,Unknown,Low,0.02,None,$35K to $50K,Low
-18-25,Unemployed,Buy a house,Graduate,Poor,Low,0.0,None,$0 to $15K,Low
-56+,Employed,Pay debts,High School,Good,None,0.03,None,Above $50K,Low
-46-55,Employed,Buy a house,Graduate,Unknown,Low,0.01,None,$35K to $50K,Moderate
-46-55,Unemployed,Buy a house,Postgraduate,Unknown,None,0.0,Adequate,$0 to $15K,Low
-18-25,Self-Employed,Buy a house,Postgraduate,Unknown,Low,0.01,None,$35K to $50K,Low
-18-25,Employed,Buy a house,Postgraduate,Poor,Low,0.0,Adequate,$0 to $15K,Moderate
-56+,Employed,Buy a house,Postgraduate,Poor,Low,0.01,Adequate,$35K to $50K,Moderate
-36-45,Unemployed,Pay debts,Postgraduate,Good,None,0.03,None,$35K to $50K,Low
-56+,Employed,Pay debts,High School,Good,None,0.02,None,$35K to $50K,Low
-36-45,Employed,Pay debts,Postgraduate,Poor,None,0.02,None,$35K to $50K,Low
-56+,Employed,Pay debts,High School,Poor,None,0.01,None,Above $50K,Low
-46-55,Employed,Pay debts,Postgraduate,Unknown,None,0.08,Adequate,$15K to $35K,Low
-18-25,Self-Employed,Invest in business,Graduate,Good,Low,0.01,None,$35K to $50K,Moderate
-18-25,Self-Employed,Buy a house,Graduate,Poor,High,0.0,Adequate,$0 to $15K,High
-26-35,Unemployed,Pay debts,Postgraduate,Good,Low,0.03,Adequate,$15K to $35K,Low
-18-25,Unemployed,Pay debts,High School,Good,None,0.0,None,Above $50K,Low
-56+,Employed,Buy a house,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,Moderate
-46-55,Employed,Buy a house,Graduate,Unknown,High,0.01,Adequate,Above $50K,High
-46-55,Unemployed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Moderate
-36-45,Employed,Buy a house,Graduate,Poor,None,0.0,Adequate,Above $50K,Low
-36-45,Employed,Invest in business,Graduate,Unknown,None,0.02,Adequate,$35K to $50K,Low
-56+,Employed,Invest in business,Graduate,Unknown,Low,0.0,None,$35K to $50K,Moderate
-46-55,Unemployed,Pay debts,Postgraduate,Poor,None,0.03,None,Above $50K,Low
-18-25,Employed,Pay debts,High School,Unknown,Low,0.0,Adequate,$0 to $15K,Moderate
-56+,Employed,Pay debts,Postgraduate,Good,None,0.02,None,Above $50K,Low
-46-55,Employed,Pay debts,High School,Good,Low,0.06,None,$15K to $35K,Low
-46-55,Employed,Buy a house,Graduate,Poor,High,0.07,None,$15K to $35K,Moderate
-46-55,Unemployed,Invest in business,High School,Unknown,Low,0.01,Adequate,$35K to $50K,Moderate
-36-45,Employed,Pay debts,Postgraduate,Poor,None,0.0,Adequate,$15K to $35K,Low
-18-25,Self-Employed,Invest in business,High School,Good,None,0.02,Adequate,$35K to $50K,Moderate
-46-55,Unemployed,Invest in business,Graduate,Unknown,Low,0.04,Adequate,$35K to $50K,Moderate
-46-55,Unemployed,Invest in business,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Moderate
-46-55,Employed,Pay debts,Postgraduate,Good,None,0.03,Adequate,$35K to $50K,Low
-36-45,Employed,Pay debts,Postgraduate,Good,Low,0.0,None,$0 to $15K,Moderate
-46-55,Unemployed,Buy a house,Postgraduate,Unknown,None,0.0,Adequate,Above $50K,Low
-56+,Employed,Pay debts,High School,Good,None,0.01,None,Above $50K,Low
-36-45,Employed,Pay debts,Postgraduate,Unknown,Low,0.0,Adequate,$0 to $15K,Low
-56+,Employed,Buy a house,Postgraduate,Good,Low,0.0,Adequate,$0 to $15K,Low
-46-55,Employed,Invest in business,High School,Good,High,0.0,None,$0 to $15K,High
-36-45,Employed,Invest in business,High School,Poor,Low,0.0,None,$0 to $15K,Moderate
-46-55,Unemployed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Moderate
-26-35,Self-Employed,Invest in business,Graduate,Unknown,Low,0.04,None,$35K to $50K,Moderate
-18-25,Self-Employed,Invest in business,High School,Poor,Low,0.0,None,$0 to $15K,Low
-56+,Employed,Pay debts,Postgraduate,Unknown,Low,0.05,None,$15K to $35K,Moderate
-46-55,Employed,Buy a house,Graduate,Good,None,0.0,Adequate,$0 to $15K,Low
-36-45,Employed,Pay debts,High School,Good,None,0.0,Adequate,Above $50K,Low
-46-55,Unemployed,Invest in business,Graduate,Unknown,None,0.03,None,Above $50K,Low
-26-35,Unemployed,Invest in business,Graduate,Poor,Low,0.02,Adequate,$35K to $50K,Low
-26-35,Employed,Buy a house,Postgraduate,Unknown,High,0.0,Adequate,$0 to $15K,Moderate
-46-55,Employed,Invest in business,Graduate,Good,None,0.0,Adequate,$0 to $15K,Moderate
-18-25,Unemployed,Invest in business,Graduate,Unknown,Low,0.0,None,$0 to $15K,Low
-56+,Employed,Buy a house,Postgraduate,Unknown,None,0.05,Adequate,$35K to $50K,Low
-46-55,Unemployed,Invest in business,High School,Good,High,0.0,Adequate,Above $50K,Moderate
-46-55,Unemployed,Invest in business,Graduate,Unknown,None,0.03,Adequate,Above $50K,Low
-46-55,Employed,Invest in business,Graduate,Poor,Low,0.01,Adequate,Above $50K,Low
-56+,Employed,Pay debts,High School,Unknown,High,0.09,Adequate,$15K to $35K,High
-18-25,Self-Employed,Pay debts,Postgraduate,Unknown,None,0.01,Adequate,$35K to $50K,Low
-56+,Employed,Buy a house,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Moderate
-36-45,Unemployed,Buy a house,Graduate,Good,None,0.0,None,$0 to $15K,Low
-18-25,Unemployed,Buy a house,Postgraduate,Unknown,High,0.0,None,$0 to $15K,High
-18-25,Employed,Pay debts,High School,Poor,Low,0.01,None,Above $50K,Low
-26-35,Self-Employed,Pay debts,High School,Unknown,None,0.02,Adequate,$35K to $50K,Low
-26-35,Self-Employed,Invest in business,Graduate,Poor,Low,0.03,None,$35K to $50K,Moderate
-46-55,Employed,Invest in business,High School,Good,High,0.03,Adequate,Above $50K,Low
-18-25,Unemployed,Buy a house,Postgraduate,Good,None,0.06,None,$15K to $35K,Low
-18-25,Unemployed,Invest in business,Graduate,Unknown,None,0.01,Adequate,Above $50K,Low
-18-25,Unemployed,Invest in business,High School,Poor,Low,0.05,None,$15K to $35K,Moderate
-46-55,Employed,Pay debts,High School,Good,Low,0.04,None,$35K to $50K,Low
-46-55,Unemployed,Buy a house,Graduate,Good,High,0.0,None,$0 to $15K,Moderate
-36-45,Employed,Pay debts,High School,Good,Low,0.0,Adequate,$0 to $15K,Low
-18-25,Self-Employed,Invest in business,High School,Good,High,0.09,Adequate,$15K to $35K,Moderate
-18-25,Unemployed,Pay debts,Postgraduate,Good,None,0.0,None,Above $50K,Low
-18-25,Self-Employed,Pay debts,Postgraduate,Unknown,Low,0.0,None,$0 to $15K,Moderate
-56+,Employed,Pay debts,Postgraduate,Unknown,None,0.01,None,Above $50K,Low
-36-45,Employed,Invest in business,Graduate,Poor,None,0.01,None,$35K to $50K,Low
-26-35,Self-Employed,Invest in business,Graduate,Unknown,None,0.02,Adequate,$35K to $50K,Low
-46-55,Unemployed,Invest in business,Graduate,Unknown,Low,0.09,None,$15K to $35K,Low
-46-55,Unemployed,Pay debts,High School,Good,High,0.0,None,$0 to $15K,High
-26-35,Unemployed,Buy a house,Postgraduate,Unknown,High,0.0,None,$0 to $15K,High
-36-45,Unemployed,Pay debts,High School,Unknown,Low,0.02,None,Above $50K,Moderate
-36-45,Unemployed,Invest in business,High School,Poor,Low,0.0,Adequate,$35K to $50K,Low
-36-45,Employed,Invest in business,High School,Unknown,Low,0.0,None,$0 to $15K,Low
-56+,Employed,Pay debts,Postgraduate,Good,None,0.0,None,$0 to $15K,Low
-18-25,Employed,Buy a house,Postgraduate,Unknown,None,0.03,None,Above $50K,Low
-56+,Employed,Buy a house,Postgraduate,Unknown,Low,0.01,Adequate,$35K to $50K,Low
-46-55,Employed,Invest in business,High School,Good,High,0.0,None,$0 to $15K,Moderate
-18-25,Self-Employed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Low
-36-45,Unemployed,Buy a house,Postgraduate,Unknown,None,0.02,None,$15K to $35K,Low
-56+,Employed,Pay debts,High School,Unknown,Low,0.03,None,$15K to $35K,Moderate
-18-25,Self-Employed,Buy a house,Postgraduate,Good,High,0.03,Adequate,Above $50K,Moderate
-36-45,Unemployed,Invest in business,Graduate,Unknown,None,0.03,Adequate,$35K to $50K,Low
-36-45,Employed,Buy a house,Graduate,Good,Low,0.04,Adequate,$15K to $35K,Low
-46-55,Employed,Pay debts,High School,Good,Low,0.0,Adequate,$0 to $15K,Low
-26-35,Employed,Pay debts,High School,Poor,None,0.05,Adequate,$15K to $35K,Low
-36-45,Employed,Pay debts,High School,Good,High,0.02,Adequate,$15K to $35K,Moderate
-46-55,Employed,Pay debts,Postgraduate,Good,Low,0.08,None,$15K to $35K,Low
-26-35,Employed,Buy a house,Postgraduate,Good,None,0.01,Adequate,Above $50K,Low
-26-35,Self-Employed,Buy a house,Graduate,Poor,None,0.0,None,Above $50K,Low
-26-35,Unemployed,Invest in business,Graduate,Good,High,0.0,Adequate,Above $50K,Moderate
-18-25,Self-Employed,Pay debts,Postgraduate,Good,High,0.05,Adequate,$15K to $35K,Low
-36-45,Employed,Invest in business,Graduate,Good,High,0.06,Adequate,$15K to $35K,Low
-18-25,Unemployed,Buy a house,Graduate,Unknown,None,0.03,None,Above $50K,Low
-26-35,Self-Employed,Invest in business,High School,Poor,High,0.05,None,$15K to $35K,Moderate
-26-35,Self-Employed,Buy a house,Graduate,Poor,High,0.03,Adequate,$15K to $35K,High
-26-35,Self-Employed,Buy a house,Graduate,Poor,None,0.01,Adequate,Above $50K,Low
-46-55,Unemployed,Buy a house,Graduate,Good,None,0.08,None,$15K to $35K,Low
-36-45,Employed,Pay debts,High School,Good,None,0.04,Adequate,$35K to $50K,Low
-18-25,Self-Employed,Pay debts,High School,Unknown,Low,0.01,Adequate,$35K to $50K,Low
-36-45,Employed,Buy a house,Postgraduate,Good,Low,0.0,None,$0 to $15K,Moderate
-36-45,Employed,Invest in business,High School,Poor,None,0.01,Adequate,Above $50K,Low
-18-25,Self-Employed,Buy a house,Postgraduate,Unknown,High,0.0,Adequate,$0 to $15K,Moderate
-36-45,Employed,Invest in business,Graduate,Poor,High,0.0,None,$0 to $15K,High
-26-35,Self-Employed,Invest in business,High School,Unknown,None,0.0,None,Above $50K,Low
-18-25,Self-Employed,Buy a house,Postgraduate,Poor,Low,0.03,Adequate,$35K to $50K,Moderate
-46-55,Employed,Pay debts,Postgraduate,Good,None,0.02,None,Above $50K,Low
-46-55,Employed,Pay debts,High School,Poor,None,0.01,Adequate,$15K to $35K,Low
-56+,Employed,Pay debts,Postgraduate,Unknown,None,0.02,Adequate,Above $50K,Low
-56+,Employed,Invest in business,Graduate,Good,None,0.03,Adequate,Above $50K,Moderate
-46-55,Unemployed,Buy a house,Postgraduate,Good,None,0.04,Adequate,$35K to $50K,Moderate
-26-35,Unemployed,Invest in business,Graduate,Poor,Low,0.01,Adequate,$15K to $35K,Low
-18-25,Self-Employed,Invest in business,High School,Good,None,0.01,Adequate,$35K to $50K,Moderate
-56+,Employed,Buy a house,Graduate,Good,Low,0.0,None,$0 to $15K,Low
-18-25,Employed,Buy a house,Postgraduate,Good,None,0.01,None,Above $50K,Low
-26-35,Employed,Invest in business,High School,Poor,Low,0.0,Adequate,$0 to $15K,Low
-56+,Employed,Buy a house,Graduate,Good,None,0.02,None,Above $50K,Low
-46-55,Unemployed,Invest in business,Graduate,Poor,High,0.09,Adequate,$15K to $35K,Moderate
-56+,Employed,Invest in business,High School,Poor,Low,0.0,None,$0 to $15K,Low
-26-35,Unemployed,Invest in business,Graduate,Poor,High,0.04,Adequate,$15K to $35K,High
-26-35,Unemployed,Buy a house,Postgraduate,Unknown,None,0.03,None,Above $50K,Low
-56+,Employed,Invest in business,High School,Unknown,None,0.08,Adequate,$15K to $35K,Low
-18-25,Unemployed,Buy a house,Graduate,Poor,None,0.01,None,Above $50K,Low
-36-45,Employed,Pay debts,High School,Poor,Low,0.0,None,$0 to $15K,Moderate
-46-55,Unemployed,Pay debts,Postgraduate,Good,None,0.02,Adequate,Above $50K,Low
-36-45,Employed,Invest in business,High School,Poor,None,0.02,None,Above $50K,Low
-36-45,Unemployed,Pay debts,Postgraduate,Good,Low,0.0,None,$0 to $15K,Low
-56+,Employed,Invest in business,Graduate,Good,Low,0.03,None,$35K to $50K,Moderate
-46-55,Employed,Invest in business,Graduate,Good,Low,0.02,None,Above $50K,Low
-18-25,Self-Employed,Buy a house,Graduate,Good,None,0.0,None,Above $50K,Low
-36-45,Employed,Buy a house,Postgraduate,Poor,Low,0.0,None,$0 to $15K,Moderate
-26-35,Unemployed,Buy a house,Graduate,Poor,High,0.02,None,Above $50K,High
-18-25,Employed,Invest in business,High School,Poor,Low,0.01,Adequate,$15K to $35K,Low
-18-25,Self-Employed,Invest in business,High School,Unknown,None,0.02,None,Above $50K,Low
-18-25,Employed,Buy a house,Postgraduate,Poor,Low,0.03,None,$35K to $50K,Low
-36-45,Unemployed,Invest in business,Graduate,Poor,High,0.03,Adequate,Above $50K,Moderate
-36-45,Employed,Pay debts,Postgraduate,Unknown,None,0.03,None,Above $50K,Low
-56+,Employed,Invest in business,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Low
-18-25,Unemployed,Buy a house,Postgraduate,Unknown,Low,0.09,Adequate,$15K to $35K,Low
-26-35,Unemployed,Buy a house,Graduate,Poor,High,0.0,None,$0 to $15K,High
-56+,Employed,Pay debts,High School,Good,None,0.02,None,Above $50K,Low
-18-25,Employed,Pay debts,Postgraduate,Unknown,None,0.02,None,Above $50K,Low
-26-35,Self-Employed,Invest in business,High School,Poor,None,0.03,Adequate,$35K to $50K,Low
-56+,Employed,Invest in business,High School,Good,Low,0.02,Adequate,$35K to $50K,Low
-46-55,Employed,Buy a house,Postgraduate,Poor,Low,0.0,Adequate,Above $50K,Low
-26-35,Employed,Pay debts,Postgraduate,Poor,None,0.03,None,$35K to $50K,Low
-46-55,Unemployed,Pay debts,High School,Good,High,0.0,Adequate,$0 to $15K,Moderate
-36-45,Employed,Invest in business,Graduate,Poor,None,0.0,None,$0 to $15K,Low
+26-35,Self-Employed,Buy a house,Graduate,Unknown,None,0.02,None,Above $50K,Low
+18-25,Self-Employed,Buy a house,Graduate,Poor,None,0.09,Adequate,$15K to $35K,Low
+18-25,Employed,Pay debts,Postgraduate,Good,None,0.04,Adequate,$15K to $35K,Low
+26-35,Employed,Invest in business,Graduate,Unknown,High,0.03,None,$35K to $50K,Moderate
+26-35,Self-Employed,Invest in business,Graduate,Unknown,Low,0.07,Adequate,$15K to $35K,Low
 56+,Employed,Invest in business,Graduate,Good,None,0.03,None,Above $50K,Low
-18-25,Self-Employed,Buy a house,Graduate,Good,Low,0.0,None,$0 to $15K,Low
-36-45,Unemployed,Buy a house,Graduate,Poor,High,0.0,None,$0 to $15K,High
-56+,Employed,Buy a house,Graduate,Unknown,Low,0.05,None,$35K to $50K,Low
-36-45,Unemployed,Pay debts,Postgraduate,Unknown,None,0.0,Adequate,Above $50K,Low
-56+,Employed,Pay debts,Postgraduate,Good,Low,0.0,Adequate,$0 to $15K,Low
-36-45,Unemployed,Invest in business,High School,Good,Low,0.04,None,$15K to $35K,Low
-46-55,Unemployed,Buy a house,Postgraduate,Unknown,Low,0.09,Adequate,$15K to $35K,Moderate
-56+,Employed,Pay debts,High School,Poor,Low,0.0,Adequate,$0 to $15K,Low
-18-25,Employed,Pay debts,High School,Unknown,None,0.09,Adequate,$15K to $35K,Low
-56+,Employed,Pay debts,Postgraduate,Poor,High,0.0,None,$15K to $35K,High
-36-45,Employed,Buy a house,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Moderate
-36-45,Employed,Buy a house,Postgraduate,Unknown,Low,0.03,None,$15K to $35K,Moderate
-46-55,Employed,Invest in business,High School,Unknown,Low,0.0,None,$0 to $15K,Low
-46-55,Employed,Invest in business,Graduate,Poor,High,0.0,Adequate,$0 to $15K,Moderate
-36-45,Unemployed,Invest in business,Graduate,Poor,High,0.0,None,$0 to $15K,Moderate
-26-35,Employed,Pay debts,Postgraduate,Unknown,Low,0.01,Adequate,$35K to $50K,Low
-18-25,Employed,Buy a house,Postgraduate,Good,High,0.0,Adequate,$0 to $15K,Low
-46-55,Unemployed,Pay debts,High School,Good,None,0.02,Adequate,$35K to $50K,Low
-36-45,Employed,Pay debts,Postgraduate,Poor,None,0.05,Adequate,$35K to $50K,Low
-26-35,Self-Employed,Invest in business,High School,Good,Low,0.0,Adequate,$0 to $15K,Low
-56+,Employed,Pay debts,Postgraduate,Poor,None,0.0,None,Above $50K,Low
-18-25,Employed,Invest in business,Graduate,Good,Low,0.01,None,$35K to $50K,Moderate
-46-55,Unemployed,Pay debts,Postgraduate,Good,Low,0.0,None,$0 to $15K,Moderate
-36-45,Employed,Invest in business,High School,Good,None,0.01,None,Above $50K,Low
-26-35,Employed,Invest in business,High School,Poor,None,0.02,Adequate,Above $50K,Low
-46-55,Unemployed,Buy a house,Graduate,Unknown,None,0.08,Adequate,$15K to $35K,Low
-36-45,Unemployed,Invest in business,High School,Unknown,Low,0.05,None,$35K to $50K,Moderate
-46-55,Employed,Buy a house,Postgraduate,Unknown,High,0.02,None,$35K to $50K,Moderate
-56+,Employed,Invest in business,High School,Unknown,Low,0.0,None,$0 to $15K,Moderate
-46-55,Employed,Invest in business,Graduate,Poor,High,0.0,None,$0 to $15K,High
-46-55,Unemployed,Invest in business,High School,Poor,Low,0.0,None,$0 to $15K,Low
-18-25,Unemployed,Buy a house,Postgraduate,Unknown,Low,0.0,Adequate,$0 to $15K,Low
-46-55,Unemployed,Invest in business,High School,Good,High,0.06,None,$15K to $35K,High
-26-35,Employed,Pay debts,High School,Good,High,0.03,None,Above $50K,High
-56+,Employed,Pay debts,High School,Unknown,Low,0.04,None,$35K to $50K,Low
-36-45,Employed,Pay debts,High School,Poor,High,0.0,Adequate,$0 to $15K,High
-56+,Employed,Buy a house,Postgraduate,Unknown,High,0.0,Adequate,$0 to $15K,High
-26-35,Self-Employed,Buy a house,Graduate,Good,High,0.08,Adequate,$15K to $35K,Moderate
-26-35,Employed,Buy a house,Postgraduate,Poor,Low,0.0,None,$0 to $15K,Low
-46-55,Unemployed,Buy a house,Postgraduate,Good,None,0.01,Adequate,Above $50K,Moderate
-56+,Employed,Invest in business,Graduate,Unknown,High,0.0,None,$0 to $15K,Moderate
-46-55,Employed,Buy a house,Graduate,Unknown,None,0.02,None,Above $50K,Low
-46-55,Unemployed,Invest in business,High School,Good,High,0.04,None,$15K to $35K,Moderate
-56+,Employed,Pay debts,Postgraduate,Good,None,0.03,Adequate,$35K to $50K,Low
-36-45,Unemployed,Buy a house,Postgraduate,Poor,None,0.02,Adequate,Above $50K,Low
-56+,Employed,Invest in business,High School,Unknown,Low,0.08,Adequate,$15K to $35K,Moderate
-26-35,Unemployed,Pay debts,Postgraduate,Good,None,0.02,Adequate,Above $50K,Low
-36-45,Employed,Buy a house,Postgraduate,Poor,High,0.02,None,Above $50K,Moderate
-36-45,Employed,Buy a house,Postgraduate,Poor,Low,0.08,Adequate,$15K to $35K,Moderate
-46-55,Employed,Pay debts,Postgraduate,Good,None,0.02,Adequate,$35K to $50K,Low
-46-55,Unemployed,Buy a house,Graduate,Unknown,High,0.02,None,$15K to $35K,High
-56+,Employed,Invest in business,Graduate,Good,Low,0.03,None,$35K to $50K,Low
-26-35,Employed,Pay debts,Postgraduate,Poor,None,0.03,None,$15K to $35K,Low
-46-55,Unemployed,Invest in business,High School,Unknown,None,0.03,None,Above $50K,Low
-26-35,Self-Employed,Pay debts,High School,Good,None,0.03,None,Above $50K,Low
-18-25,Self-Employed,Pay debts,High School,Poor,None,0.05,None,$35K to $50K,Low
-18-25,Employed,Buy a house,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Moderate
-26-35,Employed,Buy a house,Postgraduate,Unknown,None,0.04,Adequate,$35K to $50K,Low
-36-45,Unemployed,Invest in business,Graduate,Unknown,High,0.1,None,$15K to $35K,High
-56+,Employed,Invest in business,High School,Poor,None,0.03,Adequate,$35K to $50K,Low
-26-35,Unemployed,Invest in business,High School,Unknown,None,0.01,Adequate,Above $50K,Low
-46-55,Unemployed,Pay debts,Postgraduate,Unknown,High,0.0,None,$0 to $15K,High
-26-35,Employed,Pay debts,Postgraduate,Good,High,0.03,Adequate,$15K to $35K,Low
-46-55,Unemployed,Pay debts,Postgraduate,Poor,Low,0.01,None,$15K to $35K,Moderate
-36-45,Employed,Invest in business,High School,Good,Low,0.04,Adequate,$35K to $50K,Low
-26-35,Unemployed,Buy a house,Postgraduate,Poor,None,0.0,None,$0 to $15K,Low
-26-35,Unemployed,Buy a house,Graduate,Unknown,High,0.0,None,$0 to $15K,Moderate
-56+,Employed,Pay debts,High School,Good,None,0.03,None,Above $50K,Low
-36-45,Employed,Buy a house,Postgraduate,Unknown,None,0.03,None,$35K to $50K,Low
-18-25,Employed,Invest in business,Graduate,Unknown,None,0.01,None,Above $50K,Low
-18-25,Unemployed,Pay debts,Postgraduate,Unknown,High,0.01,Adequate,Above $50K,High
-18-25,Employed,Buy a house,Graduate,Poor,None,0.02,Adequate,Above $50K,Low
-56+,Employed,Pay debts,Postgraduate,Poor,Low,0.0,None,$0 to $15K,Low
-18-25,Employed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Low
-18-25,Self-Employed,Invest in business,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
-36-45,Employed,Invest in business,Graduate,Unknown,Low,0.04,Adequate,$35K to $50K,Low
-46-55,Employed,Pay debts,High School,Unknown,Low,0.02,Adequate,$35K to $50K,Low
-18-25,Employed,Invest in business,Graduate,Good,None,0.01,None,Above $50K,Low
-36-45,Employed,Invest in business,High School,Poor,Low,0.02,Adequate,$15K to $35K,Moderate
-26-35,Self-Employed,Invest in business,Graduate,Unknown,High,0.03,Adequate,$15K to $35K,Moderate
-18-25,Unemployed,Pay debts,Postgraduate,Unknown,Low,0.02,Adequate,$35K to $50K,Moderate
-46-55,Unemployed,Invest in business,High School,Unknown,None,0.02,None,$35K to $50K,Low
-18-25,Unemployed,Buy a house,Graduate,Poor,None,0.01,None,$35K to $50K,Low
-46-55,Unemployed,Buy a house,Graduate,Good,High,0.0,None,$0 to $15K,High
-26-35,Unemployed,Buy a house,Postgraduate,Good,None,0.02,None,Above $50K,Low
-26-35,Unemployed,Buy a house,Postgraduate,Poor,High,0.04,None,$15K to $35K,High
-56+,Employed,Pay debts,High School,Unknown,None,0.03,Adequate,Above $50K,Low
-18-25,Unemployed,Pay debts,High School,Unknown,None,0.04,None,$15K to $35K,Low
-46-55,Employed,Invest in business,High School,Poor,None,0.01,None,$35K to $50K,Low
-46-55,Employed,Buy a house,Postgraduate,Unknown,High,0.01,None,$35K to $50K,Moderate
-26-35,Self-Employed,Buy a house,Graduate,Poor,None,0.02,None,Above $50K,Low
-46-55,Unemployed,Pay debts,Postgraduate,Good,Low,0.01,None,$35K to $50K,Low
-46-55,Unemployed,Pay debts,Postgraduate,Good,Low,0.05,Adequate,$35K to $50K,Low
-36-45,Employed,Buy a house,Postgraduate,Poor,None,0.02,None,Above $50K,Low
-46-55,Employed,Invest in business,Graduate,Poor,None,0.04,Adequate,$35K to $50K,Low
-36-45,Employed,Invest in business,Graduate,Good,Low,0.01,Adequate,$35K to $50K,Low
-18-25,Employed,Buy a house,Postgraduate,Poor,Low,0.03,None,Above $50K,Low
-18-25,Employed,Pay debts,Postgraduate,Unknown,Low,0.03,None,$35K to $50K,Moderate
-36-45,Employed,Pay debts,Postgraduate,Poor,None,0.06,Adequate,$15K to $35K,Low
-26-35,Employed,Buy a house,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,High
-18-25,Self-Employed,Buy a house,Graduate,Unknown,High,0.01,None,$35K to $50K,Moderate
-36-45,Unemployed,Pay debts,Postgraduate,Unknown,None,0.02,None,Above $50K,Low
-56+,Employed,Pay debts,Postgraduate,Unknown,High,0.09,None,$15K to $35K,High
-36-45,Unemployed,Buy a house,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
-18-25,Self-Employed,Invest in business,High School,Unknown,Low,0.02,Adequate,$15K to $35K,Moderate
-26-35,Unemployed,Pay debts,Postgraduate,Poor,Low,0.0,None,$35K to $50K,Low
-56+,Employed,Buy a house,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,High
-18-25,Self-Employed,Pay debts,Postgraduate,Unknown,Low,0.0,None,$15K to $35K,Moderate
-26-35,Employed,Pay debts,Postgraduate,Unknown,High,0.0,Adequate,$0 to $15K,High
-26-35,Self-Employed,Pay debts,High School,Unknown,High,0.0,Adequate,$0 to $15K,High
-26-35,Self-Employed,Invest in business,High School,Unknown,High,0.04,None,$35K to $50K,Moderate
-18-25,Self-Employed,Buy a house,Postgraduate,Poor,High,0.0,None,$0 to $15K,Moderate
-46-55,Unemployed,Pay debts,Postgraduate,Unknown,Low,0.0,None,$0 to $15K,Low
-26-35,Unemployed,Pay debts,High School,Poor,None,0.03,Adequate,Above $50K,Low
-36-45,Employed,Invest in business,Graduate,Unknown,None,0.08,Adequate,$15K to $35K,Low
-26-35,Employed,Pay debts,Postgraduate,Good,None,0.08,None,$15K to $35K,Low
-46-55,Employed,Invest in business,Graduate,Unknown,None,0.01,Adequate,Above $50K,Low
-26-35,Unemployed,Invest in business,Graduate,Unknown,None,0.0,Adequate,$35K to $50K,Low
-36-45,Unemployed,Invest in business,Graduate,Unknown,None,0.03,None,Above $50K,Low
-26-35,Self-Employed,Pay debts,Postgraduate,Poor,None,0.01,None,$35K to $50K,Low
-56+,Employed,Invest in business,High School,Poor,None,0.02,None,Above $50K,Low
-26-35,Self-Employed,Buy a house,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Moderate
-56+,Employed,Buy a house,Postgraduate,Poor,None,0.02,Adequate,$35K to $50K,Low
-56+,Employed,Pay debts,High School,Good,Low,0.08,None,$15K to $35K,Moderate
-36-45,Employed,Pay debts,High School,Poor,Low,0.0,None,$0 to $15K,Moderate
-18-25,Employed,Invest in business,Graduate,Poor,High,0.0,None,$0 to $15K,Moderate
-26-35,Self-Employed,Pay debts,High School,Unknown,None,0.04,None,$35K to $50K,Low
-56+,Employed,Invest in business,Graduate,Good,High,0.04,None,$15K to $35K,Moderate
-36-45,Employed,Invest in business,High School,Good,None,0.0,Adequate,$0 to $15K,Moderate
-18-25,Unemployed,Buy a house,Graduate,Poor,None,0.03,Adequate,Above $50K,Low
-46-55,Unemployed,Buy a house,Postgraduate,Good,None,0.0,None,$15K to $35K,Low
-46-55,Employed,Pay debts,High School,Unknown,Low,0.07,None,$15K to $35K,Low
-36-45,Unemployed,Pay debts,High School,Poor,Low,0.01,Adequate,$15K to $35K,Low
-46-55,Employed,Invest in business,Graduate,Good,None,0.03,None,Above $50K,Low
-46-55,Unemployed,Invest in business,High School,Poor,High,0.0,Adequate,$0 to $15K,Moderate
-56+,Employed,Pay debts,High School,Unknown,High,0.0,None,$0 to $15K,High
-36-45,Unemployed,Invest in business,High School,Poor,None,0.0,None,$0 to $15K,Low
-46-55,Unemployed,Pay debts,High School,Unknown,Low,0.09,None,$15K to $35K,Low
-46-55,Employed,Pay debts,High School,Good,Low,0.0,None,$0 to $15K,Low
-26-35,Self-Employed,Pay debts,Postgraduate,Good,High,0.05,Adequate,$15K to $35K,Low
-36-45,Unemployed,Buy a house,Postgraduate,Poor,None,0.01,Adequate,$35K to $50K,Low
-46-55,Unemployed,Pay debts,High School,Good,None,0.03,None,Above $50K,Low
-36-45,Employed,Invest in business,Graduate,Poor,None,0.01,None,Above $50K,Low
-46-55,Employed,Invest in business,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
-56+,Employed,Pay debts,High School,Poor,None,0.02,Adequate,$35K to $50K,Low
-56+,Employed,Buy a house,Graduate,Unknown,None,0.02,None,Above $50K,Low
-36-45,Unemployed,Invest in business,Graduate,Unknown,High,0.0,Adequate,Above $50K,Moderate
-18-25,Unemployed,Buy a house,Graduate,Poor,Low,0.0,Adequate,$0 to $15K,Low
-18-25,Employed,Pay debts,Postgraduate,Unknown,Low,0.03,None,$35K to $50K,Low
-18-25,Unemployed,Pay debts,High School,Unknown,Low,0.01,Adequate,Above $50K,Low
-26-35,Self-Employed,Pay debts,Postgraduate,Poor,None,0.1,Adequate,$15K to $35K,Low
-56+,Employed,Pay debts,High School,Poor,Low,0.07,Adequate,$15K to $35K,Moderate
-56+,Employed,Buy a house,Graduate,Unknown,Low,0.1,None,$15K to $35K,Low
-46-55,Unemployed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Moderate
-46-55,Unemployed,Buy a house,Graduate,Good,None,0.04,Adequate,$15K to $35K,Moderate
-46-55,Unemployed,Buy a house,Graduate,Poor,High,0.0,Adequate,$0 to $15K,High
-56+,Employed,Buy a house,Postgraduate,Poor,High,0.06,Adequate,$15K to $35K,Moderate
-26-35,Self-Employed,Invest in business,High School,Poor,None,0.03,Adequate,Above $50K,Low
-56+,Employed,Invest in business,High School,Unknown,None,0.0,Adequate,$0 to $15K,Low
-46-55,Unemployed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Moderate
-26-35,Unemployed,Invest in business,High School,Unknown,Low,0.02,Adequate,$35K to $50K,Moderate
-46-55,Employed,Pay debts,High School,Poor,High,0.0,Adequate,$0 to $15K,High
-56+,Employed,Invest in business,High School,Unknown,None,0.03,Adequate,$35K to $50K,Low
-18-25,Unemployed,Buy a house,Graduate,Poor,None,0.04,Adequate,$15K to $35K,Low
-18-25,Employed,Buy a house,Postgraduate,Unknown,Low,0.0,None,$0 to $15K,Low
-56+,Employed,Buy a house,Graduate,Poor,High,0.07,Adequate,$15K to $35K,Moderate
-56+,Employed,Invest in business,High School,Unknown,None,0.02,Adequate,Above $50K,Low
-18-25,Self-Employed,Buy a house,Graduate,Good,Low,0.0,None,$0 to $15K,Moderate
-18-25,Unemployed,Pay debts,Postgraduate,Unknown,None,0.01,None,$35K to $50K,Low
-46-55,Unemployed,Pay debts,Postgraduate,Good,None,0.01,Adequate,Above $50K,Low
-36-45,Unemployed,Buy a house,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,Moderate
-18-25,Self-Employed,Buy a house,Graduate,Poor,High,0.08,Adequate,$15K to $35K,High
-26-35,Unemployed,Buy a house,Postgraduate,Unknown,High,0.08,Adequate,$15K to $35K,Moderate
-46-55,Employed,Buy a house,Postgraduate,Unknown,High,0.01,Adequate,$15K to $35K,Moderate
-18-25,Self-Employed,Pay debts,High School,Unknown,High,0.08,None,$15K to $35K,High
-26-35,Unemployed,Buy a house,Postgraduate,Unknown,None,0.09,Adequate,$15K to $35K,Low
-36-45,Employed,Pay debts,High School,Unknown,High,0.0,None,$0 to $15K,High
-36-45,Employed,Pay debts,Postgraduate,Unknown,None,0.02,None,$15K to $35K,Low
-26-35,Self-Employed,Pay debts,Postgraduate,Good,None,0.02,None,Above $50K,Low
-18-25,Unemployed,Buy a house,Postgraduate,Good,Low,0.06,Adequate,$15K to $35K,Low
-36-45,Unemployed,Invest in business,Graduate,Unknown,Low,0.09,None,$15K to $35K,Moderate
-36-45,Unemployed,Buy a house,Graduate,Unknown,Low,0.01,Adequate,$15K to $35K,Moderate
-26-35,Self-Employed,Buy a house,Postgraduate,Poor,None,0.02,Adequate,Above $50K,Low
-36-45,Unemployed,Pay debts,High School,Unknown,High,0.0,Adequate,$0 to $15K,High
-56+,Employed,Pay debts,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,High
-56+,Employed,Buy a house,Postgraduate,Good,None,0.03,None,$35K to $50K,Low
-26-35,Employed,Buy a house,Postgraduate,Poor,Low,0.07,None,$15K to $35K,Moderate
-46-55,Employed,Buy a house,Postgraduate,Poor,Low,0.08,Adequate,$15K to $35K,Moderate
-46-55,Unemployed,Invest in business,High School,Unknown,None,0.0,Adequate,Above $50K,Low
-26-35,Employed,Buy a house,Postgraduate,Unknown,None,0.0,None,Above $50K,Low
-36-45,Unemployed,Buy a house,Graduate,Poor,High,0.0,Adequate,$0 to $15K,High
-18-25,Self-Employed,Buy a house,Postgraduate,Poor,Low,0.0,Adequate,$35K to $50K,Low
-36-45,Unemployed,Pay debts,High School,Poor,High,0.0,Adequate,$0 to $15K,High
-56+,Employed,Pay debts,High School,Unknown,High,0.03,Adequate,Above $50K,High
-56+,Employed,Invest in business,High School,Unknown,Low,0.02,None,$35K to $50K,Moderate
-18-25,Self-Employed,Invest in business,Graduate,Poor,High,0.0,None,$0 to $15K,High
-18-25,Self-Employed,Buy a house,Graduate,Poor,High,0.0,None,$0 to $15K,Moderate
-26-35,Unemployed,Buy a house,Postgraduate,Good,None,0.03,None,Above $50K,Low
-26-35,Unemployed,Buy a house,Graduate,Poor,None,0.02,Adequate,Above $50K,Low
-56+,Employed,Pay debts,Postgraduate,Poor,High,0.0,None,$0 to $15K,High
-36-45,Employed,Buy a house,Postgraduate,Good,High,0.0,Adequate,$0 to $15K,Moderate
-18-25,Self-Employed,Buy a house,Graduate,Poor,Low,0.05,None,$15K to $35K,Moderate
-46-55,Employed,Buy a house,Graduate,Unknown,Low,0.08,Adequate,$15K to $35K,Low
-46-55,Unemployed,Buy a house,Postgraduate,Unknown,None,0.01,None,Above $50K,Low
-18-25,Employed,Buy a house,Graduate,Unknown,None,0.01,None,Above $50K,Low
-36-45,Employed,Invest in business,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
-36-45,Employed,Invest in business,High School,Unknown,None,0.06,None,$15K to $35K,Low
-56+,Employed,Invest in business,High School,Poor,None,0.02,Adequate,$35K to $50K,Low
-26-35,Unemployed,Invest in business,Graduate,Good,None,0.0,None,$15K to $35K,Low
-46-55,Unemployed,Buy a house,Postgraduate,Good,None,0.0,None,$0 to $15K,Low
-26-35,Employed,Invest in business,High School,Good,Low,0.0,Adequate,$0 to $15K,Low
-36-45,Unemployed,Buy a house,Graduate,Poor,Low,0.02,None,$35K to $50K,Moderate
-56+,Employed,Pay debts,Postgraduate,Unknown,High,0.02,None,$15K to $35K,High
-46-55,Unemployed,Buy a house,Postgraduate,Poor,None,0.02,Adequate,Above $50K,Low
-46-55,Unemployed,Pay debts,Postgraduate,Unknown,Low,0.03,Adequate,Above $50K,Low
-36-45,Unemployed,Buy a house,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,Moderate
-36-45,Unemployed,Buy a house,Graduate,Good,Low,0.03,None,$35K to $50K,Low
-46-55,Unemployed,Buy a house,Graduate,Good,Low,0.02,Adequate,$15K to $35K,Low
-46-55,Unemployed,Buy a house,Graduate,Poor,Low,0.0,None,$35K to $50K,Moderate
-36-45,Employed,Invest in business,High School,Poor,Low,0.03,Adequate,$35K to $50K,Moderate
-56+,Employed,Buy a house,Graduate,Poor,Low,0.01,None,$35K to $50K,Moderate
-26-35,Unemployed,Pay debts,High School,Unknown,None,0.01,Adequate,Above $50K,Low
-56+,Employed,Invest in business,Graduate,Good,None,0.04,Adequate,$35K to $50K,Moderate
-46-55,Employed,Invest in business,High School,Poor,Low,0.01,None,$35K to $50K,Low
-36-45,Employed,Invest in business,High School,Good,None,0.04,Adequate,$35K to $50K,Moderate
-46-55,Employed,Pay debts,High School,Poor,Low,0.0,None,$0 to $15K,Low
-18-25,Employed,Buy a house,Postgraduate,Unknown,High,0.0,None,$0 to $15K,Moderate
-56+,Employed,Invest in business,Graduate,Good,High,0.0,None,Above $50K,Moderate
-18-25,Self-Employed,Invest in business,High School,Poor,Low,0.08,Adequate,$15K to $35K,Moderate
-26-35,Unemployed,Buy a house,Postgraduate,Good,None,0.09,None,$15K to $35K,Low
-26-35,Employed,Buy a house,Postgraduate,Unknown,Low,0.04,Adequate,$35K to $50K,Moderate
-18-25,Self-Employed,Pay debts,Postgraduate,Poor,High,0.06,None,$15K to $35K,High
-26-35,Self-Employed,Buy a house,Postgraduate,Good,High,0.0,Adequate,$0 to $15K,Low
-36-45,Employed,Buy a house,Postgraduate,Unknown,Low,0.01,Adequate,$35K to $50K,Moderate
-46-55,Employed,Pay debts,High School,Poor,None,0.01,Adequate,Above $50K,Low
-18-25,Unemployed,Pay debts,High School,Good,None,0.03,Adequate,Above $50K,Low
-36-45,Unemployed,Invest in business,High School,Poor,None,0.02,None,Above $50K,Low
-46-55,Unemployed,Buy a house,Graduate,Poor,None,0.02,None,$35K to $50K,Low
-26-35,Unemployed,Buy a house,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Moderate
-56+,Employed,Buy a house,Postgraduate,Good,Low,0.0,None,$0 to $15K,Low
-18-25,Unemployed,Buy a house,Graduate,Good,High,0.0,Adequate,$0 to $15K,Low
-56+,Employed,Buy a house,Graduate,Unknown,Low,0.03,None,$35K to $50K,Moderate
-18-25,Self-Employed,Invest in business,Graduate,Good,None,0.0,None,$0 to $15K,Low
-56+,Employed,Pay debts,Postgraduate,Unknown,None,0.04,Adequate,$35K to $50K,Low
-18-25,Employed,Invest in business,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Low
-36-45,Unemployed,Invest in business,High School,Unknown,None,0.01,None,Above $50K,Low
-56+,Employed,Pay debts,Postgraduate,Good,High,0.07,Adequate,$15K to $35K,Low
-56+,Employed,Pay debts,High School,Poor,High,0.0,Adequate,$0 to $15K,High
-46-55,Employed,Buy a house,Graduate,Good,High,0.01,Adequate,$15K to $35K,Moderate
-26-35,Employed,Pay debts,Postgraduate,Poor,None,0.01,Adequate,Above $50K,Low
-26-35,Unemployed,Invest in business,High School,Good,None,0.03,None,Above $50K,Low
-36-45,Employed,Pay debts,Postgraduate,Poor,Low,0.07,None,$15K to $35K,Moderate
-26-35,Self-Employed,Pay debts,Postgraduate,Good,None,0.03,None,Above $50K,Low
-36-45,Unemployed,Invest in business,Graduate,Unknown,High,0.06,Adequate,$15K to $35K,Moderate
-36-45,Unemployed,Buy a house,Postgraduate,Unknown,High,0.0,Adequate,$0 to $15K,Moderate
-18-25,Employed,Invest in business,High School,Unknown,None,0.05,Adequate,$35K to $50K,Low
-46-55,Employed,Pay debts,Postgraduate,Good,None,0.0,None,Above $50K,Low
-18-25,Employed,Buy a house,Postgraduate,Poor,Low,0.0,None,$35K to $50K,Low
-36-45,Unemployed,Invest in business,Graduate,Poor,None,0.02,None,Above $50K,Low
-18-25,Employed,Buy a house,Postgraduate,Unknown,High,0.04,Adequate,$15K to $35K,High
-36-45,Unemployed,Invest in business,Graduate,Poor,None,0.09,None,$15K to $35K,Low
-56+,Employed,Buy a house,Postgraduate,Poor,None,0.05,Adequate,$35K to $50K,Low
-36-45,Unemployed,Buy a house,Postgraduate,Good,None,0.02,Adequate,Above $50K,Low
-46-55,Employed,Invest in business,High School,Poor,None,0.06,Adequate,$15K to $35K,Low
-36-45,Employed,Invest in business,High School,Poor,Low,0.0,None,$0 to $15K,Moderate
-26-35,Employed,Pay debts,Postgraduate,Good,None,0.01,Adequate,Above $50K,Low
-36-45,Employed,Invest in business,High School,Poor,None,0.02,None,$35K to $50K,Low
-36-45,Unemployed,Pay debts,Postgraduate,Poor,High,0.09,Adequate,$15K to $35K,High
-36-45,Employed,Invest in business,High School,Poor,High,0.03,Adequate,$15K to $35K,Moderate
-56+,Employed,Invest in business,High School,Unknown,Low,0.03,Adequate,$35K to $50K,Moderate
-56+,Employed,Pay debts,High School,Poor,None,0.01,Adequate,Above $50K,Low
-36-45,Employed,Buy a house,Graduate,Good,High,0.0,None,$0 to $15K,High
-36-45,Employed,Pay debts,High School,Good,High,0.01,None,$35K to $50K,High
-26-35,Self-Employed,Pay debts,High School,Unknown,Low,0.01,Adequate,$35K to $50K,Moderate
-26-35,Unemployed,Buy a house,Graduate,Unknown,Low,0.03,None,$35K to $50K,Moderate
-26-35,Self-Employed,Invest in business,Graduate,Poor,None,0.02,None,Above $50K,Low
-36-45,Employed,Pay debts,High School,Poor,Low,0.07,Adequate,$15K to $35K,Low
-46-55,Employed,Invest in business,Graduate,Unknown,Low,0.03,Adequate,$35K to $50K,Moderate
-26-35,Unemployed,Buy a house,Postgraduate,Good,None,0.01,Adequate,Above $50K,Low
-26-35,Self-Employed,Invest in business,Graduate,Unknown,Low,0.0,Adequate,Above $50K,Low
-26-35,Unemployed,Pay debts,Postgraduate,Poor,Low,0.01,None,$35K to $50K,Low
-46-55,Unemployed,Pay debts,Postgraduate,Good,Low,0.03,Adequate,$35K to $50K,Low
-46-55,Unemployed,Pay debts,Postgraduate,Unknown,High,0.0,Adequate,$0 to $15K,High
-36-45,Unemployed,Invest in business,Graduate,Unknown,None,0.04,Adequate,$35K to $50K,Low
-36-45,Employed,Pay debts,High School,Unknown,None,0.0,Adequate,$15K to $35K,Low
-26-35,Unemployed,Pay debts,Postgraduate,Unknown,High,0.0,Adequate,$0 to $15K,High
-36-45,Unemployed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Low
-46-55,Employed,Invest in business,Graduate,Unknown,Low,0.0,None,$0 to $15K,Low
-26-35,Self-Employed,Invest in business,High School,Poor,High,0.06,Adequate,$15K to $35K,Moderate
-56+,Employed,Invest in business,Graduate,Unknown,High,0.0,None,$0 to $15K,Moderate
-36-45,Employed,Buy a house,Postgraduate,Good,None,0.03,None,Above $50K,Low
-18-25,Unemployed,Buy a house,Graduate,Poor,Low,0.0,None,$0 to $15K,Low
+56+,Employed,Pay debts,High School,Good,None,0.02,None,$15K to $35K,Low
+56+,Employed,Buy a house,Postgraduate,Unknown,None,0.01,None,Above $50K,Low
+26-35,Unemployed,Buy a house,Postgraduate,Unknown,High,0.01,None,$15K to $35K,High
+36-45,Unemployed,Buy a house,Graduate,Poor,Low,0.04,None,$35K to $50K,Low
+46-55,Unemployed,Buy a house,Graduate,Unknown,None,0.03,Adequate,Above $50K,Low
+18-25,Unemployed,Invest in business,Graduate,Unknown,High,0.0,None,$0 to $15K,High
+46-55,Employed,Invest in business,High School,Unknown,Low,0.03,None,$35K to $50K,Low
+18-25,Self-Employed,Invest in business,Graduate,Good,None,0.01,Adequate,$35K to $50K,Moderate
+36-45,Unemployed,Invest in business,Graduate,Unknown,Low,0.06,Adequate,$15K to $35K,Moderate
+26-35,Employed,Invest in business,High School,Good,None,0.0,Adequate,Above $50K,Moderate
+18-25,Employed,Buy a house,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,Moderate
+18-25,Unemployed,Buy a house,Postgraduate,Unknown,None,0.08,Adequate,$15K to $35K,Low
+18-25,Employed,Invest in business,High School,Unknown,High,0.0,Adequate,$0 to $15K,High
+26-35,Employed,Buy a house,Postgraduate,Unknown,Low,0.1,None,$15K to $35K,Low
+26-35,Unemployed,Invest in business,High School,Unknown,None,0.03,None,Above $50K,Low
+56+,Employed,Buy a house,Postgraduate,Good,Low,0.0,Adequate,$0 to $15K,Low
+26-35,Self-Employed,Buy a house,Graduate,Good,High,0.02,None,$35K to $50K,Moderate
+56+,Employed,Buy a house,Postgraduate,Good,None,0.03,Adequate,$35K to $50K,Low
+36-45,Employed,Buy a house,Graduate,Unknown,None,0.0,None,$0 to $15K,Low
+46-55,Employed,Pay debts,Postgraduate,Good,Low,0.05,None,$35K to $50K,Low
+46-55,Unemployed,Pay debts,High School,Good,High,0.07,Adequate,$15K to $35K,Low
+46-55,Unemployed,Pay debts,High School,Good,High,0.03,None,$15K to $35K,High
+18-25,Unemployed,Buy a house,Postgraduate,Good,High,0.0,Adequate,$0 to $15K,Low
+36-45,Employed,Buy a house,Graduate,Good,Low,0.05,None,$15K to $35K,Moderate
+18-25,Self-Employed,Invest in business,High School,Poor,High,0.0,None,$0 to $15K,High
+56+,Employed,Pay debts,Postgraduate,Unknown,None,0.02,None,Above $50K,Low
+36-45,Unemployed,Buy a house,Postgraduate,Good,Low,0.09,Adequate,$15K to $35K,Low
+36-45,Employed,Invest in business,Graduate,Poor,Low,0.0,Adequate,$0 to $15K,Moderate
+26-35,Employed,Buy a house,Postgraduate,Good,High,0.0,Adequate,$0 to $15K,Moderate
+56+,Employed,Invest in business,Graduate,Unknown,None,0.1,Adequate,$15K to $35K,Low
+26-35,Unemployed,Pay debts,High School,Good,High,0.0,None,$0 to $15K,High
+46-55,Unemployed,Buy a house,Postgraduate,Good,None,0.01,None,$35K to $50K,Low
+26-35,Self-Employed,Pay debts,Postgraduate,Poor,None,0.01,Adequate,$15K to $35K,Low
+18-25,Unemployed,Buy a house,Graduate,Poor,None,0.03,None,$35K to $50K,Low
+26-35,Self-Employed,Pay debts,High School,Poor,None,0.02,None,Above $50K,Low
+18-25,Self-Employed,Pay debts,Postgraduate,Poor,Low,0.02,None,$35K to $50K,Moderate
+36-45,Employed,Invest in business,Graduate,Good,None,0.02,Adequate,Above $50K,Moderate
+46-55,Employed,Invest in business,Graduate,Unknown,None,0.02,None,Above $50K,Low
+46-55,Unemployed,Invest in business,Graduate,Good,None,0.01,Adequate,$35K to $50K,Moderate
+26-35,Self-Employed,Buy a house,Postgraduate,Good,High,0.03,None,$15K to $35K,Moderate
 36-45,Unemployed,Buy a house,Graduate,Good,None,0.03,None,Above $50K,Low
-36-45,Employed,Buy a house,Graduate,Good,None,0.03,None,$15K to $35K,Low
-56+,Employed,Pay debts,High School,Good,None,0.03,None,Above $50K,Low
-18-25,Employed,Invest in business,High School,Unknown,None,0.07,Adequate,$15K to $35K,Low
-26-35,Employed,Buy a house,Graduate,Poor,None,0.03,Adequate,Above $50K,Low
-18-25,Unemployed,Pay debts,High School,Poor,High,0.0,Adequate,$0 to $15K,High
-26-35,Self-Employed,Pay debts,High School,Poor,Low,0.0,Adequate,$0 to $15K,Moderate
-36-45,Employed,Invest in business,Graduate,Unknown,None,0.0,Adequate,$0 to $15K,Low
-18-25,Unemployed,Invest in business,Graduate,Poor,High,0.0,None,$0 to $15K,High
-18-25,Employed,Invest in business,High School,Poor,None,0.05,Adequate,$15K to $35K,Low
-56+,Employed,Buy a house,Postgraduate,Poor,High,0.04,Adequate,$35K to $50K,Moderate
-46-55,Employed,Invest in business,High School,Good,None,0.03,None,$35K to $50K,Low
-46-55,Employed,Invest in business,High School,Good,None,0.0,None,$15K to $35K,Low
-46-55,Employed,Invest in business,Graduate,Unknown,None,0.01,None,Above $50K,Low
+18-25,Employed,Pay debts,Postgraduate,Unknown,Low,0.02,None,$35K to $50K,Moderate
+56+,Employed,Invest in business,Graduate,Unknown,Low,0.02,None,$35K to $50K,Moderate
+46-55,Unemployed,Invest in business,Graduate,Poor,None,0.03,Adequate,$35K to $50K,Low
+18-25,Self-Employed,Buy a house,Graduate,Poor,None,0.0,None,$35K to $50K,Low
+36-45,Employed,Pay debts,High School,Unknown,High,0.02,None,$15K to $35K,High
+56+,Employed,Invest in business,High School,Poor,Low,0.04,Adequate,$15K to $35K,Moderate
+18-25,Self-Employed,Buy a house,Graduate,Poor,Low,0.0,Adequate,$0 to $15K,Moderate
+36-45,Unemployed,Pay debts,High School,Good,None,0.03,Adequate,$15K to $35K,Low
+46-55,Unemployed,Pay debts,High School,Unknown,None,0.01,None,Above $50K,Low
+36-45,Employed,Invest in business,High School,Poor,None,0.03,None,$15K to $35K,Low
+26-35,Unemployed,Pay debts,Postgraduate,Unknown,None,0.02,Adequate,$15K to $35K,Low
+46-55,Unemployed,Buy a house,Graduate,Good,None,0.01,Adequate,Above $50K,Low
+56+,Employed,Invest in business,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
+26-35,Self-Employed,Pay debts,Postgraduate,Good,None,0.04,None,$15K to $35K,Low
+56+,Employed,Buy a house,Graduate,Unknown,None,0.02,Adequate,Above $50K,Low
+26-35,Unemployed,Buy a house,Graduate,Poor,None,0.04,None,$35K to $50K,Low
+46-55,Unemployed,Pay debts,High School,Poor,Low,0.0,None,$0 to $15K,Moderate
+36-45,Employed,Pay debts,High School,Unknown,High,0.03,None,Above $50K,High
+36-45,Unemployed,Pay debts,High School,Unknown,High,0.0,None,$0 to $15K,High
+56+,Employed,Buy a house,Postgraduate,Poor,None,0.02,None,Above $50K,Low
+18-25,Employed,Pay debts,Postgraduate,Poor,High,0.07,None,$15K to $35K,High
+26-35,Self-Employed,Invest in business,Graduate,Unknown,High,0.0,Adequate,$0 to $15K,High
+18-25,Unemployed,Pay debts,High School,Unknown,None,0.02,Adequate,Above $50K,Low
+46-55,Employed,Buy a house,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Low
+36-45,Unemployed,Pay debts,Postgraduate,Good,None,0.02,None,Above $50K,Low
+18-25,Unemployed,Invest in business,High School,Poor,High,0.0,None,$0 to $15K,Moderate
+56+,Employed,Buy a house,Graduate,Poor,None,0.02,None,$15K to $35K,Low
+36-45,Unemployed,Pay debts,High School,Unknown,High,0.0,None,$0 to $15K,High
+46-55,Unemployed,Buy a house,Postgraduate,Good,None,0.02,None,Above $50K,Low
+18-25,Employed,Buy a house,Postgraduate,Poor,None,0.0,Adequate,Above $50K,Low
+18-25,Self-Employed,Invest in business,Graduate,Good,Low,0.06,None,$15K to $35K,Moderate
+46-55,Employed,Pay debts,Postgraduate,Unknown,High,0.0,None,$0 to $15K,High
+46-55,Unemployed,Pay debts,Postgraduate,Good,None,0.02,Adequate,Above $50K,Low
+56+,Employed,Buy a house,Postgraduate,Good,High,0.0,None,$0 to $15K,High
+26-35,Unemployed,Buy a house,Postgraduate,Unknown,None,0.01,Adequate,Above $50K,Low
+18-25,Self-Employed,Invest in business,High School,Unknown,Low,0.04,Adequate,$35K to $50K,Moderate
+26-35,Self-Employed,Buy a house,Postgraduate,Unknown,None,0.02,None,$35K to $50K,Low
+56+,Employed,Invest in business,High School,Unknown,None,0.05,Adequate,$35K to $50K,Low
+26-35,Self-Employed,Pay debts,High School,Unknown,Low,0.01,Adequate,$35K to $50K,Low
+36-45,Unemployed,Invest in business,High School,Unknown,None,0.01,Adequate,Above $50K,Low
+46-55,Employed,Pay debts,High School,Unknown,High,0.0,Adequate,$0 to $15K,High
+26-35,Self-Employed,Invest in business,High School,Good,High,0.0,Adequate,$0 to $15K,Low
+26-35,Unemployed,Pay debts,Postgraduate,Good,None,0.04,Adequate,$35K to $50K,Low
+36-45,Unemployed,Pay debts,High School,Good,Low,0.07,Adequate,$15K to $35K,Low
+46-55,Employed,Invest in business,High School,Good,High,0.05,Adequate,$15K to $35K,Low
+18-25,Unemployed,Pay debts,High School,Unknown,Low,0.1,Adequate,$15K to $35K,Moderate
+18-25,Unemployed,Invest in business,High School,Unknown,None,0.05,Adequate,$35K to $50K,Low
+56+,Employed,Buy a house,Postgraduate,Unknown,High,0.02,None,$35K to $50K,Moderate
+26-35,Employed,Pay debts,High School,Good,None,0.01,Adequate,$15K to $35K,Low
+26-35,Employed,Buy a house,Graduate,Poor,None,0.03,None,Above $50K,Low
+56+,Employed,Invest in business,Graduate,Good,None,0.02,None,Above $50K,Low
+46-55,Unemployed,Invest in business,Graduate,Unknown,High,0.1,Adequate,$15K to $35K,Moderate
+36-45,Unemployed,Buy a house,Postgraduate,Good,Low,0.07,Adequate,$15K to $35K,Low
+46-55,Employed,Pay debts,Postgraduate,Good,None,0.0,None,$0 to $15K,Low
+18-25,Unemployed,Invest in business,Graduate,Good,High,0.01,Adequate,$15K to $35K,Low
+46-55,Unemployed,Buy a house,Graduate,Unknown,High,0.0,Adequate,$0 to $15K,Moderate
+56+,Employed,Buy a house,Postgraduate,Poor,None,0.02,Adequate,Above $50K,Low
+18-25,Self-Employed,Invest in business,Graduate,Unknown,Low,0.04,Adequate,$35K to $50K,Moderate
+36-45,Employed,Pay debts,High School,Good,None,0.0,Adequate,$15K to $35K,Low
+18-25,Employed,Invest in business,Graduate,Good,Low,0.04,None,$35K to $50K,Moderate
+46-55,Unemployed,Buy a house,Postgraduate,Unknown,Low,0.0,None,$0 to $15K,Moderate
+18-25,Employed,Buy a house,Postgraduate,Good,High,0.0,None,$0 to $15K,Moderate
+36-45,Employed,Invest in business,High School,Unknown,None,0.0,Adequate,Above $50K,Low
+26-35,Self-Employed,Invest in business,High School,Unknown,Low,0.0,None,$0 to $15K,Moderate
+18-25,Self-Employed,Pay debts,Postgraduate,Poor,None,0.02,None,Above $50K,Low
+18-25,Self-Employed,Buy a house,Graduate,Unknown,High,0.0,Adequate,$35K to $50K,High
+26-35,Unemployed,Pay debts,High School,Good,None,0.04,Adequate,$35K to $50K,Low
+26-35,Employed,Invest in business,High School,Unknown,Low,0.06,Adequate,$15K to $35K,Low
+26-35,Self-Employed,Pay debts,Postgraduate,Good,Low,0.09,Adequate,$15K to $35K,Low
+36-45,Employed,Pay debts,Postgraduate,Unknown,None,0.09,None,$15K to $35K,Low
+18-25,Unemployed,Pay debts,High School,Unknown,None,0.0,None,$0 to $15K,Low
+36-45,Unemployed,Invest in business,High School,Poor,Low,0.01,Adequate,$35K to $50K,Moderate
+56+,Employed,Invest in business,Graduate,Unknown,None,0.02,None,Above $50K,Low
+46-55,Unemployed,Buy a house,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,Moderate
+18-25,Unemployed,Pay debts,Postgraduate,Unknown,None,0.02,Adequate,Above $50K,Low
+18-25,Unemployed,Buy a house,Graduate,Poor,Low,0.04,None,$15K to $35K,Low
+56+,Employed,Pay debts,Postgraduate,Good,None,0.0,Adequate,$35K to $50K,Low
+46-55,Unemployed,Buy a house,Graduate,Poor,None,0.05,None,$35K to $50K,Low
+36-45,Unemployed,Buy a house,Postgraduate,Poor,None,0.03,Adequate,$35K to $50K,Low
+18-25,Self-Employed,Invest in business,High School,Poor,High,0.02,None,$15K to $35K,High
+56+,Employed,Invest in business,High School,Good,None,0.02,Adequate,$35K to $50K,Moderate
+26-35,Employed,Invest in business,Graduate,Unknown,None,0.08,None,$15K to $35K,Low
+56+,Employed,Buy a house,Graduate,Good,High,0.0,Adequate,$0 to $15K,Moderate
+56+,Employed,Buy a house,Postgraduate,Good,None,0.0,Adequate,Above $50K,Moderate
+26-35,Unemployed,Invest in business,Graduate,Unknown,High,0.05,Adequate,$15K to $35K,Moderate
+56+,Employed,Pay debts,High School,Poor,Low,0.05,None,$35K to $50K,Low
+26-35,Employed,Pay debts,High School,Unknown,None,0.01,Adequate,Above $50K,Low
+18-25,Employed,Pay debts,High School,Poor,None,0.03,None,$35K to $50K,Low
+18-25,Unemployed,Pay debts,High School,Poor,Low,0.0,None,$0 to $15K,Low
+26-35,Self-Employed,Pay debts,High School,Unknown,Low,0.03,None,$35K to $50K,Moderate
+56+,Employed,Invest in business,Graduate,Unknown,None,0.01,Adequate,Above $50K,Low
+46-55,Employed,Invest in business,Graduate,Poor,Low,0.0,Adequate,$0 to $15K,Moderate
+18-25,Self-Employed,Pay debts,High School,Poor,Low,0.0,None,$0 to $15K,Low
+36-45,Employed,Pay debts,Postgraduate,Poor,None,0.03,Adequate,Above $50K,Low
+36-45,Unemployed,Pay debts,Postgraduate,Unknown,Low,0.0,Adequate,$0 to $15K,Low
+18-25,Unemployed,Pay debts,High School,Unknown,None,0.02,None,Above $50K,Low
+46-55,Unemployed,Pay debts,Postgraduate,Poor,None,0.0,Adequate,Above $50K,Low
+26-35,Employed,Buy a house,Postgraduate,Poor,Low,0.06,None,$15K to $35K,Moderate
+56+,Employed,Buy a house,Postgraduate,Good,High,0.0,None,Above $50K,Moderate
+26-35,Unemployed,Invest in business,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
+36-45,Unemployed,Invest in business,Graduate,Unknown,High,0.07,Adequate,$15K to $35K,High
+46-55,Unemployed,Pay debts,High School,Good,High,0.0,Adequate,$0 to $15K,Moderate
+18-25,Unemployed,Buy a house,Postgraduate,Unknown,Low,0.0,None,$0 to $15K,Low
+18-25,Employed,Buy a house,Postgraduate,Unknown,Low,0.02,Adequate,Above $50K,Low
+18-25,Unemployed,Invest in business,High School,Poor,Low,0.09,Adequate,$15K to $35K,Moderate
+26-35,Employed,Pay debts,High School,Poor,None,0.03,Adequate,Above $50K,Low
+26-35,Employed,Buy a house,Postgraduate,Good,Low,0.01,Adequate,Above $50K,Low
+26-35,Employed,Invest in business,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
+36-45,Unemployed,Invest in business,High School,Good,Low,0.03,Adequate,$35K to $50K,Low
+26-35,Self-Employed,Buy a house,Postgraduate,Good,Low,0.0,None,$0 to $15K,Low
+56+,Employed,Buy a house,Graduate,Unknown,High,0.03,None,Above $50K,Moderate
+26-35,Self-Employed,Buy a house,Postgraduate,Poor,High,0.0,None,$0 to $15K,Moderate
+18-25,Self-Employed,Pay debts,High School,Good,None,0.0,Adequate,$0 to $15K,Low
+56+,Employed,Invest in business,High School,Unknown,High,0.06,Adequate,$15K to $35K,Moderate
+26-35,Self-Employed,Invest in business,High School,Good,High,0.09,Adequate,$15K to $35K,Moderate
+26-35,Employed,Buy a house,Graduate,Unknown,High,0.0,Adequate,$0 to $15K,High
+56+,Employed,Invest in business,Graduate,Poor,None,0.01,Adequate,Above $50K,Low
+46-55,Employed,Buy a house,Graduate,Poor,None,0.02,Adequate,$35K to $50K,Low
+56+,Employed,Invest in business,High School,Good,Low,0.05,None,$35K to $50K,Low
+18-25,Self-Employed,Buy a house,Postgraduate,Unknown,None,0.03,Adequate,Above $50K,Low
+18-25,Self-Employed,Buy a house,Graduate,Unknown,None,0.01,Adequate,$35K to $50K,Low
+18-25,Unemployed,Buy a house,Postgraduate,Poor,None,0.01,None,Above $50K,Low
+26-35,Self-Employed,Invest in business,Graduate,Poor,High,0.0,None,$0 to $15K,High
+36-45,Unemployed,Buy a house,Graduate,Unknown,None,0.02,Adequate,Above $50K,Low
+26-35,Employed,Pay debts,High School,Poor,None,0.02,Adequate,Above $50K,Low
+56+,Employed,Invest in business,High School,Poor,Low,0.0,None,$0 to $15K,Low
+26-35,Self-Employed,Buy a house,Postgraduate,Poor,High,0.0,None,$0 to $15K,High
+26-35,Self-Employed,Invest in business,Graduate,Unknown,None,0.08,Adequate,$15K to $35K,Low
+46-55,Unemployed,Buy a house,Graduate,Unknown,High,0.03,None,Above $50K,Moderate
+46-55,Employed,Pay debts,Postgraduate,Unknown,Low,0.0,Adequate,$0 to $15K,Moderate
+26-35,Unemployed,Buy a house,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,High
+56+,Employed,Pay debts,High School,Unknown,None,0.03,None,$15K to $35K,Low
+56+,Employed,Buy a house,Graduate,Good,Low,0.01,None,$35K to $50K,Moderate
+36-45,Unemployed,Pay debts,Postgraduate,Unknown,None,0.05,Adequate,$35K to $50K,Low
+46-55,Employed,Buy a house,Graduate,Poor,High,0.0,None,$0 to $15K,High
+46-55,Employed,Buy a house,Graduate,Good,High,0.02,None,$15K to $35K,High
+56+,Employed,Pay debts,High School,Poor,High,0.0,Adequate,$0 to $15K,High
+46-55,Unemployed,Invest in business,Graduate,Poor,Low,0.0,None,$0 to $15K,Moderate
+56+,Employed,Pay debts,Postgraduate,Poor,None,0.01,None,Above $50K,Low
+46-55,Unemployed,Pay debts,High School,Poor,Low,0.03,Adequate,$35K to $50K,Moderate
+18-25,Unemployed,Pay debts,High School,Poor,High,0.1,None,$15K to $35K,High
+46-55,Employed,Invest in business,Graduate,Poor,High,0.01,Adequate,Above $50K,High
+36-45,Unemployed,Buy a house,Postgraduate,Good,None,0.0,None,Above $50K,Low
+46-55,Unemployed,Pay debts,High School,Good,None,0.08,None,$15K to $35K,Low
+56+,Employed,Buy a house,Postgraduate,Good,High,0.03,Adequate,$35K to $50K,Low
+56+,Employed,Invest in business,High School,Unknown,None,0.01,None,$15K to $35K,Low
+46-55,Unemployed,Pay debts,High School,Poor,High,0.02,None,$35K to $50K,High
+36-45,Unemployed,Pay debts,High School,Unknown,Low,0.0,None,$0 to $15K,Low
+26-35,Unemployed,Buy a house,Graduate,Good,Low,0.02,None,$35K to $50K,Low
+36-45,Employed,Pay debts,Postgraduate,Poor,High,0.03,None,$15K to $35K,High
 36-45,Unemployed,Buy a house,Postgraduate,Poor,None,0.03,Adequate,Above $50K,Low
-26-35,Self-Employed,Pay debts,Postgraduate,Unknown,Low,0.08,None,$15K to $35K,Moderate
+26-35,Self-Employed,Invest in business,High School,Poor,None,0.02,None,Above $50K,Low
+56+,Employed,Buy a house,Postgraduate,Poor,None,0.02,None,Above $50K,Low
+56+,Employed,Pay debts,High School,Unknown,Low,0.03,None,$15K to $35K,Low
+56+,Employed,Pay debts,Postgraduate,Good,None,0.03,None,Above $50K,Low
+18-25,Self-Employed,Invest in business,Graduate,Good,High,0.09,Adequate,$15K to $35K,Moderate
+36-45,Employed,Invest in business,High School,Good,Low,0.0,Adequate,$0 to $15K,Low
+26-35,Employed,Invest in business,High School,Poor,Low,0.02,None,$35K to $50K,Moderate
+18-25,Employed,Buy a house,Graduate,Good,High,0.0,None,$0 to $15K,Moderate
+56+,Employed,Pay debts,High School,Good,None,0.0,Adequate,Above $50K,Low
+26-35,Unemployed,Invest in business,Graduate,Poor,None,0.0,Adequate,Above $50K,Low
+46-55,Unemployed,Pay debts,High School,Poor,None,0.02,None,Above $50K,Low
+46-55,Unemployed,Invest in business,High School,Unknown,None,0.03,None,$15K to $35K,Low
+26-35,Employed,Invest in business,Graduate,Poor,Low,0.1,Adequate,$15K to $35K,Moderate
+18-25,Unemployed,Invest in business,Graduate,Unknown,None,0.04,Adequate,$35K to $50K,Low
+56+,Employed,Invest in business,Graduate,Good,High,0.0,Adequate,$0 to $15K,Moderate
+36-45,Employed,Buy a house,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,High
+36-45,Employed,Buy a house,Postgraduate,Unknown,Low,0.01,None,$35K to $50K,Low
+46-55,Unemployed,Pay debts,High School,Unknown,High,0.03,None,$35K to $50K,High
+36-45,Employed,Pay debts,High School,Poor,None,0.0,None,$0 to $15K,Low
+36-45,Unemployed,Pay debts,High School,Good,High,0.0,None,$0 to $15K,High
+56+,Employed,Pay debts,High School,Unknown,None,0.05,None,$35K to $50K,Low
+46-55,Unemployed,Invest in business,High School,Good,Low,0.0,None,$0 to $15K,Moderate
+46-55,Unemployed,Invest in business,Graduate,Good,High,0.0,Adequate,$0 to $15K,Low
+36-45,Unemployed,Invest in business,High School,Unknown,None,0.04,Adequate,$35K to $50K,Low
+36-45,Employed,Invest in business,High School,Poor,Low,0.0,Adequate,$0 to $15K,Moderate
+36-45,Employed,Buy a house,Postgraduate,Unknown,None,0.0,None,$0 to $15K,Low
+56+,Employed,Pay debts,High School,Unknown,None,0.03,None,Above $50K,Low
+36-45,Employed,Pay debts,High School,Unknown,High,0.0,None,$0 to $15K,High
+36-45,Employed,Buy a house,Graduate,Poor,Low,0.0,None,$0 to $15K,Moderate
+26-35,Unemployed,Pay debts,Postgraduate,Good,None,0.03,Adequate,Above $50K,Low
+46-55,Unemployed,Invest in business,High School,Good,High,0.03,Adequate,Above $50K,Low
+56+,Employed,Invest in business,Graduate,Poor,High,0.0,None,$0 to $15K,Moderate
+18-25,Unemployed,Invest in business,Graduate,Poor,High,0.01,Adequate,Above $50K,Moderate
+46-55,Employed,Buy a house,Graduate,Unknown,Low,0.03,Adequate,$35K to $50K,Low
+26-35,Self-Employed,Buy a house,Postgraduate,Poor,None,0.02,Adequate,Above $50K,Low
+36-45,Unemployed,Buy a house,Postgraduate,Good,None,0.03,None,Above $50K,Low
+56+,Employed,Invest in business,High School,Unknown,High,0.0,None,$0 to $15K,High
+46-55,Employed,Buy a house,Postgraduate,Poor,Low,0.08,None,$15K to $35K,Moderate
+36-45,Unemployed,Invest in business,Graduate,Poor,Low,0.0,Adequate,$0 to $15K,Low
+36-45,Unemployed,Buy a house,Postgraduate,Unknown,None,0.02,Adequate,Above $50K,Low
+46-55,Unemployed,Buy a house,Postgraduate,Good,None,0.02,None,Above $50K,Low
+18-25,Employed,Buy a house,Graduate,Poor,Low,0.01,None,$35K to $50K,Moderate
+36-45,Employed,Buy a house,Graduate,Unknown,None,0.03,None,$35K to $50K,Low
+36-45,Unemployed,Pay debts,Postgraduate,Unknown,High,0.0,Adequate,$0 to $15K,High
+56+,Employed,Pay debts,High School,Poor,Low,0.0,None,$0 to $15K,Moderate
+18-25,Self-Employed,Buy a house,Graduate,Good,Low,0.0,None,$0 to $15K,Moderate
+46-55,Employed,Buy a house,Graduate,Unknown,Low,0.0,None,$0 to $15K,Low
+46-55,Unemployed,Invest in business,Graduate,Poor,None,0.01,None,$35K to $50K,Low
+56+,Employed,Buy a house,Postgraduate,Poor,Low,0.0,Adequate,$0 to $15K,Low
+56+,Employed,Pay debts,Postgraduate,Unknown,High,0.0,Adequate,$0 to $15K,High
+26-35,Self-Employed,Buy a house,Graduate,Poor,High,0.05,None,$15K to $35K,High
+46-55,Employed,Buy a house,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Moderate
+46-55,Unemployed,Buy a house,Postgraduate,Unknown,Low,0.0,None,$15K to $35K,Moderate
+46-55,Unemployed,Invest in business,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Moderate
+56+,Employed,Buy a house,Postgraduate,Good,None,0.0,None,Above $50K,Low
+46-55,Employed,Buy a house,Graduate,Poor,None,0.0,None,Above $50K,Low
+26-35,Unemployed,Pay debts,High School,Unknown,Low,0.0,None,$0 to $15K,Moderate
+26-35,Self-Employed,Pay debts,Postgraduate,Good,None,0.03,Adequate,Above $50K,Low
+46-55,Employed,Pay debts,Postgraduate,Poor,Low,0.03,None,$35K to $50K,Low
+26-35,Unemployed,Pay debts,High School,Good,High,0.02,None,Above $50K,High
+18-25,Self-Employed,Invest in business,High School,Unknown,Low,0.0,None,$35K to $50K,Moderate
+18-25,Unemployed,Pay debts,Postgraduate,Unknown,High,0.0,Adequate,$0 to $15K,High
+36-45,Employed,Invest in business,High School,Poor,None,0.04,Adequate,$35K to $50K,Low
+46-55,Employed,Buy a house,Postgraduate,Poor,None,0.02,Adequate,Above $50K,Low
+46-55,Unemployed,Buy a house,Postgraduate,Unknown,None,0.0,Adequate,Above $50K,Low
+36-45,Unemployed,Invest in business,High School,Good,High,0.0,None,$0 to $15K,High
+36-45,Unemployed,Buy a house,Graduate,Unknown,None,0.01,None,Above $50K,Low
+18-25,Unemployed,Invest in business,High School,Poor,None,0.03,None,Above $50K,Low
+56+,Employed,Pay debts,High School,Good,Low,0.0,Adequate,$0 to $15K,Low
+18-25,Unemployed,Pay debts,High School,Unknown,High,0.0,Adequate,$0 to $15K,High
+56+,Employed,Buy a house,Postgraduate,Poor,High,0.04,Adequate,$15K to $35K,Moderate
+56+,Employed,Invest in business,Graduate,Good,Low,0.02,Adequate,Above $50K,Low
+46-55,Employed,Buy a house,Postgraduate,Poor,None,0.07,None,$15K to $35K,Low
+26-35,Unemployed,Invest in business,Graduate,Good,None,0.03,Adequate,$35K to $50K,Moderate
+46-55,Unemployed,Buy a house,Graduate,Unknown,High,0.0,Adequate,$0 to $15K,Moderate
+26-35,Unemployed,Invest in business,High School,Good,None,0.02,Adequate,$15K to $35K,Moderate
+46-55,Unemployed,Invest in business,Graduate,Poor,None,0.03,None,Above $50K,Low
+46-55,Employed,Invest in business,High School,Good,High,0.08,None,$15K to $35K,High
+46-55,Employed,Buy a house,Postgraduate,Unknown,Low,0.03,Adequate,$35K to $50K,Moderate
+36-45,Unemployed,Buy a house,Graduate,Good,High,0.03,None,Above $50K,Moderate
+56+,Employed,Pay debts,Postgraduate,Good,None,0.05,None,$35K to $50K,Low
+36-45,Employed,Pay debts,High School,Poor,Low,0.04,None,$15K to $35K,Moderate
+36-45,Unemployed,Pay debts,High School,Unknown,Low,0.05,None,$35K to $50K,Moderate
+18-25,Self-Employed,Pay debts,High School,Unknown,None,0.03,Adequate,Above $50K,Low
+18-25,Employed,Pay debts,High School,Unknown,None,0.04,None,$35K to $50K,Low
+56+,Employed,Invest in business,Graduate,Good,High,0.06,Adequate,$15K to $35K,Moderate
+46-55,Unemployed,Pay debts,High School,Unknown,High,0.01,None,Above $50K,High
+56+,Employed,Buy a house,Graduate,Good,Low,0.0,None,$0 to $15K,Moderate
+36-45,Unemployed,Pay debts,High School,Good,Low,0.0,Adequate,$15K to $35K,Low
+46-55,Employed,Buy a house,Graduate,Unknown,High,0.02,Adequate,$35K to $50K,Moderate
+18-25,Self-Employed,Invest in business,Graduate,Good,None,0.0,None,$0 to $15K,Low
+56+,Employed,Invest in business,High School,Unknown,Low,0.02,Adequate,Above $50K,Low
+56+,Employed,Pay debts,Postgraduate,Good,None,0.03,None,Above $50K,Low
+18-25,Unemployed,Invest in business,Graduate,Good,Low,0.02,None,$15K to $35K,Moderate
+18-25,Self-Employed,Pay debts,High School,Poor,Low,0.0,None,$35K to $50K,Low
+18-25,Self-Employed,Invest in business,High School,Poor,High,0.07,Adequate,$15K to $35K,Moderate
+36-45,Employed,Pay debts,High School,Good,High,0.03,None,$35K to $50K,High
+36-45,Employed,Buy a house,Postgraduate,Poor,None,0.05,None,$35K to $50K,Low
+56+,Employed,Pay debts,Postgraduate,Poor,None,0.03,Adequate,Above $50K,Low
+46-55,Unemployed,Pay debts,High School,Good,Low,0.02,Adequate,Above $50K,Low
+26-35,Unemployed,Pay debts,High School,Good,None,0.02,Adequate,Above $50K,Low
+46-55,Employed,Buy a house,Postgraduate,Poor,High,0.0,None,$0 to $15K,High
+18-25,Unemployed,Invest in business,Graduate,Poor,Low,0.01,None,$35K to $50K,Moderate
+36-45,Unemployed,Pay debts,Postgraduate,Poor,High,0.07,None,$15K to $35K,High
+46-55,Employed,Buy a house,Graduate,Poor,None,0.01,None,Above $50K,Low
+46-55,Unemployed,Pay debts,High School,Good,None,0.03,Adequate,$35K to $50K,Low
+26-35,Unemployed,Invest in business,Graduate,Poor,High,0.09,Adequate,$15K to $35K,Moderate
+46-55,Employed,Buy a house,Graduate,Unknown,Low,0.08,None,$15K to $35K,Moderate
+36-45,Unemployed,Invest in business,Graduate,Poor,None,0.02,None,Above $50K,Low
+18-25,Unemployed,Pay debts,Postgraduate,Poor,None,0.04,None,$35K to $50K,Low
+26-35,Unemployed,Buy a house,Postgraduate,Unknown,None,0.02,None,Above $50K,Low
+56+,Employed,Invest in business,High School,Poor,High,0.06,None,$15K to $35K,Moderate
+56+,Employed,Invest in business,High School,Unknown,High,0.0,Adequate,$0 to $15K,Moderate
+46-55,Unemployed,Buy a house,Postgraduate,Poor,None,0.02,None,Above $50K,Low
+46-55,Unemployed,Invest in business,High School,Poor,None,0.03,Adequate,$35K to $50K,Low
+46-55,Employed,Invest in business,Graduate,Unknown,Low,0.02,None,$35K to $50K,Low
+56+,Employed,Invest in business,High School,Unknown,Low,0.09,None,$15K to $35K,Moderate
+26-35,Employed,Pay debts,High School,Unknown,Low,0.1,None,$15K to $35K,Low
+26-35,Unemployed,Buy a house,Postgraduate,Unknown,High,0.0,Adequate,$0 to $15K,High
+26-35,Employed,Invest in business,Graduate,Poor,High,0.05,Adequate,$15K to $35K,High
+46-55,Employed,Pay debts,Postgraduate,Good,None,0.04,Adequate,$15K to $35K,Low
+36-45,Unemployed,Invest in business,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
+56+,Employed,Pay debts,High School,Unknown,None,0.01,Adequate,$35K to $50K,Low
+18-25,Employed,Buy a house,Graduate,Unknown,None,0.01,None,Above $50K,Low
+26-35,Unemployed,Pay debts,High School,Unknown,None,0.03,None,Above $50K,Low
+26-35,Employed,Invest in business,High School,Good,None,0.08,None,$15K to $35K,Low
+26-35,Self-Employed,Invest in business,High School,Unknown,None,0.02,None,$35K to $50K,Low
+18-25,Employed,Pay debts,Postgraduate,Good,Low,0.01,None,$15K to $35K,Low
+56+,Employed,Pay debts,High School,Unknown,Low,0.0,None,Above $50K,Low
+26-35,Employed,Pay debts,Postgraduate,Poor,None,0.03,Adequate,$35K to $50K,Low
+46-55,Unemployed,Invest in business,Graduate,Good,None,0.03,Adequate,$35K to $50K,Moderate
+36-45,Employed,Invest in business,Graduate,Poor,Low,0.0,Adequate,$0 to $15K,Low
+26-35,Self-Employed,Invest in business,Graduate,Poor,High,0.02,Adequate,$35K to $50K,Moderate
+18-25,Unemployed,Pay debts,Postgraduate,Poor,None,0.02,Adequate,$35K to $50K,Low
+56+,Employed,Invest in business,Graduate,Good,None,0.0,Adequate,Above $50K,Moderate
+36-45,Employed,Invest in business,Graduate,Poor,None,0.01,Adequate,Above $50K,Low
+26-35,Unemployed,Pay debts,Postgraduate,Good,Low,0.02,None,$35K to $50K,Low
+26-35,Self-Employed,Invest in business,High School,Poor,Low,0.02,None,$15K to $35K,Low
+36-45,Unemployed,Pay debts,Postgraduate,Poor,High,0.07,None,$15K to $35K,High
+36-45,Employed,Buy a house,Postgraduate,Unknown,High,0.0,None,$0 to $15K,High
+36-45,Unemployed,Pay debts,High School,Poor,High,0.0,None,$0 to $15K,High
+26-35,Employed,Buy a house,Graduate,Poor,None,0.0,None,Above $50K,Low
+18-25,Employed,Pay debts,High School,Unknown,None,0.0,None,$0 to $15K,Low
+56+,Employed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Low
+26-35,Self-Employed,Pay debts,High School,Poor,None,0.03,None,Above $50K,Low
+46-55,Unemployed,Buy a house,Postgraduate,Unknown,None,0.02,Adequate,Above $50K,Low
+56+,Employed,Buy a house,Graduate,Good,High,0.0,Adequate,$0 to $15K,Low
+56+,Employed,Buy a house,Postgraduate,Poor,None,0.02,None,$15K to $35K,Low
+36-45,Employed,Pay debts,Postgraduate,Unknown,Low,0.01,None,$15K to $35K,Moderate
+18-25,Unemployed,Invest in business,High School,Good,Low,0.03,None,$35K to $50K,Moderate
+18-25,Self-Employed,Invest in business,High School,Unknown,None,0.03,Adequate,Above $50K,Low
+36-45,Employed,Buy a house,Postgraduate,Poor,None,0.0,None,$35K to $50K,Low
+18-25,Unemployed,Buy a house,Postgraduate,Good,High,0.02,Adequate,Above $50K,Low
+46-55,Employed,Invest in business,Graduate,Unknown,None,0.01,None,Above $50K,Low
+56+,Employed,Invest in business,High School,Unknown,Low,0.09,None,$15K to $35K,Low
+26-35,Employed,Buy a house,Graduate,Unknown,Low,0.0,None,$0 to $15K,Moderate
+18-25,Unemployed,Invest in business,Graduate,Good,None,0.03,Adequate,Above $50K,Moderate
+26-35,Employed,Pay debts,High School,Unknown,Low,0.0,None,$0 to $15K,Moderate
+56+,Employed,Buy a house,Postgraduate,Unknown,Low,0.04,None,$15K to $35K,Low
+18-25,Unemployed,Buy a house,Graduate,Poor,High,0.02,None,$15K to $35K,Moderate
+56+,Employed,Buy a house,Graduate,Good,None,0.0,Adequate,$15K to $35K,Low
+56+,Employed,Invest in business,High School,Poor,Low,0.04,Adequate,$15K to $35K,Low
+36-45,Unemployed,Buy a house,Postgraduate,Poor,Low,0.0,None,$15K to $35K,Low
+26-35,Self-Employed,Buy a house,Graduate,Poor,High,0.0,None,$0 to $15K,Moderate
+46-55,Unemployed,Invest in business,Graduate,Unknown,High,0.0,Adequate,$0 to $15K,Moderate
+18-25,Employed,Pay debts,High School,Unknown,None,0.03,None,$35K to $50K,Low
+18-25,Unemployed,Invest in business,High School,Good,Low,0.05,Adequate,$35K to $50K,Low
+36-45,Unemployed,Invest in business,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Low
+56+,Employed,Buy a house,Graduate,Poor,Low,0.0,None,$0 to $15K,Moderate
+26-35,Unemployed,Invest in business,Graduate,Poor,High,0.04,None,$35K to $50K,Moderate
+56+,Employed,Pay debts,High School,Poor,High,0.09,Adequate,$15K to $35K,High
+18-25,Unemployed,Pay debts,Postgraduate,Unknown,High,0.0,None,$0 to $15K,High
+36-45,Employed,Pay debts,High School,Good,High,0.06,Adequate,$15K to $35K,Low
+46-55,Employed,Pay debts,High School,Poor,Low,0.0,None,$0 to $15K,Low
+46-55,Unemployed,Pay debts,Postgraduate,Good,None,0.02,Adequate,Above $50K,Low
+36-45,Unemployed,Invest in business,Graduate,Good,High,0.0,Adequate,$0 to $15K,Moderate
+26-35,Self-Employed,Invest in business,Graduate,Poor,Low,0.0,None,$0 to $15K,Moderate
+56+,Employed,Pay debts,Postgraduate,Poor,None,0.02,None,Above $50K,Low
+56+,Employed,Invest in business,Graduate,Poor,None,0.02,None,$35K to $50K,Low
+36-45,Unemployed,Invest in business,Graduate,Unknown,High,0.0,None,$15K to $35K,Moderate
+56+,Employed,Invest in business,High School,Good,Low,0.03,None,$35K to $50K,Low
+46-55,Employed,Pay debts,High School,Good,Low,0.03,Adequate,$35K to $50K,Low
+36-45,Employed,Buy a house,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
+18-25,Employed,Buy a house,Postgraduate,Unknown,Low,0.04,Adequate,$35K to $50K,Low
+26-35,Employed,Invest in business,Graduate,Good,None,0.05,Adequate,$35K to $50K,Moderate
+46-55,Unemployed,Buy a house,Graduate,Good,Low,0.03,None,$35K to $50K,Moderate
+56+,Employed,Invest in business,High School,Good,None,0.02,Adequate,Above $50K,Moderate
+56+,Employed,Invest in business,High School,Unknown,High,0.0,None,$15K to $35K,High
+36-45,Employed,Invest in business,Graduate,Good,None,0.0,None,Above $50K,Low
+56+,Employed,Buy a house,Graduate,Poor,None,0.02,Adequate,$35K to $50K,Low
+46-55,Employed,Pay debts,High School,Good,None,0.04,None,$15K to $35K,Low
+18-25,Unemployed,Pay debts,Postgraduate,Poor,None,0.07,None,$15K to $35K,Low
+46-55,Unemployed,Invest in business,Graduate,Poor,None,0.01,None,Above $50K,Low
+46-55,Unemployed,Invest in business,High School,Good,Low,0.03,None,$15K to $35K,Moderate
+56+,Employed,Buy a house,Graduate,Poor,None,0.0,None,$0 to $15K,Low
+46-55,Unemployed,Buy a house,Graduate,Poor,Low,0.03,None,$35K to $50K,Low
+18-25,Employed,Buy a house,Graduate,Good,Low,0.03,Adequate,$35K to $50K,Low
+56+,Employed,Buy a house,Postgraduate,Poor,None,0.02,Adequate,Above $50K,Low
+18-25,Unemployed,Invest in business,High School,Poor,None,0.01,None,$35K to $50K,Low
+18-25,Employed,Pay debts,Postgraduate,Poor,High,0.04,None,$35K to $50K,High
+56+,Employed,Pay debts,Postgraduate,Unknown,High,0.04,Adequate,$15K to $35K,High
+36-45,Employed,Buy a house,Graduate,Unknown,None,0.02,Adequate,$35K to $50K,Low
+56+,Employed,Buy a house,Graduate,Unknown,Low,0.0,None,$0 to $15K,Moderate
+36-45,Employed,Pay debts,High School,Poor,None,0.0,Adequate,$0 to $15K,Low
+56+,Employed,Buy a house,Postgraduate,Unknown,High,0.0,None,$0 to $15K,Moderate
+46-55,Employed,Invest in business,High School,Good,High,0.0,None,$0 to $15K,Moderate
+36-45,Unemployed,Invest in business,Graduate,Poor,High,0.1,None,$15K to $35K,High
+46-55,Employed,Invest in business,High School,Poor,Low,0.0,None,$0 to $15K,Low
+56+,Employed,Buy a house,Graduate,Good,None,0.01,None,Above $50K,Low
+56+,Employed,Buy a house,Graduate,Poor,None,0.03,None,Above $50K,Low
+18-25,Unemployed,Pay debts,Postgraduate,Unknown,None,0.01,Adequate,Above $50K,Low
+46-55,Unemployed,Pay debts,High School,Unknown,Low,0.08,Adequate,$15K to $35K,Low
+36-45,Employed,Invest in business,Graduate,Poor,None,0.03,None,Above $50K,Low
+56+,Employed,Pay debts,Postgraduate,Good,None,0.01,Adequate,Above $50K,Low
+56+,Employed,Pay debts,High School,Good,None,0.01,Adequate,Above $50K,Low
+18-25,Self-Employed,Pay debts,Postgraduate,Unknown,Low,0.03,None,Above $50K,Moderate
+18-25,Unemployed,Pay debts,Postgraduate,Poor,None,0.01,None,Above $50K,Low
+18-25,Self-Employed,Invest in business,High School,Poor,None,0.02,None,$35K to $50K,Low
+46-55,Unemployed,Pay debts,Postgraduate,Unknown,High,0.01,None,$15K to $35K,High
+36-45,Unemployed,Pay debts,Postgraduate,Poor,None,0.03,None,$35K to $50K,Low
+56+,Employed,Buy a house,Graduate,Unknown,None,0.01,None,$15K to $35K,Low
+18-25,Self-Employed,Pay debts,High School,Good,High,0.07,Adequate,$15K to $35K,Moderate
+56+,Employed,Buy a house,Postgraduate,Good,None,0.01,None,$35K to $50K,Low
+56+,Employed,Invest in business,Graduate,Good,High,0.02,None,$15K to $35K,High
+56+,Employed,Pay debts,High School,Poor,Low,0.05,Adequate,$35K to $50K,Moderate
+46-55,Unemployed,Invest in business,High School,Unknown,None,0.1,Adequate,$15K to $35K,Low
+26-35,Employed,Invest in business,Graduate,Poor,None,0.03,Adequate,$35K to $50K,Low
+46-55,Unemployed,Pay debts,High School,Unknown,None,0.01,None,$35K to $50K,Low
+46-55,Unemployed,Pay debts,Postgraduate,Unknown,None,0.04,None,$35K to $50K,Low
+26-35,Self-Employed,Buy a house,Postgraduate,Good,High,0.0,Adequate,$0 to $15K,Low
+56+,Employed,Invest in business,High School,Unknown,High,0.0,Adequate,$0 to $15K,High
+36-45,Employed,Invest in business,Graduate,Poor,None,0.09,Adequate,$15K to $35K,Low
+18-25,Self-Employed,Pay debts,High School,Poor,High,0.0,None,$0 to $15K,High
+26-35,Unemployed,Buy a house,Graduate,Poor,None,0.04,Adequate,$35K to $50K,Low
+26-35,Employed,Invest in business,High School,Poor,None,0.03,None,Above $50K,Low
+36-45,Unemployed,Invest in business,High School,Good,None,0.02,Adequate,Above $50K,Moderate
+56+,Employed,Pay debts,High School,Poor,Low,0.01,Adequate,$15K to $35K,Low
+36-45,Employed,Buy a house,Graduate,Unknown,None,0.0,None,$35K to $50K,Low
+36-45,Unemployed,Invest in business,Graduate,Unknown,Low,0.05,None,$15K to $35K,Low
+36-45,Unemployed,Invest in business,Graduate,Unknown,High,0.07,Adequate,$15K to $35K,High
+56+,Employed,Buy a house,Postgraduate,Unknown,High,0.08,Adequate,$15K to $35K,Moderate
+36-45,Unemployed,Invest in business,High School,Good,High,0.0,Adequate,$0 to $15K,Low
+36-45,Unemployed,Pay debts,Postgraduate,Unknown,Low,0.01,None,Above $50K,Low
+56+,Employed,Invest in business,High School,Poor,High,0.0,None,$0 to $15K,Moderate
+46-55,Employed,Invest in business,High School,Poor,Low,0.0,None,$0 to $15K,Low
+56+,Employed,Buy a house,Graduate,Poor,None,0.05,None,$15K to $35K,Low
+36-45,Employed,Buy a house,Postgraduate,Poor,None,0.02,Adequate,Above $50K,Low
+26-35,Employed,Buy a house,Graduate,Poor,None,0.02,None,Above $50K,Low
+56+,Employed,Pay debts,High School,Poor,None,0.06,Adequate,$15K to $35K,Low
+18-25,Unemployed,Invest in business,High School,Good,Low,0.06,None,$15K to $35K,Low
+46-55,Unemployed,Buy a house,Postgraduate,Good,Low,0.02,None,$15K to $35K,Low
+56+,Employed,Invest in business,High School,Poor,None,0.02,Adequate,Above $50K,Low
+56+,Employed,Pay debts,High School,Unknown,None,0.01,None,Above $50K,Low
+18-25,Unemployed,Buy a house,Graduate,Poor,High,0.0,Adequate,$0 to $15K,Moderate
+56+,Employed,Invest in business,Graduate,Unknown,High,0.03,Adequate,$15K to $35K,High
+36-45,Employed,Invest in business,Graduate,Unknown,High,0.0,None,$0 to $15K,Moderate
+36-45,Employed,Invest in business,Graduate,Good,High,0.0,None,Above $50K,High
+26-35,Self-Employed,Invest in business,High School,Unknown,None,0.03,Adequate,$15K to $35K,Low
+56+,Employed,Pay debts,High School,Poor,Low,0.01,None,$15K to $35K,Moderate
+46-55,Employed,Invest in business,High School,Unknown,High,0.0,Adequate,$0 to $15K,High
+56+,Employed,Invest in business,Graduate,Poor,None,0.05,None,$15K to $35K,Low
+56+,Employed,Pay debts,High School,Good,High,0.0,None,$0 to $15K,High
+56+,Employed,Buy a house,Postgraduate,Unknown,None,0.06,None,$15K to $35K,Low
+46-55,Employed,Invest in business,Graduate,Good,None,0.08,None,$15K to $35K,Low
+18-25,Self-Employed,Buy a house,Graduate,Poor,None,0.0,None,Above $50K,Low
+18-25,Unemployed,Buy a house,Graduate,Unknown,None,0.0,None,$15K to $35K,Low
+56+,Employed,Invest in business,High School,Good,Low,0.05,None,$15K to $35K,Moderate
+36-45,Unemployed,Buy a house,Graduate,Good,Low,0.08,None,$15K to $35K,Moderate
+56+,Employed,Pay debts,Postgraduate,Unknown,None,0.03,None,Above $50K,Low
+36-45,Employed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Moderate
+46-55,Employed,Invest in business,Graduate,Poor,None,0.03,Adequate,Above $50K,Low
+36-45,Unemployed,Invest in business,Graduate,Poor,None,0.01,None,$15K to $35K,Low
+46-55,Unemployed,Pay debts,Postgraduate,Poor,High,0.04,None,$15K to $35K,High
+18-25,Self-Employed,Buy a house,Graduate,Good,None,0.0,Adequate,$0 to $15K,Moderate
+18-25,Employed,Buy a house,Postgraduate,Good,Low,0.0,None,$0 to $15K,Moderate
+18-25,Employed,Pay debts,Postgraduate,Unknown,Low,0.08,Adequate,$15K to $35K,Low
+26-35,Employed,Pay debts,High School,Unknown,Low,0.02,Adequate,$35K to $50K,Moderate
+56+,Employed,Pay debts,Postgraduate,Unknown,High,0.02,None,$15K to $35K,High
+18-25,Employed,Pay debts,High School,Good,None,0.02,Adequate,$35K to $50K,Low
+56+,Employed,Invest in business,Graduate,Poor,Low,0.05,Adequate,$35K to $50K,Moderate
+56+,Employed,Pay debts,High School,Unknown,High,0.0,Adequate,$0 to $15K,High
+18-25,Unemployed,Invest in business,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
+36-45,Unemployed,Invest in business,High School,Good,High,0.01,Adequate,$35K to $50K,Moderate
+46-55,Employed,Buy a house,Postgraduate,Good,Low,0.04,Adequate,$15K to $35K,Low
+46-55,Unemployed,Buy a house,Postgraduate,Unknown,None,0.09,Adequate,$15K to $35K,Low
+18-25,Employed,Pay debts,High School,Good,High,0.0,Adequate,$0 to $15K,Moderate
+46-55,Employed,Pay debts,Postgraduate,Good,None,0.02,Adequate,Above $50K,Low
+36-45,Unemployed,Invest in business,Graduate,Poor,None,0.02,Adequate,Above $50K,Low
+26-35,Unemployed,Pay debts,Postgraduate,Unknown,Low,0.0,Adequate,$0 to $15K,Low
+26-35,Employed,Buy a house,Postgraduate,Poor,Low,0.0,Adequate,$0 to $15K,Moderate
+26-35,Self-Employed,Invest in business,Graduate,Unknown,None,0.03,None,$35K to $50K,Low
+36-45,Employed,Invest in business,Graduate,Unknown,None,0.0,Adequate,Above $50K,Low
+56+,Employed,Buy a house,Postgraduate,Good,None,0.03,Adequate,$35K to $50K,Low
+18-25,Employed,Pay debts,Postgraduate,Good,None,0.03,Adequate,Above $50K,Low
+26-35,Employed,Buy a house,Graduate,Unknown,Low,0.02,Adequate,Above $50K,Moderate
+26-35,Self-Employed,Invest in business,High School,Unknown,None,0.08,Adequate,$15K to $35K,Low
+56+,Employed,Buy a house,Postgraduate,Unknown,None,0.03,Adequate,Above $50K,Low
+18-25,Self-Employed,Buy a house,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,High
+56+,Employed,Pay debts,Postgraduate,Good,None,0.03,Adequate,Above $50K,Low
+18-25,Employed,Buy a house,Postgraduate,Poor,Low,0.01,None,$35K to $50K,Low
+26-35,Employed,Invest in business,Graduate,Good,Low,0.05,Adequate,$15K to $35K,Low
+46-55,Employed,Buy a house,Graduate,Poor,None,0.09,None,$15K to $35K,Low
+36-45,Employed,Buy a house,Graduate,Unknown,Low,0.0,Adequate,$0 to $15K,Low
+46-55,Employed,Buy a house,Graduate,Poor,None,0.02,Adequate,Above $50K,Low
+56+,Employed,Buy a house,Postgraduate,Unknown,High,0.05,None,$35K to $50K,Moderate
+26-35,Self-Employed,Invest in business,High School,Good,None,0.01,None,Above $50K,Low
+36-45,Unemployed,Buy a house,Graduate,Unknown,None,0.0,None,$35K to $50K,Low
+56+,Employed,Pay debts,Postgraduate,Unknown,None,0.0,None,Above $50K,Low
+36-45,Unemployed,Invest in business,Graduate,Good,Low,0.0,Adequate,$35K to $50K,Low
+56+,Employed,Buy a house,Postgraduate,Poor,Low,0.0,None,$0 to $15K,Low
+36-45,Unemployed,Buy a house,Postgraduate,Unknown,None,0.03,None,Above $50K,Low
+26-35,Unemployed,Invest in business,High School,Unknown,None,0.0,Adequate,$0 to $15K,Low
+26-35,Employed,Buy a house,Postgraduate,Good,None,0.0,Adequate,Above $50K,Moderate
+56+,Employed,Invest in business,Graduate,Unknown,None,0.04,Adequate,$35K to $50K,Low
+56+,Employed,Buy a house,Postgraduate,Good,None,0.02,None,Above $50K,Low
+46-55,Employed,Pay debts,Postgraduate,Unknown,None,0.04,None,$35K to $50K,Low
+36-45,Employed,Invest in business,Graduate,Good,High,0.01,None,Above $50K,Moderate
+56+,Employed,Invest in business,High School,Poor,None,0.0,Adequate,$0 to $15K,Low
+26-35,Self-Employed,Buy a house,Graduate,Good,High,0.0,Adequate,$0 to $15K,Moderate
+56+,Employed,Pay debts,Postgraduate,Unknown,None,0.01,Adequate,Above $50K,Low
+46-55,Employed,Pay debts,High School,Unknown,None,0.02,None,Above $50K,Low
+18-25,Employed,Invest in business,High School,Unknown,High,0.03,None,$15K to $35K,Moderate
+46-55,Unemployed,Invest in business,Graduate,Poor,None,0.03,Adequate,$15K to $35K,Low
+46-55,Employed,Invest in business,Graduate,Poor,None,0.08,Adequate,$15K to $35K,Low
+56+,Employed,Invest in business,High School,Good,Low,0.03,None,$35K to $50K,Low
+26-35,Unemployed,Pay debts,High School,Good,None,0.08,None,$15K to $35K,Low
+36-45,Unemployed,Pay debts,High School,Poor,None,0.03,Adequate,Above $50K,Low
+36-45,Employed,Buy a house,Graduate,Poor,High,0.06,Adequate,$15K to $35K,High
+26-35,Self-Employed,Invest in business,Graduate,Good,None,0.03,None,Above $50K,Low
+46-55,Unemployed,Invest in business,Graduate,Poor,None,0.03,None,$35K to $50K,Low
+36-45,Employed,Pay debts,High School,Unknown,None,0.04,None,$35K to $50K,Low
+56+,Employed,Pay debts,Postgraduate,Poor,High,0.0,None,$0 to $15K,High
+26-35,Self-Employed,Invest in business,High School,Good,None,0.02,Adequate,$35K to $50K,Moderate
+46-55,Employed,Buy a house,Graduate,Poor,None,0.0,Adequate,$15K to $35K,Low
+26-35,Self-Employed,Buy a house,Graduate,Good,None,0.06,None,$15K to $35K,Low
+36-45,Unemployed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Moderate
+56+,Employed,Buy a house,Postgraduate,Good,High,0.0,None,$0 to $15K,Moderate
+26-35,Unemployed,Buy a house,Postgraduate,Unknown,None,0.0,Adequate,Above $50K,Low
+46-55,Unemployed,Invest in business,Graduate,Good,None,0.01,Adequate,Above $50K,Moderate
+36-45,Employed,Invest in business,Graduate,Unknown,None,0.01,None,$15K to $35K,Low
+46-55,Unemployed,Invest in business,High School,Unknown,High,0.03,None,$15K to $35K,Moderate
+26-35,Self-Employed,Pay debts,High School,Unknown,High,0.07,None,$15K to $35K,High
+26-35,Employed,Buy a house,Postgraduate,Poor,Low,0.0,None,$15K to $35K,Moderate
+36-45,Employed,Buy a house,Postgraduate,Unknown,Low,0.06,Adequate,$15K to $35K,Low
+36-45,Employed,Pay debts,Postgraduate,Good,High,0.03,Adequate,$35K to $50K,Low
+26-35,Self-Employed,Invest in business,Graduate,Poor,High,0.03,None,$15K to $35K,High
+46-55,Unemployed,Invest in business,Graduate,Unknown,Low,0.0,None,$0 to $15K,Moderate
+46-55,Unemployed,Pay debts,High School,Poor,None,0.02,Adequate,Above $50K,Low
+36-45,Unemployed,Buy a house,Graduate,Good,Low,0.02,Adequate,$15K to $35K,Low
+46-55,Employed,Pay debts,High School,Poor,None,0.01,None,Above $50K,Low
+56+,Employed,Invest in business,Graduate,Good,High,0.0,Adequate,$0 to $15K,Low
+36-45,Employed,Invest in business,High School,Poor,Low,0.01,None,$35K to $50K,Moderate
+26-35,Employed,Invest in business,High School,Poor,Low,0.05,Adequate,$35K to $50K,Moderate
+46-55,Unemployed,Invest in business,Graduate,Unknown,None,0.03,None,$35K to $50K,Low
+26-35,Unemployed,Pay debts,Postgraduate,Unknown,Low,0.0,None,$0 to $15K,Moderate
+56+,Employed,Buy a house,Postgraduate,Good,High,0.04,Adequate,$35K to $50K,Low
+18-25,Self-Employed,Pay debts,Postgraduate,Good,Low,0.05,Adequate,$15K to $35K,Low
+26-35,Employed,Buy a house,Postgraduate,Poor,Low,0.03,None,$35K to $50K,Moderate
+56+,Employed,Pay debts,High School,Good,None,0.04,Adequate,$35K to $50K,Low
+26-35,Self-Employed,Buy a house,Graduate,Good,None,0.09,Adequate,$15K to $35K,Low
+36-45,Employed,Buy a house,Graduate,Poor,None,0.01,Adequate,Above $50K,Low
+46-55,Unemployed,Invest in business,High School,Poor,None,0.0,Adequate,Above $50K,Low
+26-35,Unemployed,Invest in business,High School,Unknown,None,0.02,None,Above $50K,Low
+18-25,Employed,Buy a house,Postgraduate,Poor,Low,0.03,Adequate,Above $50K,Moderate
+36-45,Unemployed,Pay debts,High School,Poor,High,0.0,None,$0 to $15K,High
+46-55,Unemployed,Buy a house,Graduate,Poor,None,0.03,Adequate,Above $50K,Low
+26-35,Unemployed,Invest in business,High School,Poor,None,0.08,None,$15K to $35K,Low
+46-55,Unemployed,Invest in business,Graduate,Poor,None,0.0,Adequate,Above $50K,Low
+56+,Employed,Pay debts,Postgraduate,Good,Low,0.03,Adequate,Above $50K,Low
+18-25,Employed,Pay debts,Postgraduate,Unknown,High,0.01,Adequate,$15K to $35K,High
+26-35,Unemployed,Buy a house,Graduate,Unknown,None,0.02,Adequate,$35K to $50K,Low
+26-35,Self-Employed,Pay debts,Postgraduate,Poor,High,0.06,None,$15K to $35K,High
+18-25,Self-Employed,Pay debts,High School,Good,None,0.03,None,Above $50K,Low
+26-35,Self-Employed,Pay debts,High School,Good,None,0.05,Adequate,$15K to $35K,Low
+26-35,Self-Employed,Invest in business,Graduate,Good,None,0.02,None,$35K to $50K,Low
+26-35,Unemployed,Invest in business,Graduate,Unknown,Low,0.01,Adequate,Above $50K,Low
+36-45,Unemployed,Buy a house,Graduate,Unknown,None,0.01,None,Above $50K,Low
+36-45,Employed,Buy a house,Graduate,Poor,High,0.0,Adequate,$0 to $15K,High
+56+,Employed,Pay debts,High School,Good,None,0.04,Adequate,$15K to $35K,Low
+18-25,Employed,Buy a house,Postgraduate,Good,Low,0.04,None,$35K to $50K,Low
+36-45,Employed,Pay debts,High School,Good,None,0.01,None,$15K to $35K,Low
+56+,Employed,Invest in business,High School,Poor,None,0.02,None,$35K to $50K,Low
+56+,Employed,Invest in business,High School,Good,None,0.01,Adequate,Above $50K,Moderate
+36-45,Employed,Buy a house,Postgraduate,Poor,None,0.07,None,$15K to $35K,Low
+18-25,Employed,Pay debts,High School,Unknown,High,0.08,None,$15K to $35K,High
+56+,Employed,Invest in business,Graduate,Good,High,0.0,Adequate,$0 to $15K,Moderate
+56+,Employed,Buy a house,Graduate,Unknown,High,0.0,None,$0 to $15K,High
+56+,Employed,Invest in business,High School,Good,None,0.02,Adequate,Above $50K,Moderate
+46-55,Unemployed,Buy a house,Postgraduate,Good,Low,0.02,None,Above $50K,Moderate
+18-25,Unemployed,Pay debts,Postgraduate,Poor,None,0.02,None,Above $50K,Low
+46-55,Unemployed,Buy a house,Graduate,Poor,High,0.02,Adequate,$15K to $35K,High
+36-45,Employed,Buy a house,Postgraduate,Poor,High,0.0,None,$0 to $15K,High
+26-35,Employed,Invest in business,High School,Unknown,None,0.02,Adequate,Above $50K,Low
+56+,Employed,Buy a house,Graduate,Poor,High,0.03,Adequate,$15K to $35K,High
+18-25,Self-Employed,Buy a house,Postgraduate,Good,Low,0.02,None,$15K to $35K,Moderate
+46-55,Employed,Buy a house,Postgraduate,Good,Low,0.07,None,$15K to $35K,Moderate
+36-45,Employed,Buy a house,Postgraduate,Good,None,0.02,None,Above $50K,Low
+26-35,Employed,Buy a house,Graduate,Good,High,0.0,None,$0 to $15K,Moderate
+26-35,Unemployed,Invest in business,High School,Poor,Low,0.0,None,$0 to $15K,Low
+46-55,Unemployed,Buy a house,Graduate,Poor,High,0.0,None,$0 to $15K,High
+56+,Employed,Buy a house,Graduate,Unknown,None,0.01,Adequate,$15K to $35K,Low
+18-25,Employed,Invest in business,Graduate,Poor,None,0.0,None,Above $50K,Low
+46-55,Employed,Invest in business,High School,Poor,Low,0.0,None,$15K to $35K,Low
+46-55,Unemployed,Buy a house,Graduate,Poor,None,0.0,Adequate,$0 to $15K,Low
+26-35,Self-Employed,Invest in business,High School,Unknown,None,0.05,None,$35K to $50K,Low
+26-35,Self-Employed,Pay debts,Postgraduate,Good,None,0.03,None,Above $50K,Low
+18-25,Unemployed,Buy a house,Graduate,Good,None,0.0,Adequate,$0 to $15K,Moderate
+18-25,Unemployed,Invest in business,Graduate,Good,None,0.01,Adequate,Above $50K,Moderate
+36-45,Unemployed,Buy a house,Postgraduate,Good,None,0.0,None,$35K to $50K,Low
+36-45,Employed,Buy a house,Postgraduate,Poor,High,0.02,None,Above $50K,High
+36-45,Employed,Pay debts,High School,Good,None,0.02,None,Above $50K,Low
+36-45,Unemployed,Pay debts,Postgraduate,Unknown,None,0.03,None,Above $50K,Low
+46-55,Unemployed,Buy a house,Postgraduate,Unknown,Low,0.0,Adequate,$0 to $15K,Moderate
+56+,Employed,Pay debts,High School,Poor,None,0.02,None,Above $50K,Low
+46-55,Unemployed,Buy a house,Postgraduate,Unknown,High,0.05,None,$15K to $35K,Moderate
+46-55,Employed,Invest in business,Graduate,Poor,Low,0.1,Adequate,$15K to $35K,Low
+56+,Employed,Buy a house,Postgraduate,Unknown,Low,0.03,None,Above $50K,Moderate
+18-25,Employed,Invest in business,Graduate,Poor,None,0.04,Adequate,$35K to $50K,Low
+36-45,Employed,Buy a house,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,Moderate
+36-45,Employed,Buy a house,Graduate,Unknown,None,0.02,Adequate,Above $50K,Low
+46-55,Employed,Pay debts,Postgraduate,Poor,None,0.03,None,Above $50K,Low
+46-55,Employed,Buy a house,Graduate,Poor,None,0.02,None,Above $50K,Low
+46-55,Unemployed,Pay debts,Postgraduate,Good,None,0.06,None,$15K to $35K,Low
+18-25,Self-Employed,Buy a house,Postgraduate,Good,None,0.02,None,$35K to $50K,Low
+26-35,Self-Employed,Buy a house,Postgraduate,Poor,Low,0.0,Adequate,$0 to $15K,Low
+36-45,Unemployed,Pay debts,High School,Unknown,Low,0.0,None,$0 to $15K,Moderate
+56+,Employed,Invest in business,Graduate,Good,High,0.02,None,Above $50K,Moderate
+26-35,Unemployed,Pay debts,High School,Poor,Low,0.02,None,$35K to $50K,Moderate
+46-55,Employed,Pay debts,Postgraduate,Unknown,None,0.03,Adequate,$35K to $50K,Low
+26-35,Unemployed,Buy a house,Graduate,Unknown,None,0.07,Adequate,$15K to $35K,Low
+36-45,Unemployed,Invest in business,High School,Poor,High,0.03,None,Above $50K,Moderate
+26-35,Self-Employed,Buy a house,Graduate,Good,High,0.0,Adequate,$0 to $15K,Moderate
+56+,Employed,Pay debts,Postgraduate,Unknown,Low,0.04,None,$35K to $50K,Moderate
+26-35,Employed,Invest in business,Graduate,Unknown,Low,0.04,Adequate,$35K to $50K,Low
+46-55,Employed,Invest in business,Graduate,Good,None,0.01,None,Above $50K,Low
+56+,Employed,Pay debts,Postgraduate,Poor,None,0.02,None,Above $50K,Low
+56+,Employed,Buy a house,Postgraduate,Good,Low,0.01,Adequate,$35K to $50K,Low
+36-45,Unemployed,Invest in business,High School,Good,None,0.05,Adequate,$35K to $50K,Moderate
+26-35,Employed,Buy a house,Postgraduate,Poor,Low,0.0,None,$0 to $15K,Moderate
+26-35,Employed,Pay debts,High School,Unknown,Low,0.02,Adequate,Above $50K,Low
+26-35,Unemployed,Pay debts,Postgraduate,Good,Low,0.04,None,$35K to $50K,Moderate
+26-35,Self-Employed,Buy a house,Postgraduate,Unknown,None,0.0,Adequate,$0 to $15K,Low
+36-45,Unemployed,Invest in business,High School,Unknown,Low,0.02,Adequate,$35K to $50K,Low
+18-25,Unemployed,Pay debts,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,High
+26-35,Employed,Invest in business,Graduate,Good,None,0.03,Adequate,Above $50K,Moderate
+18-25,Unemployed,Pay debts,Postgraduate,Good,Low,0.0,None,$0 to $15K,Low
+36-45,Unemployed,Buy a house,Graduate,Unknown,High,0.0,None,$0 to $15K,High
+18-25,Unemployed,Pay debts,Postgraduate,Poor,None,0.01,Adequate,Above $50K,Low
+26-35,Employed,Pay debts,Postgraduate,Good,High,0.0,Adequate,$0 to $15K,Low
+26-35,Unemployed,Pay debts,High School,Good,None,0.01,None,Above $50K,Low
+36-45,Unemployed,Buy a house,Graduate,Good,None,0.01,None,$35K to $50K,Low
+46-55,Unemployed,Buy a house,Postgraduate,Unknown,Low,0.01,Adequate,$35K to $50K,Moderate
+46-55,Employed,Invest in business,Graduate,Poor,Low,0.03,Adequate,$15K to $35K,Moderate
+56+,Employed,Pay debts,High School,Good,None,0.02,Adequate,$35K to $50K,Low
+18-25,Unemployed,Invest in business,Graduate,Unknown,None,0.03,Adequate,Above $50K,Low
+18-25,Self-Employed,Invest in business,Graduate,Unknown,Low,0.02,None,$35K to $50K,Moderate
+36-45,Employed,Buy a house,Postgraduate,Unknown,None,0.0,Adequate,$0 to $15K,Low
+56+,Employed,Invest in business,Graduate,Unknown,High,0.04,Adequate,$35K to $50K,Moderate
+56+,Employed,Invest in business,Graduate,Unknown,None,0.05,Adequate,$35K to $50K,Low
+36-45,Employed,Buy a house,Graduate,Unknown,Low,0.0,None,$0 to $15K,Low
+36-45,Employed,Invest in business,Graduate,Good,Low,0.03,None,$15K to $35K,Low
+18-25,Self-Employed,Pay debts,High School,Good,Low,0.0,None,$0 to $15K,Low
+26-35,Self-Employed,Buy a house,Postgraduate,Good,None,0.01,Adequate,Above $50K,Low
+46-55,Unemployed,Pay debts,Postgraduate,Poor,High,0.07,None,$15K to $35K,High
+36-45,Unemployed,Buy a house,Postgraduate,Poor,Low,0.0,None,$0 to $15K,Moderate
+56+,Employed,Buy a house,Graduate,Good,None,0.03,Adequate,Above $50K,Moderate
+36-45,Unemployed,Invest in business,High School,Poor,None,0.01,Adequate,$35K to $50K,Low
+26-35,Unemployed,Pay debts,High School,Unknown,Low,0.09,Adequate,$15K to $35K,Low
+46-55,Unemployed,Buy a house,Postgraduate,Poor,None,0.01,None,Above $50K,Low
+18-25,Self-Employed,Pay debts,Postgraduate,Good,None,0.02,Adequate,$35K to $50K,Low
+26-35,Self-Employed,Invest in business,High School,Unknown,Low,0.0,Adequate,$0 to $15K,Low
+36-45,Employed,Pay debts,Postgraduate,Poor,Low,0.0,Adequate,$0 to $15K,Moderate
+26-35,Unemployed,Pay debts,Postgraduate,Poor,None,0.02,Adequate,Above $50K,Low
+56+,Employed,Buy a house,Postgraduate,Unknown,None,0.01,None,$35K to $50K,Low
+26-35,Self-Employed,Buy a house,Graduate,Poor,None,0.01,None,$35K to $50K,Low
+26-35,Unemployed,Invest in business,Graduate,Poor,High,0.02,Adequate,$35K to $50K,Moderate
+56+,Employed,Invest in business,High School,Unknown,Low,0.0,Adequate,$0 to $15K,Moderate
+56+,Employed,Invest in business,Graduate,Unknown,None,0.02,None,Above $50K,Low
+18-25,Unemployed,Invest in business,Graduate,Poor,Low,0.02,None,$35K to $50K,Moderate
+46-55,Unemployed,Buy a house,Postgraduate,Unknown,Low,0.03,None,$15K to $35K,Low
+18-25,Self-Employed,Buy a house,Graduate,Poor,Low,0.0,None,$0 to $15K,Low
+18-25,Self-Employed,Buy a house,Postgraduate,Poor,High,0.02,Adequate,$15K to $35K,High
+26-35,Employed,Buy a house,Graduate,Unknown,Low,0.01,None,Above $50K,Low
+36-45,Unemployed,Invest in business,High School,Poor,High,0.0,Adequate,$0 to $15K,Moderate
+18-25,Self-Employed,Invest in business,High School,Good,None,0.03,None,Above $50K,Low
+56+,Employed,Invest in business,Graduate,Poor,None,0.03,None,$35K to $50K,Low
+46-55,Employed,Invest in business,Graduate,Good,Low,0.0,Adequate,$35K to $50K,Low
+26-35,Employed,Pay debts,Postgraduate,Good,High,0.0,Adequate,$0 to $15K,Low
+46-55,Unemployed,Pay debts,Postgraduate,Unknown,None,0.02,Adequate,Above $50K,Low
+56+,Employed,Pay debts,Postgraduate,Good,Low,0.0,None,$0 to $15K,Moderate
+36-45,Unemployed,Invest in business,Graduate,Good,High,0.0,Adequate,$0 to $15K,Moderate
+56+,Employed,Invest in business,High School,Unknown,High,0.01,Adequate,Above $50K,Moderate
+26-35,Unemployed,Invest in business,High School,Poor,None,0.01,None,$35K to $50K,Low
+36-45,Unemployed,Pay debts,High School,Good,High,0.0,Adequate,$0 to $15K,Low
+18-25,Employed,Invest in business,High School,Good,None,0.02,Adequate,Above $50K,Moderate
+26-35,Employed,Buy a house,Graduate,Poor,Low,0.02,None,$15K to $35K,Low
+56+,Employed,Invest in business,High School,Unknown,None,0.04,None,$35K to $50K,Low
+18-25,Unemployed,Pay debts,Postgraduate,Poor,Low,0.03,None,$35K to $50K,Moderate
+26-35,Self-Employed,Buy a house,Postgraduate,Poor,High,0.02,Adequate,Above $50K,High
+56+,Employed,Pay debts,Postgraduate,Unknown,High,0.01,None,$35K to $50K,High
+46-55,Unemployed,Invest in business,High School,Good,Low,0.0,Adequate,$35K to $50K,Low
+18-25,Employed,Invest in business,Graduate,Good,High,0.01,None,Above $50K,Moderate
+36-45,Unemployed,Buy a house,Postgraduate,Unknown,None,0.01,None,Above $50K,Low
+18-25,Unemployed,Invest in business,High School,Good,None,0.01,Adequate,Above $50K,Moderate
+46-55,Employed,Buy a house,Postgraduate,Good,High,0.02,None,$15K to $35K,High
+18-25,Self-Employed,Invest in business,Graduate,Good,High,0.03,Adequate,$35K to $50K,Low
+18-25,Employed,Buy a house,Graduate,Poor,Low,0.0,None,$0 to $15K,Low
+26-35,Unemployed,Pay debts,Postgraduate,Good,Low,0.02,None,Above $50K,Moderate
+56+,Employed,Invest in business,High School,Poor,Low,0.09,None,$15K to $35K,Low
+56+,Employed,Buy a house,Graduate,Good,None,0.02,None,Above $50K,Low
+56+,Employed,Pay debts,High School,Poor,Low,0.0,Adequate,$0 to $15K,Low
+46-55,Employed,Buy a house,Graduate,Good,Low,0.09,Adequate,$15K to $35K,Low
+26-35,Unemployed,Pay debts,Postgraduate,Unknown,High,0.0,Adequate,$0 to $15K,High
+46-55,Employed,Invest in business,Graduate,Poor,None,0.03,None,Above $50K,Low
+56+,Employed,Invest in business,High School,Poor,High,0.03,Adequate,Above $50K,Moderate
+46-55,Unemployed,Pay debts,Postgraduate,Poor,None,0.01,Adequate,Above $50K,Low
+46-55,Employed,Pay debts,High School,Unknown,None,0.0,Adequate,Above $50K,Low
+46-55,Employed,Invest in business,High School,Poor,None,0.01,Adequate,Above $50K,Low
+56+,Employed,Buy a house,Postgraduate,Good,High,0.0,None,$0 to $15K,High
+36-45,Unemployed,Buy a house,Postgraduate,Poor,None,0.02,Adequate,Above $50K,Low
+56+,Employed,Pay debts,Postgraduate,Good,High,0.0,None,$35K to $50K,High
+46-55,Unemployed,Pay debts,Postgraduate,Unknown,None,0.01,None,$15K to $35K,Low
+26-35,Self-Employed,Pay debts,Postgraduate,Poor,None,0.04,Adequate,$35K to $50K,Low
+26-35,Employed,Invest in business,High School,Unknown,Low,0.03,None,$15K to $35K,Moderate
+46-55,Unemployed,Pay debts,Postgraduate,Unknown,High,0.0,None,$35K to $50K,High
+46-55,Unemployed,Pay debts,Postgraduate,Good,Low,0.0,None,$0 to $15K,Moderate
+36-45,Unemployed,Pay debts,Postgraduate,Poor,None,0.03,Adequate,$35K to $50K,Low
+56+,Employed,Buy a house,Postgraduate,Unknown,None,0.0,None,Above $50K,Low
+18-25,Unemployed,Buy a house,Graduate,Unknown,Low,0.01,Adequate,$35K to $50K,Moderate
+36-45,Unemployed,Buy a house,Postgraduate,Poor,None,0.0,Adequate,$35K to $50K,Low
+56+,Employed,Invest in business,High School,Poor,None,0.03,Adequate,Above $50K,Low
+36-45,Employed,Invest in business,Graduate,Poor,High,0.0,None,$0 to $15K,Moderate
+56+,Employed,Buy a house,Graduate,Poor,None,0.0,Adequate,$0 to $15K,Low
+56+,Employed,Invest in business,Graduate,Good,High,0.0,None,$0 to $15K,High
+36-45,Unemployed,Buy a house,Graduate,Good,High,0.01,Adequate,$35K to $50K,Moderate
+18-25,Employed,Buy a house,Postgraduate,Poor,Low,0.0,None,$0 to $15K,Low
+18-25,Self-Employed,Pay debts,Postgraduate,Unknown,None,0.0,Adequate,$35K to $50K,Low
+18-25,Employed,Buy a house,Postgraduate,Poor,None,0.0,Adequate,$35K to $50K,Low
+26-35,Employed,Buy a house,Postgraduate,Good,Low,0.03,None,$35K to $50K,Low
+26-35,Self-Employed,Invest in business,Graduate,Good,None,0.08,None,$15K to $35K,Low
+18-25,Self-Employed,Pay debts,High School,Unknown,None,0.0,None,$35K to $50K,Low
+26-35,Unemployed,Invest in business,Graduate,Good,Low,0.02,Adequate,$35K to $50K,Low
+46-55,Unemployed,Invest in business,Graduate,Good,High,0.01,Adequate,$15K to $35K,Moderate
+18-25,Unemployed,Pay debts,Postgraduate,Good,None,0.01,None,$35K to $50K,Low
+18-25,Self-Employed,Buy a house,Graduate,Unknown,None,0.01,Adequate,$15K to $35K,Low
+36-45,Employed,Pay debts,High School,Unknown,None,0.0,None,$0 to $15K,Low
+36-45,Employed,Invest in business,High School,Unknown,Low,0.0,None,$0 to $15K,Moderate
+36-45,Unemployed,Pay debts,High School,Poor,Low,0.02,None,$35K to $50K,Moderate
+56+,Employed,Pay debts,Postgraduate,Poor,Low,0.07,Adequate,$15K to $35K,Moderate
+46-55,Employed,Pay debts,Postgraduate,Good,Low,0.07,Adequate,$15K to $35K,Low
+56+,Employed,Pay debts,High School,Poor,None,0.01,Adequate,$35K to $50K,Low
+36-45,Employed,Buy a house,Graduate,Good,None,0.08,Adequate,$15K to $35K,Low
+36-45,Employed,Buy a house,Graduate,Poor,None,0.0,Adequate,$0 to $15K,Low
+18-25,Unemployed,Invest in business,Graduate,Unknown,None,0.01,Adequate,$35K to $50K,Low
+46-55,Unemployed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Low
+46-55,Unemployed,Buy a house,Graduate,Unknown,None,0.05,Adequate,$35K to $50K,Low
+56+,Employed,Buy a house,Graduate,Unknown,Low,0.0,None,$0 to $15K,Moderate
+56+,Employed,Invest in business,Graduate,Good,None,0.0,Adequate,$15K to $35K,Moderate
+26-35,Self-Employed,Pay debts,Postgraduate,Unknown,Low,0.01,Adequate,Above $50K,Low
+46-55,Employed,Pay debts,High School,Good,Low,0.08,None,$15K to $35K,Low
+56+,Employed,Buy a house,Postgraduate,Poor,High,0.07,Adequate,$15K to $35K,High
+56+,Employed,Buy a house,Graduate,Good,Low,0.0,None,$0 to $15K,Low
+18-25,Self-Employed,Buy a house,Postgraduate,Poor,High,0.0,Adequate,$0 to $15K,High
+26-35,Employed,Pay debts,Postgraduate,Poor,None,0.01,None,Above $50K,Low
+26-35,Self-Employed,Invest in business,High School,Good,High,0.01,None,$15K to $35K,High
+46-55,Employed,Pay debts,Postgraduate,Good,High,0.09,Adequate,$15K to $35K,Moderate
+26-35,Unemployed,Pay debts,Postgraduate,Poor,None,0.02,Adequate,$35K to $50K,Low
+46-55,Employed,Invest in business,High School,Poor,High,0.0,Adequate,$0 to $15K,Moderate
+18-25,Unemployed,Pay debts,High School,Good,High,0.05,Adequate,$35K to $50K,Moderate
+26-35,Self-Employed,Buy a house,Postgraduate,Unknown,None,0.01,Adequate,$35K to $50K,Low
+36-45,Employed,Invest in business,High School,Good,None,0.03,Adequate,Above $50K,Moderate
+18-25,Unemployed,Invest in business,High School,Good,None,0.0,None,$0 to $15K,Low
+46-55,Unemployed,Pay debts,High School,Good,Low,0.0,None,$0 to $15K,Low
+18-25,Employed,Buy a house,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
+36-45,Unemployed,Buy a house,Postgraduate,Unknown,None,0.05,None,$35K to $50K,Low
+18-25,Employed,Buy a house,Postgraduate,Poor,None,0.01,Adequate,Above $50K,Low
+46-55,Employed,Pay debts,Postgraduate,Poor,Low,0.0,None,$0 to $15K,Low
+36-45,Unemployed,Pay debts,High School,Unknown,Low,0.03,Adequate,$35K to $50K,Moderate
+46-55,Employed,Pay debts,Postgraduate,Unknown,High,0.07,Adequate,$15K to $35K,High
+26-35,Unemployed,Buy a house,Postgraduate,Good,None,0.02,Adequate,Above $50K,Moderate
+36-45,Unemployed,Buy a house,Graduate,Poor,Low,0.0,None,$0 to $15K,Moderate
+18-25,Employed,Invest in business,High School,Good,Low,0.03,Adequate,$15K to $35K,Low
+26-35,Self-Employed,Invest in business,Graduate,Good,Low,0.02,Adequate,$35K to $50K,Low
+18-25,Unemployed,Buy a house,Graduate,Good,None,0.02,None,Above $50K,Low
+18-25,Employed,Buy a house,Postgraduate,Unknown,High,0.06,Adequate,$15K to $35K,Moderate
+46-55,Employed,Pay debts,High School,Poor,Low,0.0,None,$0 to $15K,Moderate
+46-55,Employed,Buy a house,Graduate,Poor,None,0.02,None,Above $50K,Low
+46-55,Employed,Buy a house,Postgraduate,Good,High,0.01,Adequate,Above $50K,Low
+18-25,Self-Employed,Invest in business,High School,Unknown,Low,0.02,Adequate,$15K to $35K,Low
+18-25,Self-Employed,Pay debts,High School,Poor,Low,0.0,None,$35K to $50K,Moderate
+46-55,Unemployed,Buy a house,Graduate,Poor,None,0.01,None,Above $50K,Low
+26-35,Self-Employed,Pay debts,Postgraduate,Good,Low,0.05,Adequate,$15K to $35K,Low
+46-55,Employed,Pay debts,High School,Poor,Low,0.07,Adequate,$15K to $35K,Moderate
 56+,Employed,Invest in business,High School,Good,High,0.0,None,$0 to $15K,Moderate
+46-55,Employed,Invest in business,Graduate,Unknown,Low,0.1,None,$15K to $35K,Low
+18-25,Unemployed,Buy a house,Postgraduate,Unknown,High,0.1,Adequate,$15K to $35K,Moderate
+18-25,Employed,Invest in business,High School,Unknown,None,0.06,Adequate,$15K to $35K,Low
+36-45,Unemployed,Buy a house,Graduate,Poor,None,0.01,Adequate,$15K to $35K,Low
+56+,Employed,Invest in business,High School,Poor,High,0.0,None,$0 to $15K,High
+26-35,Self-Employed,Buy a house,Postgraduate,Good,High,0.0,Adequate,$0 to $15K,Low
+18-25,Employed,Buy a house,Postgraduate,Unknown,Low,0.0,Adequate,$0 to $15K,Low
+26-35,Unemployed,Pay debts,Postgraduate,Unknown,None,0.01,Adequate,Above $50K,Low
+56+,Employed,Pay debts,High School,Good,None,0.03,Adequate,$35K to $50K,Low
+46-55,Unemployed,Buy a house,Graduate,Unknown,High,0.01,Adequate,Above $50K,Moderate
+36-45,Employed,Invest in business,High School,Unknown,Low,0.0,None,$35K to $50K,Low
+46-55,Employed,Pay debts,High School,Unknown,High,0.0,Adequate,$0 to $15K,High
+26-35,Employed,Buy a house,Graduate,Poor,None,0.03,None,Above $50K,Low
+56+,Employed,Buy a house,Graduate,Good,None,0.0,Adequate,Above $50K,Moderate
+36-45,Unemployed,Pay debts,Postgraduate,Good,High,0.0,None,$0 to $15K,High
+46-55,Unemployed,Invest in business,High School,Unknown,None,0.05,Adequate,$35K to $50K,Low
+18-25,Employed,Buy a house,Graduate,Poor,None,0.06,Adequate,$15K to $35K,Low
+26-35,Employed,Pay debts,Postgraduate,Good,High,0.0,Adequate,$0 to $15K,Moderate
+46-55,Employed,Invest in business,High School,Good,None,0.01,None,$15K to $35K,Low
+36-45,Unemployed,Pay debts,High School,Poor,High,0.01,None,Above $50K,High
+18-25,Employed,Invest in business,Graduate,Unknown,Low,0.02,Adequate,$15K to $35K,Moderate
+46-55,Employed,Buy a house,Graduate,Good,Low,0.0,Adequate,$35K to $50K,Low
+26-35,Self-Employed,Invest in business,High School,Good,None,0.0,Adequate,$0 to $15K,Moderate
+36-45,Unemployed,Invest in business,Graduate,Poor,None,0.04,None,$15K to $35K,Low
+18-25,Self-Employed,Pay debts,High School,Unknown,Low,0.0,None,$0 to $15K,Moderate
+56+,Employed,Buy a house,Postgraduate,Unknown,None,0.02,Adequate,$35K to $50K,Low
+26-35,Employed,Pay debts,Postgraduate,Unknown,High,0.03,None,$15K to $35K,High
+26-35,Employed,Buy a house,Graduate,Good,Low,0.1,Adequate,$15K to $35K,Low
+26-35,Unemployed,Pay debts,High School,Poor,Low,0.0,None,$0 to $15K,Low
+56+,Employed,Invest in business,Graduate,Good,Low,0.0,Adequate,$0 to $15K,Low
+46-55,Unemployed,Pay debts,High School,Good,None,0.02,None,Above $50K,Low
+56+,Employed,Invest in business,Graduate,Poor,Low,0.1,Adequate,$15K to $35K,Low
+18-25,Self-Employed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Low
+56+,Employed,Pay debts,High School,Good,Low,0.08,Adequate,$15K to $35K,Low
+46-55,Employed,Pay debts,Postgraduate,Good,Low,0.0,Adequate,$0 to $15K,Low
+56+,Employed,Pay debts,High School,Unknown,High,0.0,None,$0 to $15K,High
+18-25,Unemployed,Buy a house,Graduate,Unknown,None,0.09,None,$15K to $35K,Low
+36-45,Unemployed,Pay debts,High School,Unknown,High,0.07,Adequate,$15K to $35K,High
+46-55,Unemployed,Buy a house,Postgraduate,Unknown,None,0.02,None,$35K to $50K,Low
+18-25,Employed,Pay debts,Postgraduate,Good,None,0.05,Adequate,$35K to $50K,Low
+18-25,Employed,Pay debts,High School,Unknown,High,0.0,None,$0 to $15K,High
+46-55,Unemployed,Pay debts,Postgraduate,Good,Low,0.03,None,$35K to $50K,Moderate
+56+,Employed,Buy a house,Postgraduate,Good,Low,0.02,Adequate,Above $50K,Low
+18-25,Employed,Buy a house,Postgraduate,Poor,Low,0.0,Adequate,$0 to $15K,Moderate
+26-35,Unemployed,Invest in business,High School,Good,None,0.09,Adequate,$15K to $35K,Moderate
+36-45,Employed,Invest in business,High School,Poor,None,0.02,Adequate,Above $50K,Low
+46-55,Employed,Invest in business,High School,Poor,None,0.0,Adequate,$0 to $15K,Low
+36-45,Unemployed,Buy a house,Postgraduate,Poor,Low,0.02,Adequate,Above $50K,Moderate
+18-25,Unemployed,Pay debts,High School,Unknown,High,0.07,None,$15K to $35K,High
+36-45,Unemployed,Pay debts,Postgraduate,Good,Low,0.03,None,$35K to $50K,Moderate
+46-55,Employed,Invest in business,Graduate,Poor,High,0.04,Adequate,$15K to $35K,Moderate
+18-25,Employed,Pay debts,Postgraduate,Poor,Low,0.05,Adequate,$15K to $35K,Low
+56+,Employed,Invest in business,Graduate,Unknown,None,0.02,Adequate,Above $50K,Low
+26-35,Employed,Pay debts,High School,Unknown,None,0.03,None,Above $50K,Low
+56+,Employed,Buy a house,Graduate,Poor,None,0.0,Adequate,Above $50K,Low
+36-45,Employed,Pay debts,Postgraduate,Unknown,None,0.01,None,Above $50K,Low
+36-45,Unemployed,Buy a house,Graduate,Unknown,None,0.01,Adequate,$15K to $35K,Low
+46-55,Unemployed,Buy a house,Postgraduate,Unknown,Low,0.0,None,$0 to $15K,Low
+56+,Employed,Pay debts,High School,Good,High,0.0,Adequate,$0 to $15K,Low
+18-25,Self-Employed,Pay debts,High School,Unknown,Low,0.05,None,$15K to $35K,Moderate
+26-35,Unemployed,Invest in business,Graduate,Good,None,0.0,None,$0 to $15K,Low
+26-35,Employed,Buy a house,Graduate,Poor,Low,0.03,None,$15K to $35K,Low
+26-35,Employed,Buy a house,Postgraduate,Poor,High,0.05,Adequate,$15K to $35K,High
+46-55,Unemployed,Buy a house,Graduate,Poor,High,0.0,None,$0 to $15K,High
+46-55,Employed,Buy a house,Graduate,Poor,None,0.03,None,Above $50K,Low
+26-35,Employed,Invest in business,Graduate,Good,None,0.04,Adequate,$15K to $35K,Moderate
+36-45,Employed,Buy a house,Postgraduate,Unknown,Low,0.08,Adequate,$15K to $35K,Moderate
+46-55,Employed,Buy a house,Postgraduate,Unknown,Low,0.02,Adequate,$35K to $50K,Moderate
+36-45,Employed,Invest in business,High School,Good,High,0.04,Adequate,$15K to $35K,Low
+26-35,Employed,Invest in business,Graduate,Good,Low,0.02,Adequate,$15K to $35K,Low
+36-45,Employed,Pay debts,Postgraduate,Good,None,0.03,Adequate,Above $50K,Low
+26-35,Unemployed,Invest in business,Graduate,Poor,High,0.01,Adequate,Above $50K,High
+46-55,Unemployed,Buy a house,Graduate,Poor,None,0.03,None,Above $50K,Low
+36-45,Employed,Pay debts,Postgraduate,Good,None,0.0,None,$0 to $15K,Low
+26-35,Employed,Pay debts,High School,Good,None,0.01,None,$35K to $50K,Low
+36-45,Unemployed,Buy a house,Graduate,Poor,High,0.02,None,$15K to $35K,Moderate
+46-55,Employed,Pay debts,High School,Good,None,0.07,Adequate,$15K to $35K,Low
+46-55,Employed,Buy a house,Graduate,Poor,High,0.0,Adequate,$0 to $15K,High
+36-45,Unemployed,Pay debts,High School,Unknown,Low,0.02,Adequate,$35K to $50K,Low
+18-25,Employed,Pay debts,High School,Good,Low,0.0,Adequate,$0 to $15K,Low
+26-35,Self-Employed,Invest in business,High School,Good,Low,0.0,None,$0 to $15K,Low
+18-25,Self-Employed,Invest in business,Graduate,Poor,High,0.04,None,$35K to $50K,High
+56+,Employed,Invest in business,Graduate,Unknown,Low,0.02,None,$35K to $50K,Moderate
+56+,Employed,Pay debts,High School,Good,Low,0.04,None,$35K to $50K,Low
+36-45,Unemployed,Pay debts,High School,Good,Low,0.0,None,$0 to $15K,Low
+46-55,Unemployed,Invest in business,High School,Poor,High,0.0,Adequate,$0 to $15K,High
+46-55,Unemployed,Pay debts,High School,Good,None,0.02,None,Above $50K,Low
+56+,Employed,Invest in business,Graduate,Poor,None,0.01,Adequate,$35K to $50K,Low
+26-35,Employed,Invest in business,Graduate,Good,Low,0.0,Adequate,$15K to $35K,Low
+26-35,Self-Employed,Invest in business,High School,Good,Low,0.0,Adequate,$0 to $15K,Low
+26-35,Self-Employed,Invest in business,High School,Unknown,High,0.01,None,Above $50K,High
+36-45,Unemployed,Buy a house,Graduate,Poor,Low,0.01,Adequate,$15K to $35K,Moderate
+46-55,Employed,Pay debts,Postgraduate,Good,Low,0.02,Adequate,$35K to $50K,Low
+56+,Employed,Invest in business,Graduate,Unknown,Low,0.0,Adequate,$35K to $50K,Low
+18-25,Employed,Buy a house,Postgraduate,Good,High,0.03,Adequate,$15K to $35K,Moderate
+26-35,Employed,Invest in business,Graduate,Good,Low,0.03,Adequate,Above $50K,Low
+18-25,Self-Employed,Invest in business,Graduate,Unknown,None,0.02,Adequate,Above $50K,Low
+36-45,Unemployed,Buy a house,Postgraduate,Good,None,0.03,None,Above $50K,Low
+56+,Employed,Buy a house,Graduate,Good,Low,0.0,None,$0 to $15K,Moderate
+26-35,Self-Employed,Pay debts,Postgraduate,Unknown,None,0.02,None,Above $50K,Low
+26-35,Self-Employed,Buy a house,Postgraduate,Poor,Low,0.03,Adequate,$15K to $35K,Low
+36-45,Employed,Pay debts,High School,Poor,Low,0.08,None,$15K to $35K,Moderate
+46-55,Employed,Pay debts,High School,Unknown,Low,0.0,None,$0 to $15K,Low
+26-35,Employed,Invest in business,Graduate,Good,Low,0.0,None,$0 to $15K,Low
+36-45,Unemployed,Buy a house,Graduate,Unknown,None,0.02,Adequate,$35K to $50K,Low
+46-55,Employed,Invest in business,Graduate,Unknown,None,0.03,None,$15K to $35K,Low
+26-35,Self-Employed,Invest in business,High School,Poor,None,0.01,None,$35K to $50K,Low
+56+,Employed,Invest in business,High School,Unknown,High,0.0,Adequate,$15K to $35K,Moderate
+36-45,Unemployed,Invest in business,High School,Good,High,0.0,Adequate,$0 to $15K,Low
+36-45,Employed,Buy a house,Postgraduate,Poor,None,0.0,None,Above $50K,Low
+46-55,Employed,Buy a house,Postgraduate,Poor,None,0.07,None,$15K to $35K,Low
+36-45,Unemployed,Buy a house,Graduate,Good,Low,0.02,Adequate,$35K to $50K,Low
+46-55,Employed,Invest in business,High School,Unknown,None,0.02,None,Above $50K,Low
+56+,Employed,Invest in business,Graduate,Poor,None,0.0,Adequate,Above $50K,Low
+36-45,Unemployed,Buy a house,Graduate,Poor,High,0.0,None,$0 to $15K,Moderate
+18-25,Employed,Pay debts,High School,Unknown,None,0.02,Adequate,Above $50K,Low
+18-25,Employed,Pay debts,High School,Poor,High,0.0,Adequate,$0 to $15K,High
+36-45,Employed,Buy a house,Postgraduate,Poor,High,0.07,None,$15K to $35K,High
+26-35,Self-Employed,Invest in business,Graduate,Good,High,0.0,None,$0 to $15K,Moderate
+36-45,Employed,Buy a house,Graduate,Good,None,0.0,Adequate,$0 to $15K,Moderate
+26-35,Self-Employed,Invest in business,High School,Unknown,None,0.0,None,Above $50K,Low
+46-55,Unemployed,Buy a house,Graduate,Unknown,None,0.04,Adequate,$35K to $50K,Low
+36-45,Employed,Pay debts,Postgraduate,Unknown,None,0.1,None,$15K to $35K,Low
+26-35,Unemployed,Buy a house,Graduate,Good,Low,0.0,Adequate,$15K to $35K,Low
+36-45,Unemployed,Invest in business,Graduate,Unknown,None,0.03,Adequate,Above $50K,Low
+36-45,Employed,Pay debts,High School,Good,Low,0.03,None,$35K to $50K,Low
+56+,Employed,Invest in business,High School,Unknown,None,0.01,None,$15K to $35K,Low
+36-45,Unemployed,Buy a house,Postgraduate,Unknown,None,0.01,None,Above $50K,Low
+56+,Employed,Buy a house,Graduate,Good,None,0.05,Adequate,$35K to $50K,Low
+36-45,Employed,Pay debts,Postgraduate,Poor,None,0.01,None,Above $50K,Low
+26-35,Employed,Invest in business,Graduate,Good,None,0.02,Adequate,$15K to $35K,Moderate
+56+,Employed,Invest in business,Graduate,Good,Low,0.01,None,$35K to $50K,Moderate
+56+,Employed,Buy a house,Postgraduate,Unknown,Low,0.05,Adequate,$35K to $50K,Moderate
+46-55,Employed,Invest in business,Graduate,Poor,High,0.03,None,$15K to $35K,High
+26-35,Employed,Pay debts,High School,Good,High,0.01,Adequate,$15K to $35K,Moderate
+56+,Employed,Pay debts,Postgraduate,Poor,None,0.04,Adequate,$35K to $50K,Low
+56+,Employed,Buy a house,Postgraduate,Unknown,High,0.0,None,$0 to $15K,High
+36-45,Unemployed,Buy a house,Graduate,Poor,None,0.03,Adequate,Above $50K,Low
+46-55,Unemployed,Pay debts,Postgraduate,Unknown,Low,0.04,Adequate,$15K to $35K,Moderate
+36-45,Employed,Pay debts,High School,Good,Low,0.0,Adequate,$35K to $50K,Low
+56+,Employed,Pay debts,High School,Unknown,Low,0.0,Adequate,$0 to $15K,Low
+56+,Employed,Pay debts,High School,Unknown,Low,0.05,Adequate,$15K to $35K,Moderate
+56+,Employed,Invest in business,Graduate,Unknown,High,0.03,None,Above $50K,High
+26-35,Employed,Buy a house,Graduate,Unknown,None,0.01,Adequate,$35K to $50K,Low
+36-45,Unemployed,Invest in business,High School,Poor,None,0.0,Adequate,Above $50K,Low
+18-25,Employed,Invest in business,Graduate,Unknown,Low,0.0,None,$15K to $35K,Moderate
+26-35,Self-Employed,Invest in business,Graduate,Good,None,0.0,None,$35K to $50K,Low
+36-45,Employed,Invest in business,Graduate,Unknown,High,0.0,Adequate,$0 to $15K,High
+18-25,Self-Employed,Buy a house,Postgraduate,Good,Low,0.0,Adequate,$0 to $15K,Low
+36-45,Employed,Invest in business,High School,Unknown,None,0.04,None,$35K to $50K,Low
+18-25,Self-Employed,Buy a house,Postgraduate,Good,None,0.01,None,$35K to $50K,Low
+36-45,Employed,Pay debts,High School,Poor,Low,0.09,Adequate,$15K to $35K,Moderate
+56+,Employed,Buy a house,Graduate,Poor,Low,0.0,None,$0 to $15K,Moderate
+46-55,Unemployed,Buy a house,Graduate,Good,Low,0.0,Adequate,$35K to $50K,Low
+46-55,Employed,Pay debts,High School,Poor,None,0.02,None,Above $50K,Low
+46-55,Employed,Buy a house,Postgraduate,Poor,None,0.06,Adequate,$15K to $35K,Low
+26-35,Employed,Pay debts,High School,Good,Low,0.01,None,$35K to $50K,Low
+26-35,Self-Employed,Invest in business,Graduate,Good,Low,0.01,Adequate,$35K to $50K,Low
+18-25,Unemployed,Buy a house,Postgraduate,Poor,None,0.0,None,$35K to $50K,Low
+46-55,Employed,Buy a house,Graduate,Good,High,0.07,Adequate,$15K to $35K,Low
+36-45,Unemployed,Pay debts,Postgraduate,Poor,None,0.02,Adequate,$35K to $50K,Low
+36-45,Employed,Pay debts,Postgraduate,Poor,High,0.0,None,$0 to $15K,High
+46-55,Unemployed,Pay debts,Postgraduate,Unknown,None,0.02,Adequate,Above $50K,Low
+46-55,Employed,Invest in business,Graduate,Poor,High,0.0,Adequate,$0 to $15K,High
+26-35,Employed,Pay debts,Postgraduate,Unknown,Low,0.0,Adequate,$0 to $15K,Low
+56+,Employed,Invest in business,High School,Good,High,0.02,Adequate,Above $50K,Low
+26-35,Employed,Buy a house,Postgraduate,Poor,None,0.01,None,Above $50K,Low
+36-45,Employed,Buy a house,Graduate,Poor,None,0.01,Adequate,Above $50K,Low
+36-45,Employed,Invest in business,High School,Good,None,0.03,Adequate,Above $50K,Moderate
+36-45,Employed,Pay debts,Postgraduate,Unknown,Low,0.01,None,Above $50K,Moderate
+18-25,Unemployed,Pay debts,High School,Unknown,High,0.05,None,$15K to $35K,High
+36-45,Employed,Pay debts,High School,Unknown,None,0.02,None,Above $50K,Low
+18-25,Self-Employed,Pay debts,High School,Unknown,Low,0.09,None,$15K to $35K,Moderate
+26-35,Self-Employed,Buy a house,Graduate,Unknown,None,0.01,None,$35K to $50K,Low
+46-55,Employed,Pay debts,High School,Unknown,Low,0.0,None,$0 to $15K,Low
+18-25,Self-Employed,Pay debts,Postgraduate,Good,Low,0.05,None,$15K to $35K,Moderate
+56+,Employed,Pay debts,High School,Unknown,Low,0.03,None,$15K to $35K,Moderate
+26-35,Unemployed,Pay debts,Postgraduate,Good,Low,0.02,Adequate,Above $50K,Low
+36-45,Unemployed,Invest in business,Graduate,Poor,None,0.07,None,$15K to $35K,Low
+26-35,Employed,Invest in business,High School,Unknown,None,0.03,None,Above $50K,Low
