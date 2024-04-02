@@ -5,7 +5,7 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 
 # Load the pkl model
-model = joblib.load("model/rf_credit_risk_model.pkl")
+model = joblib.load("rf_credit_risk_model.pkl")
 
 
 # Function to query the model
